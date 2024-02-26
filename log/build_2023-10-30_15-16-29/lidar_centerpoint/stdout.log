@@ -1,0 +1,6 @@
+[  8%] Built target single_inference_lidar_centerpoint_node
+[ 17%] Built target lidar_centerpoint_node
+[ 39%] Built target centerpoint_cuda_lib
+[ 82%] Built target centerpoint_lib
+[ 91%] Built target lidar_centerpoint_component
+[100%] Built target single_inference_lidar_centerpoint_component

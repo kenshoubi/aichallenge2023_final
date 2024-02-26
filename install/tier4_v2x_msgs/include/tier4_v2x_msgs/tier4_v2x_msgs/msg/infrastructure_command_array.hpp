@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/tier4_v2x_msgs/rosidl_generator_cpp/tier4_v2x_msgs/msg/infrastructure_command_array.hpp

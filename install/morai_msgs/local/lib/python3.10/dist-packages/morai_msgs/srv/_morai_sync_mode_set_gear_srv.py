@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/morai_msgs/rosidl_generator_py/morai_msgs/srv/_morai_sync_mode_set_gear_srv.py

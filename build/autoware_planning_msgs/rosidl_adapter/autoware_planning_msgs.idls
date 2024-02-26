@@ -1,0 +1,5 @@
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_planning_msgs/rosidl_adapter/autoware_planning_msgs:msg/LaneletPrimitive.idl
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_planning_msgs/rosidl_adapter/autoware_planning_msgs:msg/LaneletRoute.idl
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_planning_msgs/rosidl_adapter/autoware_planning_msgs:msg/LaneletSegment.idl
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_planning_msgs/rosidl_adapter/autoware_planning_msgs:msg/PoseWithUuidStamped.idl
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_planning_msgs/rosidl_adapter/autoware_planning_msgs:srv/SetRoute.idl

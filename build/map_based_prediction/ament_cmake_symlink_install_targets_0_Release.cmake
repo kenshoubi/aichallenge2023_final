@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/map_based_prediction/map_based_prediction" "TARGETS" "map_based_prediction" "DESTINATION" "lib/map_based_prediction")

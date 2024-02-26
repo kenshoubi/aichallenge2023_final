@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/tier4_system_msgs/rosidl_generator_py/tier4_system_msgs/msg/_mrm_behavior_status_s.c

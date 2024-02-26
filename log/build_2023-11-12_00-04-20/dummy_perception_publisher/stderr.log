@@ -1,0 +1,7 @@
+gmake[2]: *** wait: No child processes.  Stop.
+gmake[2]: *** Waiting for unfinished jobs....
+gmake[2]: *** wait: No child processes.  Stop.
+gmake[2]: *** [CMakeFiles/dummy_perception_publisher_node.dir/build.make:76: CMakeFiles/dummy_perception_publisher_node.dir/src/main.cpp.o] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:671: CMakeFiles/empty_objects_publisher.dir/all] Error 2
+gmake[1]: *** [CMakeFiles/Makefile2:645: CMakeFiles/dummy_perception_publisher_node.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt

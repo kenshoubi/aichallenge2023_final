@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_result/scoring_result" "TARGETS" "scoring_result" "DESTINATION" "lib/aichallenge_scoring_result")

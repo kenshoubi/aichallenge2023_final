@@ -1,0 +1,177 @@
+[0.067s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/velodyne_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_msgs -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs
+[2.290s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.290s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.291s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[2.291s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.291s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.291s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.291s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.291s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.291s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[2.291s] -- Found std_msgs: 4.2.3 (/opt/ros/humble/share/std_msgs/cmake)
+[2.291s] -- Found ament_cmake_cppcheck: 0.12.7 (/opt/ros/humble/share/ament_cmake_cppcheck/cmake)
+[2.291s] -- Found ament_cmake_cpplint: 0.12.7 (/opt/ros/humble/share/ament_cmake_cpplint/cmake)
+[2.291s] -- Found ament_cmake_uncrustify: 0.12.7 (/opt/ros/humble/share/ament_cmake_uncrustify/cmake)
+[2.291s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.291s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.291s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.291s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.291s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.291s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.292s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.561s] -- Found ament_cmake_flake8: 0.12.7 (/opt/ros/humble/share/ament_cmake_flake8/cmake)
+[2.561s] -- Found ament_cmake_pep257: 0.12.7 (/opt/ros/humble/share/ament_cmake_pep257/cmake)
+[2.561s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.570s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.570s] -- Added test 'lint_cmake' to check CMake code style
+[2.570s] -- Added test 'xmllint' to check XML markup files
+[2.573s] -- Configuring done
+[2.610s] -- Generating done
+[2.613s] -- Build files have been written to: /home/autoware/aichallenge2023-integration-final-main/build/velodyne_msgs
+[2.669s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/velodyne_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_msgs -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs
+[2.670s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/velodyne_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/velodyne_msgs -- -j16 -l16
+[3.728s] [35m[1mConsolidate compiler generated dependencies of target velodyne_msgs__rosidl_generator_c[0m
+[3.728s] [  2%] Built target velodyne_msgs__cpp
+[3.728s] [35m[1mConsolidate compiler generated dependencies of target velodyne_msgs__rosidl_typesupport_cpp[0m
+[3.728s] [ 12%] Built target velodyne_msgs__rosidl_generator_c
+[3.728s] [35m[1mConsolidate compiler generated dependencies of target velodyne_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[3.728s] [ 12%] Built target ament_cmake_python_symlink_velodyne_msgs
+[3.729s] [35m[1mConsolidate compiler generated dependencies of target velodyne_msgs__rosidl_typesupport_introspection_cpp[0m
+[3.729s] [35m[1mConsolidate compiler generated dependencies of target velodyne_msgs__rosidl_typesupport_fastrtps_c[0m
+[3.729s] [ 23%] Built target velodyne_msgs__rosidl_typesupport_cpp
+[3.729s] [35m[1mConsolidate compiler generated dependencies of target velodyne_msgs__rosidl_typesupport_introspection_c[0m
+[3.729s] [ 33%] Built target velodyne_msgs__rosidl_typesupport_fastrtps_cpp
+[3.729s] [35m[1mConsolidate compiler generated dependencies of target velodyne_msgs__rosidl_typesupport_c[0m
+[3.729s] [ 43%] Built target velodyne_msgs__rosidl_typesupport_introspection_cpp
+[3.729s] [ 53%] Built target velodyne_msgs__rosidl_typesupport_fastrtps_c
+[3.729s] [ 64%] Built target velodyne_msgs__rosidl_typesupport_introspection_c
+[3.729s] [ 74%] Built target velodyne_msgs__rosidl_typesupport_c
+[3.735s] [ 74%] Built target velodyne_msgs
+[3.912s] [ 76%] Built target velodyne_msgs__py
+[3.990s] [35m[1mConsolidate compiler generated dependencies of target velodyne_msgs__rosidl_generator_py[0m
+[4.046s] [ 84%] Built target velodyne_msgs__rosidl_generator_py
+[4.137s] [35m[1mConsolidate compiler generated dependencies of target velodyne_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[4.155s] running egg_info
+[4.158s] writing velodyne_msgs.egg-info/PKG-INFO
+[4.158s] writing dependency_links to velodyne_msgs.egg-info/dependency_links.txt
+[4.158s] writing top-level names to velodyne_msgs.egg-info/top_level.txt
+[4.158s] [35m[1mConsolidate compiler generated dependencies of target velodyne_msgs__rosidl_typesupport_c__pyext[0m
+[4.171s] [35m[1mConsolidate compiler generated dependencies of target velodyne_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[4.191s] reading manifest file 'velodyne_msgs.egg-info/SOURCES.txt'
+[4.192s] writing manifest file 'velodyne_msgs.egg-info/SOURCES.txt'
+[4.293s] [ 89%] Built target velodyne_msgs__rosidl_typesupport_fastrtps_c__pyext
+[4.304s] [ 89%] Built target ament_cmake_python_build_velodyne_msgs_egg
+[4.313s] [ 94%] Built target velodyne_msgs__rosidl_typesupport_c__pyext
+[4.316s] [100%] Built target velodyne_msgs__rosidl_typesupport_introspection_c__pyext
+[4.417s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/velodyne_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/velodyne_msgs -- -j16 -l16
+[5.705s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/velodyne_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/velodyne_msgs
+[5.736s] -- Install configuration: "Release"
+[5.737s] -- Execute custom install script
+[5.737s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/ament_index/resource_index/rosidl_interfaces/velodyne_msgs
+[5.737s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_packet__functions.h
+[5.738s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_packet__struct.h
+[5.738s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_packet__type_support.h
+[5.738s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_scan__functions.h
+[5.738s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_scan__struct.h
+[5.738s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_scan__type_support.h
+[5.739s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/rosidl_generator_c__visibility_control.h
+[5.739s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/velodyne_packet.h
+[5.739s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/velodyne_scan.h
+[5.739s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/environment/library_path.sh
+[5.739s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/environment/library_path.dsv
+[5.740s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_packet__rosidl_typesupport_fastrtps_c.h
+[5.740s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_scan__rosidl_typesupport_fastrtps_c.h
+[5.740s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[5.740s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_packet__builder.hpp
+[5.741s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_packet__struct.hpp
+[5.741s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_packet__traits.hpp
+[5.741s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_scan__builder.hpp
+[5.741s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_scan__struct.hpp
+[5.741s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_scan__traits.hpp
+[5.741s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/velodyne_packet.hpp
+[5.741s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/velodyne_scan.hpp
+[5.742s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_packet__rosidl_typesupport_fastrtps_cpp.hpp
+[5.742s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_scan__rosidl_typesupport_fastrtps_cpp.hpp
+[5.743s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[5.743s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_packet__rosidl_typesupport_introspection_c.h
+[5.745s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_scan__rosidl_typesupport_introspection_c.h
+[5.745s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[5.745s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_packet__rosidl_typesupport_introspection_cpp.hpp
+[5.745s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/include/velodyne_msgs/velodyne_msgs/msg/detail/velodyne_scan__rosidl_typesupport_introspection_cpp.hpp
+[5.745s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/environment/pythonpath.sh
+[5.745s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/environment/pythonpath.dsv
+[5.745s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs-2.1.0-py3.10.egg-info/PKG-INFO
+[5.745s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs-2.1.0-py3.10.egg-info/SOURCES.txt
+[5.745s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs-2.1.0-py3.10.egg-info/dependency_links.txt
+[5.746s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs-2.1.0-py3.10.egg-info/top_level.txt
+[5.746s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/__init__.py
+[5.746s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/_velodyne_msgs_s.ep.rosidl_typesupport_c.c
+[5.746s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/_velodyne_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[5.746s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/_velodyne_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[5.746s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/libvelodyne_msgs__rosidl_generator_py.so
+[5.746s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/msg/__init__.py
+[5.746s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/msg/_velodyne_packet.py
+[5.746s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/msg/_velodyne_packet_s.c
+[5.746s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/msg/_velodyne_scan.py
+[5.746s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/msg/_velodyne_scan_s.c
+[5.746s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/velodyne_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[5.747s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/velodyne_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[5.747s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/velodyne_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[5.748s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/velodyne_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[5.748s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/velodyne_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[5.748s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/velodyne_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[5.748s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/msg/VelodynePacket.idl
+[5.748s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/msg/VelodyneScan.idl
+[5.748s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/msg/VelodynePacket.msg
+[5.748s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/msg/VelodyneScan.msg
+[5.748s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/ament_index/resource_index/package_run_dependencies/velodyne_msgs
+[5.748s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/ament_index/resource_index/parent_prefix_path/velodyne_msgs
+[5.750s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/environment/ament_prefix_path.sh
+[5.750s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/environment/ament_prefix_path.dsv
+[5.750s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/environment/path.sh
+[5.751s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/environment/path.dsv
+[5.751s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/local_setup.bash
+[5.751s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/local_setup.sh
+[5.751s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/local_setup.zsh
+[5.752s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/local_setup.dsv
+[5.752s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/package.dsv
+[5.788s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/ament_index/resource_index/packages/velodyne_msgs
+[5.788s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/rosidl_cmake-extras.cmake
+[5.788s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.788s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[5.788s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[5.788s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[5.789s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[5.789s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[5.789s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/velodyne_msgsConfig.cmake
+[5.789s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/velodyne_msgsConfig-version.cmake
+[5.789s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/package.xml
+[5.789s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/lib/libvelodyne_msgs__rosidl_generator_c.so
+[5.790s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/lib/libvelodyne_msgs__rosidl_typesupport_fastrtps_c.so
+[5.790s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/lib/libvelodyne_msgs__rosidl_typesupport_fastrtps_cpp.so
+[5.790s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/lib/libvelodyne_msgs__rosidl_typesupport_introspection_c.so
+[5.790s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/lib/libvelodyne_msgs__rosidl_typesupport_c.so
+[5.790s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/lib/libvelodyne_msgs__rosidl_typesupport_introspection_cpp.so
+[5.791s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/lib/libvelodyne_msgs__rosidl_typesupport_cpp.so
+[5.877s] Listing '/home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs'...
+[5.877s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/__init__.py'...
+[5.877s] Listing '/home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/local/lib/python3.10/dist-packages/velodyne_msgs/msg'...
+[5.883s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/lib/libvelodyne_msgs__rosidl_generator_py.so
+[5.883s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/export_velodyne_msgs__rosidl_generator_cExport.cmake
+[5.887s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/export_velodyne_msgs__rosidl_generator_cExport-release.cmake
+[5.887s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/export_velodyne_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[5.888s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/export_velodyne_msgs__rosidl_typesupport_fastrtps_cExport-release.cmake
+[5.888s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/export_velodyne_msgs__rosidl_generator_cppExport.cmake
+[5.888s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/export_velodyne_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[5.888s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/export_velodyne_msgs__rosidl_typesupport_fastrtps_cppExport-release.cmake
+[5.888s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/velodyne_msgs__rosidl_typesupport_introspection_cExport.cmake
+[5.888s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/velodyne_msgs__rosidl_typesupport_introspection_cExport-release.cmake
+[5.889s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/velodyne_msgs__rosidl_typesupport_cExport.cmake
+[5.889s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/velodyne_msgs__rosidl_typesupport_cExport-release.cmake
+[5.889s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/velodyne_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[5.889s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/velodyne_msgs__rosidl_typesupport_introspection_cppExport-release.cmake
+[5.889s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/velodyne_msgs__rosidl_typesupport_cppExport.cmake
+[5.890s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/velodyne_msgs__rosidl_typesupport_cppExport-release.cmake
+[5.890s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/export_velodyne_msgs__rosidl_generator_pyExport.cmake
+[5.890s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/cmake/export_velodyne_msgs__rosidl_generator_pyExport-release.cmake
+[5.900s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/velodyne_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/velodyne_msgs

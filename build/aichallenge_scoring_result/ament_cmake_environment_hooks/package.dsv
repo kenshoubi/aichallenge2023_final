@@ -1,0 +1,4 @@
+source;share/aichallenge_scoring_result/local_setup.bash
+source;share/aichallenge_scoring_result/local_setup.dsv
+source;share/aichallenge_scoring_result/local_setup.sh
+source;share/aichallenge_scoring_result/local_setup.zsh

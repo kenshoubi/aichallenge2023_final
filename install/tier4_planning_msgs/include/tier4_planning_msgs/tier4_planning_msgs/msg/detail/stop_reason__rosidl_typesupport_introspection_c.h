@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/tier4_planning_msgs/rosidl_typesupport_introspection_c/tier4_planning_msgs/msg/detail/stop_reason__rosidl_typesupport_introspection_c.h

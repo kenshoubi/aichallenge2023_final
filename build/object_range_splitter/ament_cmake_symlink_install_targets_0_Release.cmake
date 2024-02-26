@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/object_range_splitter/object_range_splitter_node" "TARGETS" "object_range_splitter_node" "DESTINATION" "lib/object_range_splitter")

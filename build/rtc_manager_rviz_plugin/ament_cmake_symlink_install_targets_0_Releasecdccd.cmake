@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/rtc_manager_rviz_plugin/librtc_manager_rviz_plugin.so" "TARGETS" "rtc_manager_rviz_plugin" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

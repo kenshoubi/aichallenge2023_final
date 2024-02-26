@@ -1,0 +1,38 @@
+[0.118s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/velodyne_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/velodyne_description -- -j16 -l16
+[0.379s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/velodyne_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/velodyne_description -- -j16 -l16
+[0.770s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/velodyne_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/velodyne_description
+[0.853s] -- Install configuration: "Release"
+[0.863s] -- Execute custom install script
+[0.865s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/launch/example.launch.py
+[0.865s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/meshes/HDL32E_base.dae
+[0.865s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/meshes/HDL32E_base.stl
+[0.865s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/meshes/HDL32E_scan.dae
+[0.865s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/meshes/HDL32E_scan.stl
+[0.865s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/meshes/VLP16_base_1.dae
+[0.865s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/meshes/VLP16_base_1.stl
+[0.865s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/meshes/VLP16_base_2.dae
+[0.865s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/meshes/VLP16_base_2.stl
+[0.866s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/meshes/VLP16_scan.dae
+[0.866s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/meshes/VLP16_scan.stl
+[0.866s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/rviz/example.rviz
+[0.866s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/urdf/HDL-32E.urdf.xacro
+[0.866s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/urdf/VLP-16.urdf.xacro
+[0.866s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/urdf/example.urdf.xacro
+[0.866s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/world/example.world
+[0.866s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/environment/velodyne_description.dsv
+[0.866s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/ament_index/resource_index/package_run_dependencies/velodyne_description
+[0.866s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/ament_index/resource_index/parent_prefix_path/velodyne_description
+[0.866s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/environment/ament_prefix_path.sh
+[0.866s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/environment/ament_prefix_path.dsv
+[0.866s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/environment/path.sh
+[0.866s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/environment/path.dsv
+[0.867s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/local_setup.bash
+[0.867s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/local_setup.sh
+[0.867s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/local_setup.zsh
+[0.867s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/local_setup.dsv
+[0.867s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/package.dsv
+[0.963s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/ament_index/resource_index/packages/velodyne_description
+[0.963s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/cmake/velodyne_descriptionConfig.cmake
+[0.967s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/cmake/velodyne_descriptionConfig-version.cmake
+[0.967s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/velodyne_description/share/velodyne_description/package.xml
+[0.989s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/velodyne_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/velodyne_description

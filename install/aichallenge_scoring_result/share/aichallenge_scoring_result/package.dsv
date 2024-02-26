@@ -1,0 +1,8 @@
+source;share/aichallenge_scoring_result/hook/cmake_prefix_path.ps1
+source;share/aichallenge_scoring_result/hook/cmake_prefix_path.dsv
+source;share/aichallenge_scoring_result/hook/cmake_prefix_path.sh
+source;share/aichallenge_scoring_result/local_setup.bash
+source;share/aichallenge_scoring_result/local_setup.dsv
+source;share/aichallenge_scoring_result/local_setup.ps1
+source;share/aichallenge_scoring_result/local_setup.sh
+source;share/aichallenge_scoring_result/local_setup.zsh

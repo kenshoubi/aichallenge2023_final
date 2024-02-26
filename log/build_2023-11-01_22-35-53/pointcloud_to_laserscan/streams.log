@@ -1,0 +1,42 @@
+[0.242s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/pointcloud_to_laserscan': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/pointcloud_to_laserscan -- -j16 -l16
+[1.280s] [ 20%] Built target pointcloud_to_laserscan_node
+[1.300s] [ 40%] Built target laserscan_to_pointcloud
+[1.326s] [ 60%] Built target laserscan_to_pointcloud_node
+[1.730s] [ 80%] Built target pointcloud_to_laserscan
+[2.146s] [100%] Built target dummy_pointcloud_publisher
+[2.286s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/pointcloud_to_laserscan' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/pointcloud_to_laserscan -- -j16 -l16
+[3.796s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/pointcloud_to_laserscan': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/pointcloud_to_laserscan
+[3.903s] -- Install configuration: "Release"
+[3.905s] -- Execute custom install script
+[3.906s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/lib/pointcloud_to_laserscan/laserscan_to_pointcloud_node
+[3.906s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/lib/pointcloud_to_laserscan/pointcloud_to_laserscan_node
+[3.907s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/include/pointcloud_to_laserscan/laserscan_to_pointcloud_node.hpp
+[3.908s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/include/pointcloud_to_laserscan/pointcloud_to_laserscan_node.hpp
+[3.908s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/include/pointcloud_to_laserscan/visibility_control.h
+[3.909s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/environment/library_path.sh
+[3.909s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/environment/library_path.dsv
+[3.910s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/lib/liblaserscan_to_pointcloud.so
+[3.911s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/lib/libpointcloud_to_laserscan.so
+[3.911s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/lib/pointcloud_to_laserscan/dummy_pointcloud_publisher
+[3.912s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/launch/sample_laserscan_to_pointcloud_launch.py
+[3.913s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/launch/sample_pointcloud_to_laserscan_launch.py
+[3.913s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/ament_index/resource_index/package_run_dependencies/pointcloud_to_laserscan
+[3.914s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/ament_index/resource_index/parent_prefix_path/pointcloud_to_laserscan
+[3.914s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/environment/ament_prefix_path.sh
+[3.915s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/environment/ament_prefix_path.dsv
+[3.916s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/environment/path.sh
+[3.917s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/environment/path.dsv
+[3.917s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/local_setup.bash
+[3.917s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/local_setup.sh
+[3.917s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/local_setup.zsh
+[3.932s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/local_setup.dsv
+[3.933s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/package.dsv
+[4.033s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/ament_index/resource_index/packages/pointcloud_to_laserscan
+[4.033s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/ament_index/resource_index/rclcpp_components/pointcloud_to_laserscan
+[4.033s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/cmake/ament_cmake_export_dependencies-extras.cmake
+[4.033s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/cmake/ament_cmake_export_include_directories-extras.cmake
+[4.033s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/cmake/ament_cmake_export_libraries-extras.cmake
+[4.034s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/cmake/pointcloud_to_laserscanConfig.cmake
+[4.034s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/cmake/pointcloud_to_laserscanConfig-version.cmake
+[4.034s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/pointcloud_to_laserscan/share/pointcloud_to_laserscan/package.xml
+[4.083s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/pointcloud_to_laserscan' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/pointcloud_to_laserscan

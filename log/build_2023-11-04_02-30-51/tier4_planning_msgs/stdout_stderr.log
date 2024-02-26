@@ -1,0 +1,16 @@
+[ 12%] Built target tier4_planning_msgs__rosidl_generator_c
+[ 12%] Built target ament_cmake_python_symlink_tier4_planning_msgs
+gmake[2]: *** [CMakeFiles/ament_cmake_python_build_tier4_planning_msgs_egg.dir/build.make:85: CMakeFiles/ament_cmake_python_build_tier4_planning_msgs_egg.dir/depend] Interrupt
+gmake[2]: *** [CMakeFiles/tier4_planning_msgs__rosidl_typesupport_introspection_c.dir/build.make:859: CMakeFiles/tier4_planning_msgs__rosidl_typesupport_introspection_c.dir/depend] Interrupt
+gmake[2]: *** [CMakeFiles/tier4_planning_msgs__rosidl_typesupport_fastrtps_c.dir/build.make:862: CMakeFiles/tier4_planning_msgs__rosidl_typesupport_fastrtps_c.dir/depend] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:264: CMakeFiles/tier4_planning_msgs__rosidl_typesupport_introspection_c.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:446: CMakeFiles/ament_cmake_python_build_tier4_planning_msgs_egg.dir/all] Interrupt
+gmake[2]: *** wait: No child processes.  Stop.
+gmake[2]: *** Waiting for unfinished jobs....
+gmake[2]: *** wait: No child processes.  Stop.
+gmake[1]: *** [CMakeFiles/Makefile2:238: CMakeFiles/tier4_planning_msgs__rosidl_typesupport_fastrtps_c.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:290: CMakeFiles/tier4_planning_msgs__rosidl_typesupport_c.dir/all] Error 2
+gmake[1]: *** wait: No child processes.  Stop.
+gmake[1]: *** Waiting for unfinished jobs....
+gmake[1]: *** wait: No child processes.  Stop.
+gmake: *** [Makefile:146: all] Error 2

@@ -1,0 +1,5 @@
+[ 18%] Built target obstacle_collision_checker_node
+[ 45%] Built target obstacle_collision_checker
+[ 63%] Built target gtest
+[ 81%] Built target gtest_main
+[100%] Built target test_obstacle_collision_checker

@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/tier4_vehicle_msgs/rosidl_generator_c/tier4_vehicle_msgs/msg/detail/battery_status__functions.h

@@ -1,0 +1,17 @@
+[1.240s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/ad_api_visualizers': AMENT_PREFIX_PATH=/home/autoware/aichallenge2023-integration-final-main/install/autoware_adapi_v1_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/autoware/aichallenge2023-integration-final-main/install/autoware_adapi_v1_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/autoware/aichallenge2023-integration-final-main/install/autoware_adapi_v1_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/autoware/aichallenge2023-integration-final-main/build/ad_api_visualizers/prefix_override:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers/lib/python3.10/site-packages:/home/autoware/aichallenge2023-integration-final-main/install/autoware_adapi_v1_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/autoware/aichallenge2023-integration-final-main/build/ad_api_visualizers/build --no-deps install_data
+[1.669s] running develop
+[1.942s] running egg_info
+[1.943s] writing ad_api_visualizers.egg-info/PKG-INFO
+[1.943s] writing dependency_links to ad_api_visualizers.egg-info/dependency_links.txt
+[1.943s] writing entry points to ad_api_visualizers.egg-info/entry_points.txt
+[1.944s] writing requirements to ad_api_visualizers.egg-info/requires.txt
+[1.944s] writing top-level names to ad_api_visualizers.egg-info/top_level.txt
+[1.946s] reading manifest file 'ad_api_visualizers.egg-info/SOURCES.txt'
+[1.959s] writing manifest file 'ad_api_visualizers.egg-info/SOURCES.txt'
+[1.959s] running build_ext
+[1.961s] Creating /home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers/lib/python3.10/site-packages/ad-api-visualizers.egg-link (link to .)
+[1.964s] Installing planning_factors script to /home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers/lib/ad_api_visualizers
+[1.964s] 
+[1.964s] Installed /home/autoware/aichallenge2023-integration-final-main/build/ad_api_visualizers
+[1.964s] running install_data
+[2.189s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/ad_api_visualizers' returned '0': AMENT_PREFIX_PATH=/home/autoware/aichallenge2023-integration-final-main/install/autoware_adapi_v1_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/autoware/aichallenge2023-integration-final-main/install/autoware_adapi_v1_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/autoware/aichallenge2023-integration-final-main/install/autoware_adapi_v1_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/autoware/aichallenge2023-integration-final-main/build/ad_api_visualizers/prefix_override:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers/lib/python3.10/site-packages:/home/autoware/aichallenge2023-integration-final-main/install/autoware_adapi_v1_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/autoware/aichallenge2023-integration-final-main/build/ad_api_visualizers/build --no-deps install_data

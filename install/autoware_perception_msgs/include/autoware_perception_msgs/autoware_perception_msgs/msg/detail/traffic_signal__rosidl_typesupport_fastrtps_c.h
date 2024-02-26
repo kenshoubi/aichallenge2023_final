@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_perception_msgs/rosidl_typesupport_fastrtps_c/autoware_perception_msgs/msg/detail/traffic_signal__rosidl_typesupport_fastrtps_c.h

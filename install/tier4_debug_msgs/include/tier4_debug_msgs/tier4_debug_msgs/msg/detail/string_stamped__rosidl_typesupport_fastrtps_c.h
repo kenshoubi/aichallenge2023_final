@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/tier4_debug_msgs/rosidl_typesupport_fastrtps_c/tier4_debug_msgs/msg/detail/string_stamped__rosidl_typesupport_fastrtps_c.h

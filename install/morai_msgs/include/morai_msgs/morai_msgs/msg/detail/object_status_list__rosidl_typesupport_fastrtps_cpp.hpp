@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/morai_msgs/rosidl_typesupport_fastrtps_cpp/morai_msgs/msg/detail/object_status_list__rosidl_typesupport_fastrtps_cpp.hpp

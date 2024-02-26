@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/radar_fusion_to_detected_object/radar_object_fusion_to_detected_object_node" "TARGETS" "radar_object_fusion_to_detected_object_node" "DESTINATION" "lib/radar_fusion_to_detected_object")

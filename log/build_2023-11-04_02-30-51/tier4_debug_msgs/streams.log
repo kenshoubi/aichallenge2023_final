@@ -1,0 +1,21 @@
+[0.267s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/tier4_debug_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/tier4_debug_msgs -- -j16 -l16
+[0.868s] [  0%] Built target tier4_debug_msgs__cpp
+[0.956s] [ 12%] Built target tier4_debug_msgs__rosidl_generator_c
+[1.006s] [ 12%] Built target ament_cmake_python_symlink_tier4_debug_msgs
+[1.161s] gmake[2]: *** [CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_cpp.dir/build.make:406: CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_cpp.dir/depend] Interrupt
+[1.161s] gmake[2]: *** [CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_c.dir/build.make:407: CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_c.dir/depend] Interrupt
+[1.162s] gmake[1]: *** [CMakeFiles/Makefile2:368: CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_cpp.dir/all] Interrupt
+[1.162s] gmake[1]: *** [CMakeFiles/Makefile2:264: CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_c.dir/all] Interrupt
+[1.163s] gmake[2]: *** wait: No child processes.  Stop.
+[1.163s] gmake[2]: *** Waiting for unfinished jobs....
+[1.163s] gmake[2]: *** wait: No child processes.  Stop.
+[1.163s] gmake[1]: *** [CMakeFiles/Makefile2:446: CMakeFiles/ament_cmake_python_build_tier4_debug_msgs_egg.dir/all] Error 2
+[1.165s] gmake[2]: *** [CMakeFiles/tier4_debug_msgs__rosidl_typesupport_c.dir/build.make:357: CMakeFiles/tier4_debug_msgs__rosidl_typesupport_c.dir/depend] Interrupt
+[1.165s] gmake[1]: *** [CMakeFiles/Makefile2:290: CMakeFiles/tier4_debug_msgs__rosidl_typesupport_c.dir/all] Interrupt
+[1.201s] gmake[2]: *** [CMakeFiles/tier4_debug_msgs__rosidl_typesupport_cpp.dir/build.make:356: CMakeFiles/tier4_debug_msgs__rosidl_typesupport_cpp.dir/depend] Interrupt
+[1.201s] gmake[1]: *** [CMakeFiles/Makefile2:394: CMakeFiles/tier4_debug_msgs__rosidl_typesupport_cpp.dir/all] Interrupt
+[1.204s] gmake[2]: *** [CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.dir/build.make:407: CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.dir/depend] Interrupt
+[1.204s] gmake[1]: *** [CMakeFiles/Makefile2:342: CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.dir/all] Interrupt
+[1.206s] gmake[2]: *** [CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_c.dir/build.make:410: CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_c.dir/depend] Interrupt
+[1.207s] gmake[1]: *** [CMakeFiles/Makefile2:238: CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_c.dir/all] Interrupt
+[1.207s] gmake: *** [Makefile:146: all] Interrupt

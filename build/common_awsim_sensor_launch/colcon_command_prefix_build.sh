@@ -1,0 +1,10 @@
+# generated from colcon_core/shell/template/command_prefix.sh.em
+. "/home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_geometry_msgs/share/autoware_auto_geometry_msgs/package.sh"
+. "/home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_mapping_msgs/share/autoware_auto_mapping_msgs/package.sh"
+. "/home/autoware/aichallenge2023-integration-final-main/install/autoware_lint_common/share/autoware_lint_common/package.sh"
+. "/home/autoware/aichallenge2023-integration-final-main/install/velodyne_msgs/share/velodyne_msgs/package.sh"
+. "/home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_planning_msgs/share/autoware_auto_planning_msgs/package.sh"
+. "/home/autoware/aichallenge2023-integration-final-main/install/velodyne_driver/share/velodyne_driver/package.sh"
+. "/home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_vehicle_msgs/share/autoware_auto_vehicle_msgs/package.sh"
+. "/home/autoware/aichallenge2023-integration-final-main/install/velodyne_monitor/share/velodyne_monitor/package.sh"
+. "/home/autoware/aichallenge2023-integration-final-main/install/velodyne_pointcloud/share/velodyne_pointcloud/package.sh"

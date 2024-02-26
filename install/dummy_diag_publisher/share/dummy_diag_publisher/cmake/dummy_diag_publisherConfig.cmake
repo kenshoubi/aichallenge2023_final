@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/dummy_diag_publisher/ament_cmake_core/dummy_diag_publisherConfig.cmake

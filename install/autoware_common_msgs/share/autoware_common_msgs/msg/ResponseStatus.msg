@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/core/autoware_msgs/autoware_common_msgs/msg/ResponseStatus.msg

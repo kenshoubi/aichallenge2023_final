@@ -1,0 +1,27 @@
+[0.075s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/sample_vehicle_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/sample_vehicle_description -- -j16 -l16
+[0.283s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/sample_vehicle_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/sample_vehicle_description -- -j16 -l16
+[0.434s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/sample_vehicle_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/sample_vehicle_description
+[0.465s] -- Install configuration: "Release"
+[0.472s] -- Execute custom install script
+[0.472s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/mesh/lexus.dae
+[0.472s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/mesh/lexus.jpg
+[0.472s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/urdf/vehicle.xacro
+[0.473s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/config/mirror.param.yaml
+[0.474s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/config/simulator_model.param.yaml
+[0.474s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/config/vehicle_info.param.yaml
+[0.478s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/ament_index/resource_index/package_run_dependencies/sample_vehicle_description
+[0.478s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/ament_index/resource_index/parent_prefix_path/sample_vehicle_description
+[0.478s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/environment/ament_prefix_path.sh
+[0.484s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/environment/ament_prefix_path.dsv
+[0.485s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/environment/path.sh
+[0.485s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/environment/path.dsv
+[0.485s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/local_setup.bash
+[0.485s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/local_setup.sh
+[0.485s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/local_setup.zsh
+[0.487s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/local_setup.dsv
+[0.487s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/package.dsv
+[0.522s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/ament_index/resource_index/packages/sample_vehicle_description
+[0.522s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/cmake/sample_vehicle_descriptionConfig.cmake
+[0.524s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/cmake/sample_vehicle_descriptionConfig-version.cmake
+[0.525s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/sample_vehicle_description/share/sample_vehicle_description/package.xml
+[0.550s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/sample_vehicle_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/sample_vehicle_description

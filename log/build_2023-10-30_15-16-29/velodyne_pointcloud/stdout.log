@@ -1,0 +1,7 @@
+[  8%] Built target cloud_node
+[ 17%] Built target transform_node
+[ 30%] Built target velodyne_rawdata
+[ 39%] Built target interpolate_node
+[ 65%] Built target cloud_nodelet
+[35m[1mConsolidate compiler generated dependencies of target interpolate_nodelet[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/interpolate_nodelet.dir/src/conversions/interpolate.cc.o[0m

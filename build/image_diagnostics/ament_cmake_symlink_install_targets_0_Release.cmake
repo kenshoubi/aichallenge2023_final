@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/image_diagnostics/image_diagnostics_node" "TARGETS" "image_diagnostics_node" "DESTINATION" "lib/image_diagnostics")

@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/perception/lidar_apollo_instance_segmentation/include/lidar_apollo_instance_segmentation/feature_generator.hpp

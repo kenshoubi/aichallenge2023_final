@@ -1,0 +1,4 @@
+[ 16%] Built target euclidean_cluster_node
+[ 25%] [32mBuilding CXX object CMakeFiles/cluster_lib.dir/lib/utils.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/cluster_lib.dir/lib/euclidean_cluster.cpp.o[0m
+[ 50%] Built target voxel_grid_based_euclidean_cluster_node

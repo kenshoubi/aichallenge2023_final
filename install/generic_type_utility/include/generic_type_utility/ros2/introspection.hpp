@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/aichallenge_scoring/generic_type_utility/generic_type_utility/include/generic_type_utility/ros2/introspection.hpp

@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/dummy_infrastructure/ament_cmake_core/dummy_infrastructureConfig.cmake

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/kinematic_evaluator/kinematic_evaluator" "TARGETS" "kinematic_evaluator" "DESTINATION" "lib/kinematic_evaluator")

@@ -1,0 +1,42 @@
+[0.106s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/imu_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/sensor_component_description/imu_description -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/imu_description
+[3.060s] -- The C compiler identification is GNU 11.4.0
+[3.060s] -- The CXX compiler identification is GNU 11.4.0
+[3.060s] -- Detecting C compiler ABI info
+[3.060s] -- Detecting C compiler ABI info - done
+[3.060s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.060s] -- Detecting C compile features
+[3.060s] -- Detecting C compile features - done
+[3.061s] -- Detecting CXX compiler ABI info
+[3.061s] -- Detecting CXX compiler ABI info - done
+[3.061s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.061s] -- Detecting CXX compile features
+[3.061s] -- Detecting CXX compile features - done
+[3.061s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[3.061s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[3.061s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.062s] -- Configuring done
+[3.062s] -- Generating done
+[3.062s] -- Build files have been written to: /home/autoware/aichallenge2023-integration-final-main/build/imu_description
+[3.089s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/imu_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/sensor_component_description/imu_description -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/imu_description
+[3.091s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/imu_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/imu_description -- -j16 -l16
+[12.353s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/imu_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/imu_description -- -j16 -l16
+[12.612s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/imu_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/imu_description
+[13.270s] -- Install configuration: "Release"
+[13.270s] -- Execute custom install script
+[13.270s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/imu_description/share/imu_description/urdf/imu.xacro
+[13.270s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/imu_description/share/ament_index/resource_index/package_run_dependencies/imu_description
+[13.270s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/imu_description/share/ament_index/resource_index/parent_prefix_path/imu_description
+[13.270s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/imu_description/share/imu_description/environment/ament_prefix_path.sh
+[13.270s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/imu_description/share/imu_description/environment/ament_prefix_path.dsv
+[13.271s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/imu_description/share/imu_description/environment/path.sh
+[13.271s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/imu_description/share/imu_description/environment/path.dsv
+[13.271s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/imu_description/share/imu_description/local_setup.bash
+[13.271s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/imu_description/share/imu_description/local_setup.sh
+[13.271s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/imu_description/share/imu_description/local_setup.zsh
+[13.271s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/imu_description/share/imu_description/local_setup.dsv
+[13.271s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/imu_description/share/imu_description/package.dsv
+[13.271s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/imu_description/share/ament_index/resource_index/packages/imu_description
+[13.271s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/imu_description/share/imu_description/cmake/imu_descriptionConfig.cmake
+[13.272s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/imu_description/share/imu_description/cmake/imu_descriptionConfig-version.cmake
+[13.272s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/imu_description/share/imu_description/package.xml
+[13.302s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/imu_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/imu_description

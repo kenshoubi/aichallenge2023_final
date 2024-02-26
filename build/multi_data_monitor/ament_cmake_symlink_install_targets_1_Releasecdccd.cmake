@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/multi_data_monitor/parser" "/home/autoware/aichallenge2023-integration-final-main/build/multi_data_monitor/runner" "TARGETS" "parser" "runner" "DESTINATION" "lib/multi_data_monitor")

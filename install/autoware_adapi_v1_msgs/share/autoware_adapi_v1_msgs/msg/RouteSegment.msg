@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/core/autoware_adapi_msgs/autoware_adapi_v1_msgs/routing/msg/RouteSegment.msg

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/tensorrt_yolo/tensorrt_yolo_node" "TARGETS" "tensorrt_yolo_node" "DESTINATION" "lib/tensorrt_yolo")

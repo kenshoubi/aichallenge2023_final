@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/behavior_path_planner/include/behavior_path_planner/scene_module/side_shift/side_shift_module.hpp

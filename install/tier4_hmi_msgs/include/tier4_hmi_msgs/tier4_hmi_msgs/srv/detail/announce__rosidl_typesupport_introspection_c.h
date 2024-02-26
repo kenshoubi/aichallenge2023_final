@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/tier4_hmi_msgs/rosidl_typesupport_introspection_c/tier4_hmi_msgs/srv/detail/announce__rosidl_typesupport_introspection_c.h

@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/fake_test_node/ament_cmake_core/fake_test_nodeConfig-version.cmake

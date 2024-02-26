@@ -1,0 +1,10 @@
+{
+  "package_name": "tier4_v2x_msgs",
+  "non_idl_tuples": [
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_v2x_msgs:msg/InfrastructureCommand.msg",
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_v2x_msgs:msg/InfrastructureCommandArray.msg",
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_v2x_msgs:msg/KeyValue.msg",
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_v2x_msgs:msg/VirtualTrafficLightState.msg",
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_v2x_msgs:msg/VirtualTrafficLightStateArray.msg"
+  ]
+}

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/map_tf_generator/pcd_map_tf_generator" "TARGETS" "pcd_map_tf_generator" "DESTINATION" "lib/map_tf_generator")

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/tamagawa_imu_driver/tag_serial_driver" "/home/autoware/aichallenge2023-integration-final-main/build/tamagawa_imu_driver/tag_can_driver" "TARGETS" "tag_serial_driver" "tag_can_driver" "DESTINATION" "lib/tamagawa_imu_driver")

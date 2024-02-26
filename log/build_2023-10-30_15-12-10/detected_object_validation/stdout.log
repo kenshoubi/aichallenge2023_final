@@ -1,0 +1,7 @@
+[ 12%] Built target object_lanelet_filter_node
+[ 25%] Built target obstacle_pointcloud_based_validator_node
+[ 37%] Built target occupancy_grid_based_validator
+[ 50%] Built target object_position_filter_node
+[ 62%] Built target obstacle_pointcloud_based_validator
+[ 81%] Built target object_lanelet_filter
+[100%] Built target object_position_filter

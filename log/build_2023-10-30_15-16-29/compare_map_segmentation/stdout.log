@@ -1,0 +1,6 @@
+[ 12%] Built target voxel_based_approximate_compare_map_filter_node
+[ 62%] Built target compare_map_segmentation
+[ 62%] Built target compare_elevation_map_filter_node
+[ 75%] Built target distance_based_compare_map_filter_node
+[ 87%] Built target voxel_based_compare_map_filter_node
+[100%] Built target voxel_distance_based_compare_map_filter_node

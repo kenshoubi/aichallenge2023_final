@@ -1,0 +1,6 @@
+[  8%] Built target transform_node
+[ 17%] Built target interpolate_node
+[ 26%] Built target cloud_node
+[ 39%] Built target velodyne_rawdata
+[ 65%] Built target cloud_nodelet
+[ 69%] [32mBuilding CXX object CMakeFiles/interpolate_nodelet.dir/src/conversions/interpolate.cc.o[0m

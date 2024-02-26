@@ -1,0 +1,17 @@
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/pandar_description/urdf/pandar_40p.xacro
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/pandar_description/urdf/pandar_qt.xacro
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/ament_index/resource_index/package_run_dependencies/pandar_description
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/ament_index/resource_index/parent_prefix_path/pandar_description
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/pandar_description/environment/ament_prefix_path.sh
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/pandar_description/environment/ament_prefix_path.dsv
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/pandar_description/environment/path.sh
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/pandar_description/environment/path.dsv
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/pandar_description/local_setup.bash
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/pandar_description/local_setup.sh
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/pandar_description/local_setup.zsh
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/pandar_description/local_setup.dsv
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/pandar_description/package.dsv
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/ament_index/resource_index/packages/pandar_description
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/pandar_description/cmake/pandar_descriptionConfig.cmake
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/pandar_description/cmake/pandar_descriptionConfig-version.cmake
+/home/autoware/aichallenge2023-integration-final-main/install/pandar_description/share/pandar_description/package.xml

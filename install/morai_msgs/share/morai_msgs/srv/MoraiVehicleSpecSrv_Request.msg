@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/morai_msgs/rosidl_cmake/srv/MoraiVehicleSpecSrv_Request.msg

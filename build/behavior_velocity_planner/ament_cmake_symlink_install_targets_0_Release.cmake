@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/behavior_velocity_planner/behavior_velocity_planner_node" "TARGETS" "behavior_velocity_planner_node" "DESTINATION" "lib/behavior_velocity_planner")

@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/morai_msgs/rosidl_generator_c/morai_msgs/msg/detail/ghost_message__type_support.h

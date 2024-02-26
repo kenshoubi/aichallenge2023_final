@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/costmap_generator/costmap_generator" "TARGETS" "costmap_generator" "DESTINATION" "lib/costmap_generator")

@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/crosswalk_traffic_light_estimator/ament_cmake_core/crosswalk_traffic_light_estimatorConfig-version.cmake

@@ -1,0 +1,11 @@
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/motion_velocity_smoother/src/smoother/analytical_jerk_constrained_smoother/analytical_jerk_constrained_smoother.cpp:[m[K In member function ‘[01m[Kvirtual motion_velocity_smoother::TrajectoryPoints motion_velocity_smoother::AnalyticalJerkConstrainedSmoother::applyLateralAccelerationFilter(const TrajectoryPoints&, double, double, bool, bool, double) const[m[K’:
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/motion_velocity_smoother/src/smoother/analytical_jerk_constrained_smoother/analytical_jerk_constrained_smoother.cpp:334:55:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+  334 |       v_curvature_max = base_param_.min_curve_velocity
+      |                                                       [01;31m[K^[m[K
+      |                                                       [32m[K;[m[K
+  335 |     [32m[K}[m[K
+      |     [32m[K~[m[K                                                  
+gmake[2]: *** [CMakeFiles/smoother.dir/build.make:132: CMakeFiles/smoother.dir/src/smoother/analytical_jerk_constrained_smoother/analytical_jerk_constrained_smoother.cpp.o] Error 1
+gmake[2]: *** Waiting for unfinished jobs....
+gmake[1]: *** [CMakeFiles/Makefile2:180: CMakeFiles/smoother.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

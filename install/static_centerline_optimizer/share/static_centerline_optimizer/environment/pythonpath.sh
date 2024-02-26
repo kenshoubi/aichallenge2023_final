@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/static_centerline_optimizer/ament_cmake_environment_hooks/pythonpath.sh

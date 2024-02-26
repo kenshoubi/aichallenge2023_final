@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_map_msgs/ament_cmake_core/autoware_map_msgsConfig-version.cmake

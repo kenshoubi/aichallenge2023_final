@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/static_centerline_optimizer/rosidl_cmake/rosidl_cmake-extras.cmake

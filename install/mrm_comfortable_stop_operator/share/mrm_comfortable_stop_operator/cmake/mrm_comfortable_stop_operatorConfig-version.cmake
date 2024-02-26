@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/mrm_comfortable_stop_operator/ament_cmake_core/mrm_comfortable_stop_operatorConfig-version.cmake

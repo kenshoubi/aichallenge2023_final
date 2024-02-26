@@ -1,0 +1,49 @@
+[0.074s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/aip_aichallenge_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/launcher/aip_launcher/aip_aichallenge_description -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description
+[9.260s] -- The C compiler identification is GNU 11.4.0
+[9.260s] -- The CXX compiler identification is GNU 11.4.0
+[9.260s] -- Detecting C compiler ABI info
+[9.260s] -- Detecting C compiler ABI info - done
+[9.260s] -- Check for working C compiler: /usr/bin/cc - skipped
+[9.260s] -- Detecting C compile features
+[9.261s] -- Detecting C compile features - done
+[9.261s] -- Detecting CXX compiler ABI info
+[9.261s] -- Detecting CXX compiler ABI info - done
+[9.261s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[9.261s] -- Detecting CXX compile features
+[9.261s] -- Detecting CXX compile features - done
+[9.261s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[9.261s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[9.261s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[9.262s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[9.262s] -- Added test 'copyright' to check source files copyright and LICENSE
+[9.262s] -- Added test 'lint_cmake' to check CMake code style
+[9.262s] -- Added test 'xmllint' to check XML markup files
+[9.262s] -- Configuring done
+[9.262s] -- Generating done
+[9.262s] -- Build files have been written to: /home/autoware/aichallenge2023-integration-final-main/build/aip_aichallenge_description
+[9.335s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/aip_aichallenge_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/launcher/aip_launcher/aip_aichallenge_description -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description
+[9.336s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/aip_aichallenge_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/aip_aichallenge_description -- -j16 -l16
+[22.554s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/aip_aichallenge_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/aip_aichallenge_description -- -j16 -l16
+[22.781s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/aip_aichallenge_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/aip_aichallenge_description
+[26.732s] -- Install configuration: "Release"
+[26.733s] -- Execute custom install script
+[26.739s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/aip_aichallenge_description/config/sensor_kit_calibration.yaml
+[26.739s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/aip_aichallenge_description/config/sensors_calibration.yaml
+[26.740s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/aip_aichallenge_description/urdf/sensor_kit.xacro
+[26.740s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/aip_aichallenge_description/urdf/sensors.xacro
+[26.740s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/ament_index/resource_index/package_run_dependencies/aip_aichallenge_description
+[26.740s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/ament_index/resource_index/parent_prefix_path/aip_aichallenge_description
+[26.740s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/aip_aichallenge_description/environment/ament_prefix_path.sh
+[26.740s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/aip_aichallenge_description/environment/ament_prefix_path.dsv
+[26.741s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/aip_aichallenge_description/environment/path.sh
+[26.741s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/aip_aichallenge_description/environment/path.dsv
+[26.741s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/aip_aichallenge_description/local_setup.bash
+[26.741s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/aip_aichallenge_description/local_setup.sh
+[26.741s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/aip_aichallenge_description/local_setup.zsh
+[26.741s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/aip_aichallenge_description/local_setup.dsv
+[26.742s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/aip_aichallenge_description/package.dsv
+[26.742s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/ament_index/resource_index/packages/aip_aichallenge_description
+[26.742s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/aip_aichallenge_description/cmake/aip_aichallenge_descriptionConfig.cmake
+[26.742s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/aip_aichallenge_description/cmake/aip_aichallenge_descriptionConfig-version.cmake
+[26.742s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_description/share/aip_aichallenge_description/package.xml
+[26.749s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/aip_aichallenge_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/aip_aichallenge_description

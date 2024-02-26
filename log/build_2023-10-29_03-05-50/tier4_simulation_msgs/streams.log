@@ -1,0 +1,12 @@
+[0.091s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/tier4_simulation_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/tier4_simulation_msgs -- -j16 -l16
+[0.548s] [  1%] Built target tier4_simulation_msgs__cpp
+[0.564s] [ 12%] Built target tier4_simulation_msgs__rosidl_generator_c
+[0.626s] [ 12%] Built target ament_cmake_python_symlink_tier4_simulation_msgs
+[0.733s] gmake[1]: *** [CMakeFiles/Makefile2:291: CMakeFiles/tier4_simulation_msgs__rosidl_typesupport_fastrtps_cpp.dir/all] Interrupt
+[0.735s] gmake[1]: *** [CMakeFiles/Makefile2:317: CMakeFiles/tier4_simulation_msgs__rosidl_typesupport_introspection_c.dir/all] Interrupt
+[0.735s] gmake[1]: *** [CMakeFiles/Makefile2:369: CMakeFiles/tier4_simulation_msgs__rosidl_typesupport_introspection_cpp.dir/all] Interrupt
+[0.735s] gmake[1]: *** [CMakeFiles/Makefile2:396: CMakeFiles/tier4_simulation_msgs__rosidl_typesupport_cpp.dir/all] Interrupt
+[0.735s] gmake[2]: *** [CMakeFiles/ament_cmake_python_build_tier4_simulation_msgs_egg.dir/build.make:85: CMakeFiles/ament_cmake_python_build_tier4_simulation_msgs_egg.dir/depend] Interrupt
+[0.736s] gmake[1]: *** [CMakeFiles/Makefile2:446: CMakeFiles/ament_cmake_python_build_tier4_simulation_msgs_egg.dir/all] Interrupt
+[0.736s] gmake: *** [Makefile:146: all] Interrupt
+[0.748s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/tier4_simulation_msgs' returned '-2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/tier4_simulation_msgs -- -j16 -l16

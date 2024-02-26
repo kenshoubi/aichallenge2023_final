@@ -1,0 +1,228 @@
+[0.089s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_map_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/core/autoware_msgs/autoware_map_msgs -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs
+[2.129s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[2.129s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.129s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.129s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.129s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.129s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.129s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.129s] -- Found ament_cmake_cppcheck: 0.12.7 (/opt/ros/humble/share/ament_cmake_cppcheck/cmake)
+[2.129s] -- Found ament_cmake_cpplint: 0.12.7 (/opt/ros/humble/share/ament_cmake_cpplint/cmake)
+[2.129s] -- Found ament_cmake_uncrustify: 0.12.7 (/opt/ros/humble/share/ament_cmake_uncrustify/cmake)
+[2.129s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.129s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.437s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.513s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.594s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.594s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.594s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[3.545s] -- Found ament_cmake_flake8: 0.12.7 (/opt/ros/humble/share/ament_cmake_flake8/cmake)
+[3.546s] -- Found ament_cmake_pep257: 0.12.7 (/opt/ros/humble/share/ament_cmake_pep257/cmake)
+[3.549s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.561s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.561s] -- Added test 'lint_cmake' to check CMake code style
+[3.562s] -- Added test 'xmllint' to check XML markup files
+[3.574s] -- Configuring done
+[3.672s] -- Generating done
+[3.676s] -- Build files have been written to: /home/autoware/aichallenge2023-integration-final-main/build/autoware_map_msgs
+[3.691s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_map_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/core/autoware_msgs/autoware_map_msgs -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs
+[3.691s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_map_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/autoware_map_msgs -- -j16 -l16
+[3.949s] [35m[1mConsolidate compiler generated dependencies of target autoware_map_msgs__rosidl_generator_c[0m
+[4.028s] [  1%] Built target autoware_map_msgs__cpp
+[4.091s] [ 12%] Built target autoware_map_msgs__rosidl_generator_c
+[4.132s] [35m[1mConsolidate compiler generated dependencies of target autoware_map_msgs__rosidl_typesupport_cpp[0m
+[4.136s] [35m[1mConsolidate compiler generated dependencies of target autoware_map_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[4.168s] [35m[1mConsolidate compiler generated dependencies of target autoware_map_msgs__rosidl_typesupport_introspection_cpp[0m
+[4.188s] [35m[1mConsolidate compiler generated dependencies of target autoware_map_msgs__rosidl_typesupport_fastrtps_c[0m
+[4.217s] [ 12%] Built target ament_cmake_python_symlink_autoware_map_msgs
+[4.234s] [35m[1mConsolidate compiler generated dependencies of target autoware_map_msgs__rosidl_typesupport_introspection_c[0m
+[4.265s] [35m[1mConsolidate compiler generated dependencies of target autoware_map_msgs__rosidl_typesupport_c[0m
+[4.273s] [ 23%] Built target autoware_map_msgs__rosidl_typesupport_fastrtps_cpp
+[4.293s] [ 34%] Built target autoware_map_msgs__rosidl_typesupport_cpp
+[4.305s] [ 46%] Built target autoware_map_msgs__rosidl_typesupport_introspection_cpp
+[4.313s] [ 57%] Built target autoware_map_msgs__rosidl_typesupport_fastrtps_c
+[4.352s] [ 68%] Built target autoware_map_msgs__rosidl_typesupport_c
+[4.371s] [ 79%] Built target autoware_map_msgs__rosidl_typesupport_introspection_c
+[4.554s] [ 79%] Built target autoware_map_msgs
+[4.725s] [ 80%] Built target autoware_map_msgs__py
+[4.792s] running egg_info
+[4.794s] writing autoware_map_msgs.egg-info/PKG-INFO
+[4.794s] writing dependency_links to autoware_map_msgs.egg-info/dependency_links.txt
+[4.795s] writing top-level names to autoware_map_msgs.egg-info/top_level.txt
+[4.802s] reading manifest file 'autoware_map_msgs.egg-info/SOURCES.txt'
+[4.802s] writing manifest file 'autoware_map_msgs.egg-info/SOURCES.txt'
+[4.838s] [35m[1mConsolidate compiler generated dependencies of target autoware_map_msgs__rosidl_generator_py[0m
+[4.869s] [ 80%] Built target ament_cmake_python_build_autoware_map_msgs_egg
+[4.931s] [ 90%] Built target autoware_map_msgs__rosidl_generator_py
+[5.010s] [35m[1mConsolidate compiler generated dependencies of target autoware_map_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[5.013s] [35m[1mConsolidate compiler generated dependencies of target autoware_map_msgs__rosidl_typesupport_c__pyext[0m
+[5.013s] [35m[1mConsolidate compiler generated dependencies of target autoware_map_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[5.090s] [ 93%] Built target autoware_map_msgs__rosidl_typesupport_introspection_c__pyext
+[5.104s] [ 96%] Built target autoware_map_msgs__rosidl_typesupport_fastrtps_c__pyext
+[5.109s] [100%] Built target autoware_map_msgs__rosidl_typesupport_c__pyext
+[5.164s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_map_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/autoware_map_msgs -- -j16 -l16
+[7.043s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_map_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/autoware_map_msgs
+[7.077s] -- Install configuration: "Release"
+[7.078s] -- Execute custom install script
+[7.078s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/ament_index/resource_index/rosidl_interfaces/autoware_map_msgs
+[7.079s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/area_info.h
+[7.079s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/area_info__functions.h
+[7.079s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/area_info__struct.h
+[7.079s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/area_info__type_support.h
+[7.079s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/lanelet_map_bin__functions.h
+[7.079s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/lanelet_map_bin__struct.h
+[7.080s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/lanelet_map_bin__type_support.h
+[7.080s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/point_cloud_map_cell_with_id__functions.h
+[7.080s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/point_cloud_map_cell_with_id__struct.h
+[7.080s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/point_cloud_map_cell_with_id__type_support.h
+[7.080s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/lanelet_map_bin.h
+[7.080s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/point_cloud_map_cell_with_id.h
+[7.080s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/rosidl_generator_c__visibility_control.h
+[7.080s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_differential_point_cloud_map__functions.h
+[7.080s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_differential_point_cloud_map__struct.h
+[7.081s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_differential_point_cloud_map__type_support.h
+[7.081s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_partial_point_cloud_map__functions.h
+[7.081s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_partial_point_cloud_map__struct.h
+[7.081s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_partial_point_cloud_map__type_support.h
+[7.081s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/get_differential_point_cloud_map.h
+[7.081s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/get_partial_point_cloud_map.h
+[7.081s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/environment/library_path.sh
+[7.081s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/environment/library_path.dsv
+[7.083s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/area_info__rosidl_typesupport_fastrtps_c.h
+[7.083s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/lanelet_map_bin__rosidl_typesupport_fastrtps_c.h
+[7.083s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/point_cloud_map_cell_with_id__rosidl_typesupport_fastrtps_c.h
+[7.083s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[7.083s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_differential_point_cloud_map__rosidl_typesupport_fastrtps_c.h
+[7.083s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_partial_point_cloud_map__rosidl_typesupport_fastrtps_c.h
+[7.084s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/area_info.hpp
+[7.084s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/area_info__builder.hpp
+[7.084s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/area_info__struct.hpp
+[7.084s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/area_info__traits.hpp
+[7.084s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/lanelet_map_bin__builder.hpp
+[7.084s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/lanelet_map_bin__struct.hpp
+[7.084s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/lanelet_map_bin__traits.hpp
+[7.084s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/point_cloud_map_cell_with_id__builder.hpp
+[7.084s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/point_cloud_map_cell_with_id__struct.hpp
+[7.085s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/point_cloud_map_cell_with_id__traits.hpp
+[7.085s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/lanelet_map_bin.hpp
+[7.085s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/point_cloud_map_cell_with_id.hpp
+[7.085s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_differential_point_cloud_map__builder.hpp
+[7.085s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_differential_point_cloud_map__struct.hpp
+[7.085s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_differential_point_cloud_map__traits.hpp
+[7.086s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_partial_point_cloud_map__builder.hpp
+[7.086s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_partial_point_cloud_map__struct.hpp
+[7.086s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_partial_point_cloud_map__traits.hpp
+[7.086s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/get_differential_point_cloud_map.hpp
+[7.086s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/get_partial_point_cloud_map.hpp
+[7.087s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/area_info__rosidl_typesupport_fastrtps_cpp.hpp
+[7.087s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/lanelet_map_bin__rosidl_typesupport_fastrtps_cpp.hpp
+[7.087s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/point_cloud_map_cell_with_id__rosidl_typesupport_fastrtps_cpp.hpp
+[7.087s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[7.087s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_differential_point_cloud_map__rosidl_typesupport_fastrtps_cpp.hpp
+[7.087s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_partial_point_cloud_map__rosidl_typesupport_fastrtps_cpp.hpp
+[7.088s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/area_info__rosidl_typesupport_introspection_c.h
+[7.088s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/lanelet_map_bin__rosidl_typesupport_introspection_c.h
+[7.088s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/point_cloud_map_cell_with_id__rosidl_typesupport_introspection_c.h
+[7.088s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[7.089s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_differential_point_cloud_map__rosidl_typesupport_introspection_c.h
+[7.089s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_partial_point_cloud_map__rosidl_typesupport_introspection_c.h
+[7.089s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/area_info__rosidl_typesupport_introspection_cpp.hpp
+[7.089s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/lanelet_map_bin__rosidl_typesupport_introspection_cpp.hpp
+[7.089s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/msg/detail/point_cloud_map_cell_with_id__rosidl_typesupport_introspection_cpp.hpp
+[7.090s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_differential_point_cloud_map__rosidl_typesupport_introspection_cpp.hpp
+[7.090s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/include/autoware_map_msgs/autoware_map_msgs/srv/detail/get_partial_point_cloud_map__rosidl_typesupport_introspection_cpp.hpp
+[7.092s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/environment/pythonpath.sh
+[7.092s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/environment/pythonpath.dsv
+[7.092s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs-1.0.0-py3.10.egg-info/PKG-INFO
+[7.092s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs-1.0.0-py3.10.egg-info/SOURCES.txt
+[7.092s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs-1.0.0-py3.10.egg-info/dependency_links.txt
+[7.092s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs-1.0.0-py3.10.egg-info/top_level.txt
+[7.093s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/__init__.py
+[7.093s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/_autoware_map_msgs_s.ep.rosidl_typesupport_c.c
+[7.093s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/_autoware_map_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[7.093s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/_autoware_map_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[7.093s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/autoware_map_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[7.093s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/autoware_map_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[7.093s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/autoware_map_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[7.093s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/libautoware_map_msgs__rosidl_generator_py.so
+[7.093s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/msg/__init__.py
+[7.094s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/msg/_area_info.py
+[7.094s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/msg/_area_info_s.c
+[7.094s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/msg/_lanelet_map_bin.py
+[7.094s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/msg/_lanelet_map_bin_s.c
+[7.094s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/msg/_point_cloud_map_cell_with_id.py
+[7.095s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/msg/_point_cloud_map_cell_with_id_s.c
+[7.095s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/srv/__init__.py
+[7.095s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/srv/_get_differential_point_cloud_map.py
+[7.096s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/srv/_get_differential_point_cloud_map_s.c
+[7.096s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/srv/_get_partial_point_cloud_map.py
+[7.096s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/srv/_get_partial_point_cloud_map_s.c
+[7.096s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/autoware_map_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[7.096s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/autoware_map_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[7.097s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/autoware_map_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[7.097s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/msg/AreaInfo.idl
+[7.097s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/msg/LaneletMapBin.idl
+[7.097s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/msg/PointCloudMapCellWithID.idl
+[7.097s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/srv/GetPartialPointCloudMap.idl
+[7.098s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/srv/GetDifferentialPointCloudMap.idl
+[7.098s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/msg/AreaInfo.msg
+[7.098s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/msg/LaneletMapBin.msg
+[7.098s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/msg/PointCloudMapCellWithID.msg
+[7.098s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/srv/GetPartialPointCloudMap.srv
+[7.099s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/srv/GetPartialPointCloudMap_Request.msg
+[7.099s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/srv/GetPartialPointCloudMap_Response.msg
+[7.099s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/srv/GetDifferentialPointCloudMap.srv
+[7.099s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/srv/GetDifferentialPointCloudMap_Request.msg
+[7.099s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/srv/GetDifferentialPointCloudMap_Response.msg
+[7.100s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/ament_index/resource_index/package_run_dependencies/autoware_map_msgs
+[7.100s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/ament_index/resource_index/parent_prefix_path/autoware_map_msgs
+[7.100s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/environment/ament_prefix_path.sh
+[7.100s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/environment/ament_prefix_path.dsv
+[7.100s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/environment/path.sh
+[7.100s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/environment/path.dsv
+[7.101s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/local_setup.bash
+[7.101s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/local_setup.sh
+[7.101s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/local_setup.zsh
+[7.101s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/local_setup.dsv
+[7.101s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/package.dsv
+[7.136s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/ament_index/resource_index/packages/autoware_map_msgs
+[7.136s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/rosidl_cmake-extras.cmake
+[7.136s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[7.136s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[7.136s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[7.136s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[7.136s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[7.136s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[7.136s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/autoware_map_msgsConfig.cmake
+[7.136s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/autoware_map_msgsConfig-version.cmake
+[7.137s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/package.xml
+[7.137s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/lib/libautoware_map_msgs__rosidl_generator_c.so
+[7.137s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/lib/libautoware_map_msgs__rosidl_typesupport_fastrtps_c.so
+[7.137s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/lib/libautoware_map_msgs__rosidl_typesupport_fastrtps_cpp.so
+[7.137s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/lib/libautoware_map_msgs__rosidl_typesupport_introspection_c.so
+[7.137s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/lib/libautoware_map_msgs__rosidl_typesupport_c.so
+[7.137s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/lib/libautoware_map_msgs__rosidl_typesupport_introspection_cpp.so
+[7.138s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/lib/libautoware_map_msgs__rosidl_typesupport_cpp.so
+[7.215s] Listing '/home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs'...
+[7.215s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/__init__.py'...
+[7.215s] Listing '/home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/msg'...
+[7.215s] Listing '/home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/local/lib/python3.10/dist-packages/autoware_map_msgs/srv'...
+[7.221s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/lib/libautoware_map_msgs__rosidl_generator_py.so
+[7.221s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/export_autoware_map_msgs__rosidl_generator_cExport.cmake
+[7.221s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/export_autoware_map_msgs__rosidl_generator_cExport-release.cmake
+[7.221s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/export_autoware_map_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[7.221s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/export_autoware_map_msgs__rosidl_typesupport_fastrtps_cExport-release.cmake
+[7.221s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/export_autoware_map_msgs__rosidl_generator_cppExport.cmake
+[7.221s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/export_autoware_map_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[7.221s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/export_autoware_map_msgs__rosidl_typesupport_fastrtps_cppExport-release.cmake
+[7.221s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/autoware_map_msgs__rosidl_typesupport_introspection_cExport.cmake
+[7.221s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/autoware_map_msgs__rosidl_typesupport_introspection_cExport-release.cmake
+[7.222s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/autoware_map_msgs__rosidl_typesupport_cExport.cmake
+[7.222s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/autoware_map_msgs__rosidl_typesupport_cExport-release.cmake
+[7.222s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/autoware_map_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[7.222s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/autoware_map_msgs__rosidl_typesupport_introspection_cppExport-release.cmake
+[7.222s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/autoware_map_msgs__rosidl_typesupport_cppExport.cmake
+[7.222s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/autoware_map_msgs__rosidl_typesupport_cppExport-release.cmake
+[7.222s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/export_autoware_map_msgs__rosidl_generator_pyExport.cmake
+[7.222s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_map_msgs/share/autoware_map_msgs/cmake/export_autoware_map_msgs__rosidl_generator_pyExport-release.cmake
+[7.230s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_map_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/autoware_map_msgs

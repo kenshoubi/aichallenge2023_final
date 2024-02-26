@@ -1,0 +1,19 @@
+{
+  "package_name": "aichallenge_scoring_msgs",
+  "output_dir": "/home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_msgs/rosidl_typesupport_fastrtps_cpp/aichallenge_scoring_msgs",
+  "template_dir": "/opt/ros/humble/share/rosidl_typesupport_fastrtps_cpp/resource",
+  "idl_tuples": [
+    "/home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_msgs/rosidl_adapter/aichallenge_scoring_msgs:msg/Score.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/lib/rosidl_typesupport_fastrtps_cpp/rosidl_typesupport_fastrtps_cpp",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_fastrtps_cpp/__init__.py",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_cpp/resource/idl__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_cpp/resource/idl__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_cpp/resource/msg__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_cpp/resource/msg__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_cpp/resource/srv__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_cpp/resource/srv__type_support.cpp.em",
+    "/home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_msgs/rosidl_adapter/aichallenge_scoring_msgs/msg/Score.idl"
+  ]
+}

@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/morai_msgs/ament_cmake_core/morai_msgsConfig-version.cmake

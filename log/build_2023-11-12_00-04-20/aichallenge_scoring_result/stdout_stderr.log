@@ -1,0 +1,39 @@
+-- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rclcpp: 16.0.5 (/opt/ros/humble/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+-- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+-- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+-- Found aichallenge_scoring_msgs: 1.0.0 (/home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake)
+-- Found autoware_auto_vehicle_msgs: 1.0.0 (/home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_vehicle_msgs/share/autoware_auto_vehicle_msgs/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_result
+[35m[1mConsolidate compiler generated dependencies of target scoring_result[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/scoring_result.dir/src/scoring_result.cpp.o[0m
+[100%] [32m[1mLinking CXX executable scoring_result[0m
+[100%] Built target scoring_result
+-- Install configuration: "Releasecdccd"
+-- Execute custom install script
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_result/lib/aichallenge_scoring_result/scoring_result
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_result/share/ament_index/resource_index/package_run_dependencies/aichallenge_scoring_result
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_result/share/ament_index/resource_index/parent_prefix_path/aichallenge_scoring_result
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_result/share/aichallenge_scoring_result/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_result/share/aichallenge_scoring_result/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_result/share/aichallenge_scoring_result/environment/path.sh
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_result/share/aichallenge_scoring_result/environment/path.dsv
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_result/share/aichallenge_scoring_result/local_setup.bash
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_result/share/aichallenge_scoring_result/local_setup.sh
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_result/share/aichallenge_scoring_result/local_setup.zsh
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_result/share/aichallenge_scoring_result/local_setup.dsv
+-- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_result/share/aichallenge_scoring_result/package.dsv
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_result/share/ament_index/resource_index/packages/aichallenge_scoring_result
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_result/share/aichallenge_scoring_result/cmake/aichallenge_scoring_resultConfig.cmake
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_result/share/aichallenge_scoring_result/cmake/aichallenge_scoring_resultConfig-version.cmake
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_result/share/aichallenge_scoring_result/package.xml

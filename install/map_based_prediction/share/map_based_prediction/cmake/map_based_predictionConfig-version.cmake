@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/map_based_prediction/ament_cmake_core/map_based_predictionConfig-version.cmake

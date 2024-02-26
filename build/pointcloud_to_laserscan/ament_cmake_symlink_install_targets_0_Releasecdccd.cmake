@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/pointcloud_to_laserscan/laserscan_to_pointcloud_node" "TARGETS" "laserscan_to_pointcloud_node" "DESTINATION" "lib/pointcloud_to_laserscan")

@@ -1,0 +1,200 @@
+[0.179s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_control_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/core/external/autoware_auto_msgs/autoware_auto_control_msgs -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs
+[0.239s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[0.573s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.052s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.055s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.221s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.514s] -- Found ament_cmake_cppcheck: 0.12.7 (/opt/ros/humble/share/ament_cmake_cppcheck/cmake)
+[1.516s] -- Found ament_cmake_cpplint: 0.12.7 (/opt/ros/humble/share/ament_cmake_cpplint/cmake)
+[1.517s] -- Found ament_cmake_uncrustify: 0.12.7 (/opt/ros/humble/share/ament_cmake_uncrustify/cmake)
+[1.519s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.116s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.864s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.919s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[3.000s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.000s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[3.000s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[4.350s] -- Found ament_cmake_flake8: 0.12.7 (/opt/ros/humble/share/ament_cmake_flake8/cmake)
+[4.351s] -- Found ament_cmake_pep257: 0.12.7 (/opt/ros/humble/share/ament_cmake_pep257/cmake)
+[4.357s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.372s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.373s] -- Added test 'lint_cmake' to check CMake code style
+[4.373s] -- Added test 'xmllint' to check XML markup files
+[4.383s] -- Configuring done
+[4.472s] -- Generating done
+[4.479s] -- Build files have been written to: /home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_control_msgs
+[4.487s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_control_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/core/external/autoware_auto_msgs/autoware_auto_control_msgs -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs
+[4.494s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_control_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_control_msgs -- -j16 -l16
+[4.817s] Consolidate compiler generated dependencies of target autoware_auto_control_msgs__rosidl_generator_c
+[4.943s] [ 10%] Built target autoware_auto_control_msgs__rosidl_generator_c
+[4.960s] [ 12%] Built target autoware_auto_control_msgs__cpp
+[5.063s] Consolidate compiler generated dependencies of target autoware_auto_control_msgs__rosidl_typesupport_fastrtps_c
+[5.083s] Consolidate compiler generated dependencies of target autoware_auto_control_msgs__rosidl_typesupport_introspection_c
+[5.101s] Consolidate compiler generated dependencies of target autoware_auto_control_msgs__rosidl_typesupport_introspection_cpp
+[5.127s] Consolidate compiler generated dependencies of target autoware_auto_control_msgs__rosidl_typesupport_c
+[5.161s] [ 12%] Built target ament_cmake_python_symlink_autoware_auto_control_msgs
+[5.171s] Consolidate compiler generated dependencies of target autoware_auto_control_msgs__rosidl_typesupport_fastrtps_cpp
+[5.192s] Consolidate compiler generated dependencies of target autoware_auto_control_msgs__rosidl_typesupport_cpp
+[5.218s] [ 23%] Built target autoware_auto_control_msgs__rosidl_typesupport_fastrtps_c
+[5.275s] [ 34%] Built target autoware_auto_control_msgs__rosidl_typesupport_introspection_c
+[5.428s] [ 45%] Built target autoware_auto_control_msgs__rosidl_typesupport_fastrtps_cpp
+[5.428s] [ 56%] Built target autoware_auto_control_msgs__rosidl_typesupport_introspection_cpp
+[5.428s] [ 67%] Built target autoware_auto_control_msgs__rosidl_typesupport_cpp
+[5.429s] [ 78%] Built target autoware_auto_control_msgs__rosidl_typesupport_c
+[5.648s] [ 78%] Built target autoware_auto_control_msgs
+[6.058s] [ 80%] Built target autoware_auto_control_msgs__py
+[6.398s] Consolidate compiler generated dependencies of target autoware_auto_control_msgs__rosidl_generator_py
+[6.644s] [ 89%] Built target autoware_auto_control_msgs__rosidl_generator_py
+[6.702s] running egg_info
+[6.703s] writing autoware_auto_control_msgs.egg-info/PKG-INFO
+[6.721s] writing dependency_links to autoware_auto_control_msgs.egg-info/dependency_links.txt
+[6.726s] writing top-level names to autoware_auto_control_msgs.egg-info/top_level.txt
+[6.729s] reading manifest file 'autoware_auto_control_msgs.egg-info/SOURCES.txt'
+[6.730s] writing manifest file 'autoware_auto_control_msgs.egg-info/SOURCES.txt'
+[6.878s] Consolidate compiler generated dependencies of target autoware_auto_control_msgs__rosidl_typesupport_c__pyext
+[6.882s] Consolidate compiler generated dependencies of target autoware_auto_control_msgs__rosidl_typesupport_fastrtps_c__pyext
+[6.919s] Consolidate compiler generated dependencies of target autoware_auto_control_msgs__rosidl_typesupport_introspection_c__pyext
+[6.941s] [ 89%] Built target ament_cmake_python_build_autoware_auto_control_msgs_egg
+[7.112s] [ 92%] Built target autoware_auto_control_msgs__rosidl_typesupport_c__pyext
+[7.139s] [ 96%] Built target autoware_auto_control_msgs__rosidl_typesupport_introspection_c__pyext
+[7.172s] [100%] Built target autoware_auto_control_msgs__rosidl_typesupport_fastrtps_c__pyext
+[7.289s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_control_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_control_msgs -- -j16 -l16
+[11.089s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_control_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_control_msgs
+[11.153s] -- Install configuration: "Release"
+[11.153s] -- Execute custom install script
+[11.153s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/ament_index/resource_index/rosidl_interfaces/autoware_auto_control_msgs
+[11.153s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/ackermann_control_command.h
+[11.153s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/ackermann_lateral_command.h
+[11.153s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_control_command__functions.h
+[11.153s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_control_command__struct.h
+[11.153s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_control_command__type_support.h
+[11.153s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_lateral_command__functions.h
+[11.153s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_lateral_command__struct.h
+[11.153s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_lateral_command__type_support.h
+[11.154s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/high_level_control_command__functions.h
+[11.154s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/high_level_control_command__struct.h
+[11.154s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/high_level_control_command__type_support.h
+[11.154s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/longitudinal_command__functions.h
+[11.154s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/longitudinal_command__struct.h
+[11.154s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/longitudinal_command__type_support.h
+[11.154s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/high_level_control_command.h
+[11.154s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/longitudinal_command.h
+[11.154s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/rosidl_generator_c__visibility_control.h
+[11.154s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/environment/library_path.sh
+[11.154s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/environment/library_path.dsv
+[11.154s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_control_command__rosidl_typesupport_fastrtps_c.h
+[11.154s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_lateral_command__rosidl_typesupport_fastrtps_c.h
+[11.154s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/high_level_control_command__rosidl_typesupport_fastrtps_c.h
+[11.154s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/longitudinal_command__rosidl_typesupport_fastrtps_c.h
+[11.155s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[11.155s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_control_command__rosidl_typesupport_introspection_c.h
+[11.155s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_lateral_command__rosidl_typesupport_introspection_c.h
+[11.155s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/high_level_control_command__rosidl_typesupport_introspection_c.h
+[11.155s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/longitudinal_command__rosidl_typesupport_introspection_c.h
+[11.155s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[11.156s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/ackermann_control_command.hpp
+[11.156s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/ackermann_lateral_command.hpp
+[11.156s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_control_command__builder.hpp
+[11.157s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_control_command__struct.hpp
+[11.157s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_control_command__traits.hpp
+[11.157s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_lateral_command__builder.hpp
+[11.157s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_lateral_command__struct.hpp
+[11.158s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_lateral_command__traits.hpp
+[11.158s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/high_level_control_command__builder.hpp
+[11.158s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/high_level_control_command__struct.hpp
+[11.158s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/high_level_control_command__traits.hpp
+[11.159s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/longitudinal_command__builder.hpp
+[11.159s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/longitudinal_command__struct.hpp
+[11.159s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/longitudinal_command__traits.hpp
+[11.159s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/high_level_control_command.hpp
+[11.159s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/longitudinal_command.hpp
+[11.160s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_control_command__rosidl_typesupport_fastrtps_cpp.hpp
+[11.160s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_lateral_command__rosidl_typesupport_fastrtps_cpp.hpp
+[11.163s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/high_level_control_command__rosidl_typesupport_fastrtps_cpp.hpp
+[11.163s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/longitudinal_command__rosidl_typesupport_fastrtps_cpp.hpp
+[11.163s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[11.163s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_control_command__rosidl_typesupport_introspection_cpp.hpp
+[11.163s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/ackermann_lateral_command__rosidl_typesupport_introspection_cpp.hpp
+[11.163s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/high_level_control_command__rosidl_typesupport_introspection_cpp.hpp
+[11.163s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/include/autoware_auto_control_msgs/autoware_auto_control_msgs/msg/detail/longitudinal_command__rosidl_typesupport_introspection_cpp.hpp
+[11.164s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/environment/pythonpath.sh
+[11.164s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/environment/pythonpath.dsv
+[11.164s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs-1.0.0-py3.10.egg-info/PKG-INFO
+[11.164s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs-1.0.0-py3.10.egg-info/SOURCES.txt
+[11.164s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs-1.0.0-py3.10.egg-info/dependency_links.txt
+[11.164s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs-1.0.0-py3.10.egg-info/top_level.txt
+[11.165s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/__init__.py
+[11.165s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/_autoware_auto_control_msgs_s.ep.rosidl_typesupport_c.c
+[11.165s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/_autoware_auto_control_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[11.165s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/_autoware_auto_control_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[11.166s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/autoware_auto_control_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[11.166s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/autoware_auto_control_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[11.166s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/autoware_auto_control_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[11.166s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/libautoware_auto_control_msgs__rosidl_generator_py.so
+[11.166s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/msg/__init__.py
+[11.166s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/msg/_ackermann_control_command.py
+[11.166s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/msg/_ackermann_control_command_s.c
+[11.166s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/msg/_ackermann_lateral_command.py
+[11.166s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/msg/_ackermann_lateral_command_s.c
+[11.167s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/msg/_high_level_control_command.py
+[11.167s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/msg/_high_level_control_command_s.c
+[11.167s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/msg/_longitudinal_command.py
+[11.167s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/msg/_longitudinal_command_s.c
+[11.167s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/autoware_auto_control_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[11.167s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/autoware_auto_control_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[11.168s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/autoware_auto_control_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[11.170s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/msg/AckermannControlCommand.idl
+[11.170s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/msg/AckermannLateralCommand.idl
+[11.170s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/msg/HighLevelControlCommand.idl
+[11.170s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/msg/LongitudinalCommand.idl
+[11.170s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/ament_index/resource_index/package_run_dependencies/autoware_auto_control_msgs
+[11.170s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/ament_index/resource_index/parent_prefix_path/autoware_auto_control_msgs
+[11.170s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/environment/ament_prefix_path.sh
+[11.170s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/environment/ament_prefix_path.dsv
+[11.170s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/environment/path.sh
+[11.170s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/environment/path.dsv
+[11.170s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/local_setup.bash
+[11.170s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/local_setup.sh
+[11.171s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/local_setup.zsh
+[11.171s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/local_setup.dsv
+[11.171s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/package.dsv
+[11.238s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/ament_index/resource_index/packages/autoware_auto_control_msgs
+[11.238s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/rosidl_cmake-extras.cmake
+[11.238s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[11.238s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[11.238s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[11.238s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[11.238s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[11.238s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[11.238s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/autoware_auto_control_msgsConfig.cmake
+[11.238s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/autoware_auto_control_msgsConfig-version.cmake
+[11.238s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/package.xml
+[11.238s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/lib/libautoware_auto_control_msgs__rosidl_generator_c.so
+[11.238s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/lib/libautoware_auto_control_msgs__rosidl_typesupport_fastrtps_c.so
+[11.238s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/lib/libautoware_auto_control_msgs__rosidl_typesupport_introspection_c.so
+[11.238s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/lib/libautoware_auto_control_msgs__rosidl_typesupport_c.so
+[11.239s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/lib/libautoware_auto_control_msgs__rosidl_typesupport_fastrtps_cpp.so
+[11.239s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/lib/libautoware_auto_control_msgs__rosidl_typesupport_introspection_cpp.so
+[11.239s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/lib/libautoware_auto_control_msgs__rosidl_typesupport_cpp.so
+[11.353s] Listing '/home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs'...
+[11.353s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/__init__.py'...
+[11.353s] Listing '/home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages/autoware_auto_control_msgs/msg'...
+[11.357s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/lib/libautoware_auto_control_msgs__rosidl_generator_py.so
+[11.358s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/export_autoware_auto_control_msgs__rosidl_generator_cExport.cmake
+[11.358s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/export_autoware_auto_control_msgs__rosidl_generator_cExport-release.cmake
+[11.358s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/export_autoware_auto_control_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[11.358s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/export_autoware_auto_control_msgs__rosidl_typesupport_fastrtps_cExport-release.cmake
+[11.358s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/autoware_auto_control_msgs__rosidl_typesupport_introspection_cExport.cmake
+[11.358s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/autoware_auto_control_msgs__rosidl_typesupport_introspection_cExport-release.cmake
+[11.359s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/autoware_auto_control_msgs__rosidl_typesupport_cExport.cmake
+[11.359s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/autoware_auto_control_msgs__rosidl_typesupport_cExport-release.cmake
+[11.359s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/export_autoware_auto_control_msgs__rosidl_generator_cppExport.cmake
+[11.359s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/export_autoware_auto_control_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[11.359s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/export_autoware_auto_control_msgs__rosidl_typesupport_fastrtps_cppExport-release.cmake
+[11.359s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/autoware_auto_control_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[11.359s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/autoware_auto_control_msgs__rosidl_typesupport_introspection_cppExport-release.cmake
+[11.359s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/autoware_auto_control_msgs__rosidl_typesupport_cppExport.cmake
+[11.359s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/autoware_auto_control_msgs__rosidl_typesupport_cppExport-release.cmake
+[11.359s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/export_autoware_auto_control_msgs__rosidl_generator_pyExport.cmake
+[11.359s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_auto_control_msgs/share/autoware_auto_control_msgs/cmake/export_autoware_auto_control_msgs__rosidl_generator_pyExport-release.cmake
+[11.367s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_control_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_control_msgs

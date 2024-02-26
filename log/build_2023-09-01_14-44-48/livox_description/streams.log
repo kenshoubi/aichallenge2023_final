@@ -1,0 +1,42 @@
+[0.053s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/livox_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/sensor_component_description/livox_description -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/livox_description
+[2.716s] -- The C compiler identification is GNU 11.4.0
+[2.716s] -- The CXX compiler identification is GNU 11.4.0
+[2.716s] -- Detecting C compiler ABI info
+[2.716s] -- Detecting C compiler ABI info - done
+[2.716s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.716s] -- Detecting C compile features
+[2.716s] -- Detecting C compile features - done
+[2.716s] -- Detecting CXX compiler ABI info
+[2.717s] -- Detecting CXX compiler ABI info - done
+[2.717s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.717s] -- Detecting CXX compile features
+[2.717s] -- Detecting CXX compile features - done
+[2.717s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[2.717s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[2.717s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.717s] -- Configuring done
+[2.717s] -- Generating done
+[2.718s] -- Build files have been written to: /home/autoware/aichallenge2023-integration-final-main/build/livox_description
+[2.746s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/livox_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/sensor_component_description/livox_description -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/livox_description
+[2.748s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/livox_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/livox_description -- -j16 -l16
+[12.008s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/livox_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/livox_description -- -j16 -l16
+[12.259s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/livox_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/livox_description
+[12.297s] -- Install configuration: "Release"
+[12.298s] -- Execute custom install script
+[12.299s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/livox_description/share/livox_description/urdf/livox_horizon.xacro
+[12.337s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/livox_description/share/ament_index/resource_index/package_run_dependencies/livox_description
+[12.373s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/livox_description/share/ament_index/resource_index/parent_prefix_path/livox_description
+[12.412s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/livox_description/share/livox_description/environment/ament_prefix_path.sh
+[12.448s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/livox_description/share/livox_description/environment/ament_prefix_path.dsv
+[12.491s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/livox_description/share/livox_description/environment/path.sh
+[12.525s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/livox_description/share/livox_description/environment/path.dsv
+[12.561s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/livox_description/share/livox_description/local_setup.bash
+[12.597s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/livox_description/share/livox_description/local_setup.sh
+[12.634s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/livox_description/share/livox_description/local_setup.zsh
+[12.669s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/livox_description/share/livox_description/local_setup.dsv
+[12.705s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/livox_description/share/livox_description/package.dsv
+[12.739s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/livox_description/share/ament_index/resource_index/packages/livox_description
+[12.776s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/livox_description/share/livox_description/cmake/livox_descriptionConfig.cmake
+[12.809s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/livox_description/share/livox_description/cmake/livox_descriptionConfig-version.cmake
+[12.844s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/livox_description/share/livox_description/package.xml
+[12.899s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/livox_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/livox_description

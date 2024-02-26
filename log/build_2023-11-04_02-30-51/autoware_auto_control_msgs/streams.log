@@ -1,0 +1,23 @@
+[0.191s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_control_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_control_msgs -- -j16 -l16
+[0.728s] [ 10%] Built target autoware_auto_control_msgs__rosidl_generator_c
+[0.861s] [ 12%] Built target autoware_auto_control_msgs__cpp
+[0.873s] [ 12%] Built target ament_cmake_python_symlink_autoware_auto_control_msgs
+[1.067s] gmake[2]: *** [CMakeFiles/autoware_auto_control_msgs__rosidl_typesupport_fastrtps_c.dir/build.make:210: CMakeFiles/autoware_auto_control_msgs__rosidl_typesupport_fastrtps_c.dir/depend] Interrupt
+[1.069s] gmake[2]: *** wait: No child processes.  Stop.
+[1.069s] gmake[2]: *** Waiting for unfinished jobs....
+[1.069s] gmake[2]: *** wait: No child processes.  Stop.
+[1.069s] gmake[2]: *** [CMakeFiles/autoware_auto_control_msgs__rosidl_typesupport_c.dir/build.make:189: CMakeFiles/autoware_auto_control_msgs__rosidl_typesupport_c.dir/depend] Interrupt
+[1.070s] gmake[1]: *** [CMakeFiles/Makefile2:264: CMakeFiles/autoware_auto_control_msgs__rosidl_typesupport_introspection_c.dir/all] Error 2
+[1.070s] gmake[1]: *** [CMakeFiles/Makefile2:290: CMakeFiles/autoware_auto_control_msgs__rosidl_typesupport_c.dir/all] Interrupt
+[1.070s] gmake[2]: *** [CMakeFiles/ament_cmake_python_build_autoware_auto_control_msgs_egg.dir/build.make:85: CMakeFiles/ament_cmake_python_build_autoware_auto_control_msgs_egg.dir/depend] Interrupt
+[1.070s] gmake[1]: *** [CMakeFiles/Makefile2:446: CMakeFiles/ament_cmake_python_build_autoware_auto_control_msgs_egg.dir/all] Interrupt
+[1.070s] gmake[2]: *** [CMakeFiles/autoware_auto_control_msgs__rosidl_typesupport_fastrtps_cpp.dir/build.make:207: CMakeFiles/autoware_auto_control_msgs__rosidl_typesupport_fastrtps_cpp.dir/depend] Interrupt
+[1.071s] gmake[2]: *** [CMakeFiles/autoware_auto_control_msgs__rosidl_typesupport_introspection_cpp.dir/build.make:206: CMakeFiles/autoware_auto_control_msgs__rosidl_typesupport_introspection_cpp.dir/depend] Interrupt
+[1.072s] gmake[1]: *** [CMakeFiles/Makefile2:342: CMakeFiles/autoware_auto_control_msgs__rosidl_typesupport_fastrtps_cpp.dir/all] Interrupt
+[1.075s] gmake[1]: *** [CMakeFiles/Makefile2:368: CMakeFiles/autoware_auto_control_msgs__rosidl_typesupport_introspection_cpp.dir/all] Interrupt
+[1.095s] gmake[2]: *** [CMakeFiles/autoware_auto_control_msgs__rosidl_typesupport_cpp.dir/build.make:188: CMakeFiles/autoware_auto_control_msgs__rosidl_typesupport_cpp.dir/depend] Interrupt
+[1.095s] gmake[1]: *** [CMakeFiles/Makefile2:394: CMakeFiles/autoware_auto_control_msgs__rosidl_typesupport_cpp.dir/all] Interrupt
+[1.095s] gmake[1]: *** wait: No child processes.  Stop.
+[1.095s] gmake[1]: *** Waiting for unfinished jobs....
+[1.095s] gmake[1]: *** wait: No child processes.  Stop.
+[1.095s] gmake: *** [Makefile:146: all] Error 2

@@ -1,0 +1,26 @@
+[ 33%] [32m[1mLinking CXX shared library libtraffic_light_selector.so[0m
+[100%] Built target traffic_light_selector
+-- Install configuration: "Release"
+-- Execute custom install script
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/environment/library_path.sh
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/environment/library_path.dsv
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/lib/libtraffic_light_selector.so
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/launch/traffic_light_selector.launch.xml
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/ament_index/resource_index/package_run_dependencies/traffic_light_selector
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/ament_index/resource_index/parent_prefix_path/traffic_light_selector
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/environment/path.sh
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/environment/path.dsv
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/local_setup.bash
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/local_setup.sh
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/local_setup.zsh
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/local_setup.dsv
+-- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/package.dsv
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/ament_index/resource_index/packages/traffic_light_selector
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/ament_index/resource_index/rclcpp_components/traffic_light_selector
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/cmake/ament_cmake_export_libraries-extras.cmake
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/cmake/traffic_light_selectorConfig.cmake
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/cmake/traffic_light_selectorConfig-version.cmake
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/traffic_light_selector/share/traffic_light_selector/package.xml

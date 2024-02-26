@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/freespace_planner/include/freespace_planner/freespace_planner_node.hpp

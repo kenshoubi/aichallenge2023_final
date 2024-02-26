@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/static_centerline_optimizer/rosidl_generator_cpp/static_centerline_optimizer/srv/detail/plan_route__traits.hpp

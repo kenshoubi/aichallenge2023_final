@@ -1,0 +1,12 @@
+{
+  "rawDistanceScore": 149.08,
+  "distanceScore": 141.626,
+  "task3Duration": 108.199,
+  "isOutsideLane": true,
+  "isTimeout": false,
+  "hasExceededSpeedLimit": false,
+  "isOverridden": false,
+  "hasFinishedTask1": false,
+  "hasFinishedTask2": true,
+  "hasFinishedTask3": false
+}

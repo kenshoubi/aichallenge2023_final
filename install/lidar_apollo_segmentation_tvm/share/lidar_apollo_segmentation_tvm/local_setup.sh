@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/lidar_apollo_segmentation_tvm/ament_cmake_environment_hooks/local_setup.sh

@@ -1,0 +1,4 @@
+[ 20%] Built target gmock
+[ 73%] Built target pose_initializer_node
+[ 86%] Built target gmock_main
+[100%] Built target test_copy_vector_to_array

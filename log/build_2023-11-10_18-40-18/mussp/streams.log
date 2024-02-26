@@ -1,0 +1,31 @@
+[0.085s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/mussp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/mussp -- -j16 -l16
+[1.966s] [100%] Built target mussp
+[1.990s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/mussp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/mussp -- -j16 -l16
+[2.298s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/mussp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/mussp
+[2.326s] -- Install configuration: "Release"
+[2.326s] -- Execute custom install script
+[2.326s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/include/mussp/Graph.h
+[2.326s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/include/mussp/Node.h
+[2.326s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/include/mussp/Sink.h
+[2.326s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/include/mussp/mussp.h
+[2.327s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/mussp/environment/library_path.sh
+[2.327s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/mussp/environment/library_path.dsv
+[2.327s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/lib/libmussp.so
+[2.327s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/ament_index/resource_index/package_run_dependencies/mussp
+[2.328s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/ament_index/resource_index/parent_prefix_path/mussp
+[2.328s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/mussp/environment/ament_prefix_path.sh
+[2.328s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/mussp/environment/ament_prefix_path.dsv
+[2.328s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/mussp/environment/path.sh
+[2.328s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/mussp/environment/path.dsv
+[2.328s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/mussp/local_setup.bash
+[2.328s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/mussp/local_setup.sh
+[2.329s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/mussp/local_setup.zsh
+[2.332s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/mussp/local_setup.dsv
+[2.334s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/mussp/package.dsv
+[2.368s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/ament_index/resource_index/packages/mussp
+[2.368s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/mussp/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.368s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/mussp/cmake/ament_cmake_export_libraries-extras.cmake
+[2.368s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/mussp/cmake/musspConfig.cmake
+[2.369s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/mussp/cmake/musspConfig-version.cmake
+[2.369s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/mussp/share/mussp/package.xml
+[2.375s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/mussp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/mussp

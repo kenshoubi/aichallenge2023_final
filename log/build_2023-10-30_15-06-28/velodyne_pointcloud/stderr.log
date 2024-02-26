@@ -1,0 +1,11 @@
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/src/conversions/interpolate.cc:[m[K In member function ‘[01m[Kvoid velodyne_pointcloud::Interpolate::processPoints(sensor_msgs::msg::PointCloud2_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/src/conversions/interpolate.cc:125:51:[m[K [01;31m[Kerror: [m[Kinvalid initialization of reference of type ‘[01m[Kconst ConstPtr&[m[K’ {aka ‘[01m[Kconst std::shared_ptr<const pcl::PointCloud<velodyne_pointcloud::PointXYZIRADT> >&[m[K’} from expression of type ‘[01m[Kpcl::PointCloud<velodyne_pointcloud::PointXYZIRADT>[m[K’
+  125 |     const auto interpolate_points_xyzir = convert([01;31m[Knoise_filtered_points[m[K);
+      |                                                   [01;31m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/src/conversions/interpolate.cc:15[m[K:
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/include/velodyne_pointcloud/func.h:64:73:[m[K [01;36m[Knote: [m[Kin passing argument 1 of ‘[01m[Kpcl::PointCloud<velodyne_pointcloud::PointXYZIR>::Ptr velodyne_pointcloud::convert(const ConstPtr&)[m[K’
+   64 |   [01;36m[Kconst pcl::PointCloud<velodyne_pointcloud::PointXYZIRADT>::ConstPtr & input_pointcloud[m[K);
+      |   [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/interpolate_nodelet.dir/build.make:76: CMakeFiles/interpolate_nodelet.dir/src/conversions/interpolate.cc.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:228: CMakeFiles/interpolate_nodelet.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

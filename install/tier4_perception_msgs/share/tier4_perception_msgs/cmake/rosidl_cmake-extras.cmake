@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/tier4_perception_msgs/rosidl_cmake/rosidl_cmake-extras.cmake

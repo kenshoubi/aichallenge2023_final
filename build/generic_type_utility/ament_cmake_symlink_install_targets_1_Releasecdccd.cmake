@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/generic_type_utility/print" "/home/autoware/aichallenge2023-integration-final-main/build/generic_type_utility/check" "TARGETS" "print" "check" "DESTINATION" "lib/generic_type_utility")

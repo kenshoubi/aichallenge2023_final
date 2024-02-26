@@ -1,0 +1,182 @@
+[0.164s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_perception_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/autoware_perception_msgs -- -j16 -l16
+[0.486s] [ 11%] Built target autoware_perception_msgs__rosidl_generator_c
+[0.503s] [ 12%] Built target autoware_perception_msgs__cpp
+[0.523s] [ 12%] Built target ament_cmake_python_symlink_autoware_perception_msgs
+[0.662s] [ 23%] Built target autoware_perception_msgs__rosidl_typesupport_introspection_c
+[0.663s] [ 34%] Built target autoware_perception_msgs__rosidl_typesupport_c
+[0.671s] [ 46%] Built target autoware_perception_msgs__rosidl_typesupport_fastrtps_c
+[0.685s] [ 57%] Built target autoware_perception_msgs__rosidl_typesupport_cpp
+[0.702s] [ 68%] Built target autoware_perception_msgs__rosidl_typesupport_introspection_cpp
+[0.707s] [ 79%] Built target autoware_perception_msgs__rosidl_typesupport_fastrtps_cpp
+[0.833s] [ 79%] Built target autoware_perception_msgs
+[0.949s] [ 80%] Built target autoware_perception_msgs__py
+[1.023s] running egg_info
+[1.025s] writing autoware_perception_msgs.egg-info/PKG-INFO
+[1.025s] writing dependency_links to autoware_perception_msgs.egg-info/dependency_links.txt
+[1.025s] writing top-level names to autoware_perception_msgs.egg-info/top_level.txt
+[1.028s] reading manifest file 'autoware_perception_msgs.egg-info/SOURCES.txt'
+[1.029s] writing manifest file 'autoware_perception_msgs.egg-info/SOURCES.txt'
+[1.061s] [ 90%] Built target autoware_perception_msgs__rosidl_generator_py
+[1.097s] [ 90%] Built target ament_cmake_python_build_autoware_perception_msgs_egg
+[1.174s] [ 93%] Built target autoware_perception_msgs__rosidl_typesupport_introspection_c__pyext
+[1.175s] [ 96%] Built target autoware_perception_msgs__rosidl_typesupport_c__pyext
+[1.179s] [100%] Built target autoware_perception_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.239s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_perception_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/autoware_perception_msgs -- -j16 -l16
+[4.777s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_perception_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/autoware_perception_msgs
+[4.881s] -- Install configuration: "Release"
+[4.882s] -- Execute custom install script
+[4.882s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/ament_index/resource_index/rosidl_interfaces/autoware_perception_msgs
+[4.884s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light__functions.h
+[4.885s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light__struct.h
+[4.885s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light__type_support.h
+[4.886s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_array__functions.h
+[4.886s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_array__struct.h
+[4.887s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_array__type_support.h
+[4.887s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_element__functions.h
+[4.888s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_element__struct.h
+[4.888s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_element__type_support.h
+[4.889s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal__functions.h
+[4.889s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal__struct.h
+[4.889s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal__type_support.h
+[4.890s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal_array__functions.h
+[4.891s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal_array__struct.h
+[4.891s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal_array__type_support.h
+[4.891s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/rosidl_generator_c__visibility_control.h
+[4.891s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/traffic_light.h
+[4.892s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/traffic_light_array.h
+[4.892s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/traffic_light_element.h
+[4.892s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/traffic_signal.h
+[4.892s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/traffic_signal_array.h
+[4.892s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/environment/library_path.sh
+[4.893s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/environment/library_path.dsv
+[4.894s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light__rosidl_typesupport_fastrtps_c.h
+[4.894s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_array__rosidl_typesupport_fastrtps_c.h
+[4.894s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_element__rosidl_typesupport_fastrtps_c.h
+[4.895s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal__rosidl_typesupport_fastrtps_c.h
+[4.895s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal_array__rosidl_typesupport_fastrtps_c.h
+[4.895s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[4.897s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light__builder.hpp
+[4.897s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light__struct.hpp
+[4.898s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light__traits.hpp
+[4.898s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_array__builder.hpp
+[4.899s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_array__struct.hpp
+[4.899s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_array__traits.hpp
+[4.900s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_element__builder.hpp
+[4.900s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_element__struct.hpp
+[4.901s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_element__traits.hpp
+[4.901s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal__builder.hpp
+[4.902s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal__struct.hpp
+[4.902s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal__traits.hpp
+[4.903s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal_array__builder.hpp
+[4.903s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal_array__struct.hpp
+[4.904s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal_array__traits.hpp
+[4.904s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/traffic_light.hpp
+[4.905s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/traffic_light_array.hpp
+[4.905s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/traffic_light_element.hpp
+[4.906s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/traffic_signal.hpp
+[4.906s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/traffic_signal_array.hpp
+[4.908s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light__rosidl_typesupport_fastrtps_cpp.hpp
+[4.908s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_array__rosidl_typesupport_fastrtps_cpp.hpp
+[4.909s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_element__rosidl_typesupport_fastrtps_cpp.hpp
+[4.909s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal__rosidl_typesupport_fastrtps_cpp.hpp
+[4.910s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal_array__rosidl_typesupport_fastrtps_cpp.hpp
+[4.910s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[4.911s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light__rosidl_typesupport_introspection_c.h
+[4.912s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_array__rosidl_typesupport_introspection_c.h
+[4.912s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_element__rosidl_typesupport_introspection_c.h
+[4.913s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal__rosidl_typesupport_introspection_c.h
+[4.913s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal_array__rosidl_typesupport_introspection_c.h
+[4.913s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[4.914s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light__rosidl_typesupport_introspection_cpp.hpp
+[4.914s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_array__rosidl_typesupport_introspection_cpp.hpp
+[4.914s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_light_element__rosidl_typesupport_introspection_cpp.hpp
+[4.915s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal__rosidl_typesupport_introspection_cpp.hpp
+[4.915s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/include/autoware_perception_msgs/autoware_perception_msgs/msg/detail/traffic_signal_array__rosidl_typesupport_introspection_cpp.hpp
+[4.915s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/environment/pythonpath.sh
+[4.916s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/environment/pythonpath.dsv
+[4.917s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs-1.0.0-py3.10.egg-info/PKG-INFO
+[4.917s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs-1.0.0-py3.10.egg-info/SOURCES.txt
+[4.917s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs-1.0.0-py3.10.egg-info/dependency_links.txt
+[4.917s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs-1.0.0-py3.10.egg-info/top_level.txt
+[4.919s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/__init__.py
+[4.919s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/_autoware_perception_msgs_s.ep.rosidl_typesupport_c.c
+[4.919s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/_autoware_perception_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[4.919s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/_autoware_perception_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[4.920s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/autoware_perception_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[4.920s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/autoware_perception_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[4.920s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/autoware_perception_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[4.921s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/libautoware_perception_msgs__rosidl_generator_py.so
+[4.921s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/msg/__init__.py
+[4.921s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/msg/_traffic_light.py
+[4.922s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/msg/_traffic_light_array.py
+[4.922s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/msg/_traffic_light_array_s.c
+[4.922s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/msg/_traffic_light_element.py
+[4.922s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/msg/_traffic_light_element_s.c
+[4.922s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/msg/_traffic_light_s.c
+[4.923s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/msg/_traffic_signal.py
+[4.923s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/msg/_traffic_signal_array.py
+[4.923s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/msg/_traffic_signal_array_s.c
+[4.923s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/msg/_traffic_signal_s.c
+[4.924s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/autoware_perception_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[4.926s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/autoware_perception_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[4.926s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/autoware_perception_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[4.927s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/msg/TrafficLight.idl
+[4.927s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/msg/TrafficLightArray.idl
+[4.928s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/msg/TrafficLightElement.idl
+[4.928s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/msg/TrafficSignal.idl
+[4.928s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/msg/TrafficSignalArray.idl
+[4.929s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/msg/TrafficLight.msg
+[4.929s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/msg/TrafficLightArray.msg
+[4.929s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/msg/TrafficLightElement.msg
+[4.930s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/msg/TrafficSignal.msg
+[4.930s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/msg/TrafficSignalArray.msg
+[4.931s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/ament_index/resource_index/package_run_dependencies/autoware_perception_msgs
+[4.931s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/ament_index/resource_index/parent_prefix_path/autoware_perception_msgs
+[4.933s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/environment/ament_prefix_path.sh
+[4.934s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/environment/ament_prefix_path.dsv
+[4.934s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/environment/path.sh
+[4.934s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/environment/path.dsv
+[4.934s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/local_setup.bash
+[4.934s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/local_setup.sh
+[4.934s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/local_setup.zsh
+[4.935s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/local_setup.dsv
+[4.935s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/package.dsv
+[4.997s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/ament_index/resource_index/packages/autoware_perception_msgs
+[4.997s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/rosidl_cmake-extras.cmake
+[4.998s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[4.998s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[5.002s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[5.002s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[5.003s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[5.003s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[5.003s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/autoware_perception_msgsConfig.cmake
+[5.003s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/autoware_perception_msgsConfig-version.cmake
+[5.003s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/package.xml
+[5.003s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/lib/libautoware_perception_msgs__rosidl_generator_c.so
+[5.004s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/lib/libautoware_perception_msgs__rosidl_typesupport_fastrtps_c.so
+[5.004s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/lib/libautoware_perception_msgs__rosidl_typesupport_fastrtps_cpp.so
+[5.004s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/lib/libautoware_perception_msgs__rosidl_typesupport_introspection_c.so
+[5.004s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/lib/libautoware_perception_msgs__rosidl_typesupport_c.so
+[5.004s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/lib/libautoware_perception_msgs__rosidl_typesupport_introspection_cpp.so
+[5.004s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/lib/libautoware_perception_msgs__rosidl_typesupport_cpp.so
+[5.153s] Listing '/home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs'...
+[5.154s] Listing '/home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/local/lib/python3.10/dist-packages/autoware_perception_msgs/msg'...
+[5.170s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/lib/libautoware_perception_msgs__rosidl_generator_py.so
+[5.171s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/export_autoware_perception_msgs__rosidl_generator_cExport.cmake
+[5.171s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/export_autoware_perception_msgs__rosidl_generator_cExport-release.cmake
+[5.171s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/export_autoware_perception_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[5.171s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/export_autoware_perception_msgs__rosidl_typesupport_fastrtps_cExport-release.cmake
+[5.171s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/export_autoware_perception_msgs__rosidl_generator_cppExport.cmake
+[5.171s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/export_autoware_perception_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[5.171s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/export_autoware_perception_msgs__rosidl_typesupport_fastrtps_cppExport-release.cmake
+[5.172s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/autoware_perception_msgs__rosidl_typesupport_introspection_cExport.cmake
+[5.172s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/autoware_perception_msgs__rosidl_typesupport_introspection_cExport-release.cmake
+[5.172s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/autoware_perception_msgs__rosidl_typesupport_cExport.cmake
+[5.172s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/autoware_perception_msgs__rosidl_typesupport_cExport-release.cmake
+[5.172s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/autoware_perception_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[5.172s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/autoware_perception_msgs__rosidl_typesupport_introspection_cppExport-release.cmake
+[5.173s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/autoware_perception_msgs__rosidl_typesupport_cppExport.cmake
+[5.173s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/autoware_perception_msgs__rosidl_typesupport_cppExport-release.cmake
+[5.173s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/export_autoware_perception_msgs__rosidl_generator_pyExport.cmake
+[5.173s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/autoware_perception_msgs/share/autoware_perception_msgs/cmake/export_autoware_perception_msgs__rosidl_generator_pyExport-release.cmake
+[5.232s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_perception_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/autoware_perception_msgs

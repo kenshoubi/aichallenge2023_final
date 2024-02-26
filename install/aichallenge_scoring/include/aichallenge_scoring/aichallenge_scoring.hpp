@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/aichallenge_scoring/aichallenge_scoring/include/aichallenge_scoring/aichallenge_scoring.hpp

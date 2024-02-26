@@ -1,0 +1,15 @@
+[ 11%] Built target autoware_map_msgs__rosidl_generator_c
+[ 12%] Built target autoware_map_msgs__cpp
+gmake[2]: *** [CMakeFiles/autoware_map_msgs__rosidl_typesupport_fastrtps_c.dir/build.make:328: CMakeFiles/autoware_map_msgs__rosidl_typesupport_fastrtps_c.dir/depend] Interrupt
+gmake[2]: *** [CMakeFiles/autoware_map_msgs__rosidl_typesupport_introspection_c.dir/build.make:325: CMakeFiles/autoware_map_msgs__rosidl_typesupport_introspection_c.dir/depend] Interrupt
+gmake[2]: *** [CMakeFiles/autoware_map_msgs__rosidl_typesupport_c.dir/build.make:303: CMakeFiles/autoware_map_msgs__rosidl_typesupport_c.dir/depend] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:316: CMakeFiles/autoware_map_msgs__rosidl_typesupport_introspection_c.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:342: CMakeFiles/autoware_map_msgs__rosidl_typesupport_c.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:394: CMakeFiles/autoware_map_msgs__rosidl_typesupport_cpp.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:290: CMakeFiles/autoware_map_msgs__rosidl_typesupport_fastrtps_cpp.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:368: CMakeFiles/autoware_map_msgs__rosidl_typesupport_introspection_cpp.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:238: CMakeFiles/autoware_map_msgs__rosidl_typesupport_fastrtps_c.dir/all] Interrupt
+gmake[1]: *** wait: No child processes.  Stop.
+gmake[1]: *** Waiting for unfinished jobs....
+gmake[1]: *** wait: No child processes.  Stop.
+gmake: *** [Makefile:146: all] Error 2

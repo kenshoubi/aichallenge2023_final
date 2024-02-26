@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/vehicle/vehicle_info_util/scripts/min_turning_radius_calculator.py

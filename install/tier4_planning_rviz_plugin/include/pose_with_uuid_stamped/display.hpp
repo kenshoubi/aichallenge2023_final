@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/common/tier4_planning_rviz_plugin/include/pose_with_uuid_stamped/display.hpp

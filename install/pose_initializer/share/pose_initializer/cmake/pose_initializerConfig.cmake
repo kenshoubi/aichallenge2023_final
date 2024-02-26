@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/pose_initializer/ament_cmake_core/pose_initializerConfig.cmake

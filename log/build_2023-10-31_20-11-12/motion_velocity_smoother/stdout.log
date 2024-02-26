@@ -1,0 +1,15 @@
+[ 10%] Built target motion_velocity_smoother
+[ 20%] Built target gmock_main
+[ 35%] Built target gmock
+[ 40%] [32mBuilding CXX object CMakeFiles/smoother.dir/src/smoother/linf_pseudo_jerk_smoother.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/smoother.dir/src/smoother/smoother_base.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/smoother.dir/src/smoother/l2_pseudo_jerk_smoother.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/smoother.dir/src/smoother/jerk_filtered_smoother.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/smoother.dir/src/smoother/analytical_jerk_constrained_smoother/analytical_jerk_constrained_smoother.cpp.o[0m
+[ 65%] [32m[1mLinking CXX shared library libsmoother.so[0m
+[ 80%] Built target smoother
+[ 85%] [32m[1mLinking CXX executable test_smoother_functions[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/motion_velocity_smoother_node.dir/src/motion_velocity_smoother_node.cpp.o[0m
+[ 95%] Built target test_smoother_functions
+[100%] [32m[1mLinking CXX shared library libmotion_velocity_smoother_node.so[0m
+[100%] Built target motion_velocity_smoother_node

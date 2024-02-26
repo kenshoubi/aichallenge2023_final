@@ -1,0 +1,4 @@
+source;share/generic_type_utility/local_setup.bash
+source;share/generic_type_utility/local_setup.dsv
+source;share/generic_type_utility/local_setup.sh
+source;share/generic_type_utility/local_setup.zsh

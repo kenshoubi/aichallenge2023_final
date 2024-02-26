@@ -1,0 +1,9 @@
+[35m[1mConsolidate compiler generated dependencies of target smoother[0m
+[  5%] [32mBuilding CXX object CMakeFiles/smoother.dir/src/smoother/analytical_jerk_constrained_smoother/analytical_jerk_constrained_smoother.cpp.o[0m
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/motion_velocity_smoother/src/smoother/analytical_jerk_constrained_smoother/analytical_jerk_constrained_smoother.cpp:[m[K In member function ‘[01m[Kvirtual bool motion_velocity_smoother::AnalyticalJerkConstrainedSmoother::apply(double, double, const TrajectoryPoints&, motion_velocity_smoother::TrajectoryPoints&, std::vector<std::vector<autoware_auto_planning_msgs::msg::TrajectoryPoint_<std::allocator<void> >, std::allocator<autoware_auto_planning_msgs::msg::TrajectoryPoint_<std::allocator<void> > > > >&)[m[K’:
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/motion_velocity_smoother/src/smoother/analytical_jerk_constrained_smoother/analytical_jerk_constrained_smoother.cpp:218:29:[m[K [01;31m[Kerror: [m[K‘[01m[Kv_curvature_max[m[K’ was not declared in this scope
+  218 |     start_acc = initial_acc;[01;31m[Kv_curvature_max[m[K;
+      |                             [01;31m[K^~~~~~~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/smoother.dir/build.make:132: CMakeFiles/smoother.dir/src/smoother/analytical_jerk_constrained_smoother/analytical_jerk_constrained_smoother.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:180: CMakeFiles/smoother.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

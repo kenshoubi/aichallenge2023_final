@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/object_range_splitter/ament_cmake_environment_hooks/local_setup.sh

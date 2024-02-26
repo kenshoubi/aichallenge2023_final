@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/tier4_control_msgs/rosidl_generator_c/tier4_control_msgs/msg/detail/gate_mode__type_support.h

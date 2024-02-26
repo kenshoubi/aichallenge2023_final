@@ -1,0 +1,6 @@
+[  8%] Built target obstacle_velocity_limiter
+[ 16%] Built target gtest
+[ 25%] Built target gtest_main
+[ 70%] Built target obstacle_velocity_limiter_node
+[ 79%] Built target collision_benchmark
+[100%] Built target test_obstacle_velocity_limiter

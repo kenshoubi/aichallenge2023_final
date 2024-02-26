@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/scenario_selector/scenario_selector" "TARGETS" "scenario_selector" "DESTINATION" "lib/scenario_selector")

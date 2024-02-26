@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/mission_planner/mission_planner" "TARGETS" "mission_planner" "DESTINATION" "lib/mission_planner")

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/lidar_apollo_instance_segmentation/lidar_apollo_instance_segmentation_node" "TARGETS" "lidar_apollo_instance_segmentation_node" "DESTINATION" "lib/lidar_apollo_instance_segmentation")

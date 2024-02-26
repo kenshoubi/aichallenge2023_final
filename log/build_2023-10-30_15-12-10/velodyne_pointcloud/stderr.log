@@ -1,0 +1,10 @@
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/src/conversions/interpolate.cc:[m[K In member function ‘[01m[Kvoid velodyne_pointcloud::Interpolate::processPoints(sensor_msgs::msg::PointCloud2_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/src/conversions/interpolate.cc:108:56:[m[K [01;31m[Kerror: [m[K‘[01m[Knoise_filtered_points[m[K’ is not a member of ‘[01m[Kpcl::PointCloud<velodyne_pointcloud::PointXYZIRADT>[m[K’
+  108 |   pcl::PointCloud<velodyne_pointcloud::PointXYZIRADT>::[01;31m[Knoise_filtered_points[m[K;
+      |                                                        [01;31m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/src/conversions/interpolate.cc:109:3:[m[K [01;31m[Kerror: [m[K‘[01m[Knoise_filtered_points[m[K’ was not declared in this scope
+  109 |   [01;31m[Knoise_filtered_points[m[K.header = points_xyziradt->header;
+      |   [01;31m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/interpolate_nodelet.dir/build.make:76: CMakeFiles/interpolate_nodelet.dir/src/conversions/interpolate.cc.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:228: CMakeFiles/interpolate_nodelet.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

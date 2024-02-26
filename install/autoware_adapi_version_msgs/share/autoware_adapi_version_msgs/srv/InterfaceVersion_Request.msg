@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_adapi_version_msgs/rosidl_cmake/srv/InterfaceVersion_Request.msg

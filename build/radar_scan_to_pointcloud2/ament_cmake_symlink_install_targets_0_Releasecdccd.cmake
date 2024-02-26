@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/radar_scan_to_pointcloud2/radar_scan_to_pointcloud2_node" "TARGETS" "radar_scan_to_pointcloud2_node" "DESTINATION" "lib/radar_scan_to_pointcloud2")

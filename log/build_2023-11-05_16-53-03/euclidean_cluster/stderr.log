@@ -1,0 +1,13 @@
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/perception/euclidean_cluster/lib/utils.cpp:[m[K In function ‘[01m[Kvoid euclidean_cluster::convertPointCloudClusters2Msg(const Header&, const std::vector<pcl::PointCloud<pcl::PointXYZ> >&, tier4_perception_msgs::msg::DetectedObjectsWithFeature&)[m[K’:
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/perception/euclidean_cluster/lib/utils.cpp:74:54:[m[K [01;31m[Kerror: [m[Kinvalid initialization of reference of type ‘[01m[Kconst PointCloud2&[m[K’ {aka ‘[01m[Kconst sensor_msgs::msg::PointCloud2_<std::allocator<void> >&[m[K’} from expression of type ‘[01m[Kconst pcl::PointCloud<pcl::PointXYZ>[m[K’
+   74 | ometry_msgs::msg::Point centroid = getCentroid([01;31m[Kcluster[m[K);
+      |                                                [01;31m[K^~~~~~~[m[K
+
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/perception/euclidean_cluster/lib/utils.cpp:24:77:[m[K [01;36m[Knote: [m[Kin passing argument 1 of ‘[01m[Kgeometry_msgs::msg::Point euclidean_cluster::getCentroid(const PointCloud2&)[m[K’
+   24 | ntroid([01;36m[Kconst sensor_msgs::msg::PointCloud2 & pointcloud[m[K)
+      |        [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+
+gmake[2]: *** [CMakeFiles/cluster_lib.dir/build.make:76: CMakeFiles/cluster_lib.dir/lib/utils.cpp.o] Error 1
+gmake[2]: *** Waiting for unfinished jobs....
+gmake[1]: *** [CMakeFiles/Makefile2:145: CMakeFiles/cluster_lib.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

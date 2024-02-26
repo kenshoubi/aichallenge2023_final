@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_msgs/rosidl_generator_cpp/aichallenge_scoring_msgs/msg/detail/score__builder.hpp

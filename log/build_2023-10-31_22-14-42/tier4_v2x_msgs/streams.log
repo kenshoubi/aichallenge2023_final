@@ -1,0 +1,182 @@
+[0.128s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/tier4_v2x_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/tier4_v2x_msgs -- -j16 -l16
+[3.527s] [ 11%] Built target tier4_v2x_msgs__rosidl_generator_c
+[3.527s] [ 12%] Built target tier4_v2x_msgs__cpp
+[3.527s] [ 12%] Built target ament_cmake_python_symlink_tier4_v2x_msgs
+[3.527s] [ 23%] Built target tier4_v2x_msgs__rosidl_typesupport_fastrtps_c
+[3.527s] [ 34%] Built target tier4_v2x_msgs__rosidl_typesupport_c
+[3.527s] [ 46%] Built target tier4_v2x_msgs__rosidl_typesupport_introspection_c
+[3.528s] [ 57%] Built target tier4_v2x_msgs__rosidl_typesupport_cpp
+[3.528s] [ 68%] Built target tier4_v2x_msgs__rosidl_typesupport_fastrtps_cpp
+[3.528s] [ 79%] Built target tier4_v2x_msgs__rosidl_typesupport_introspection_cpp
+[3.528s] [ 79%] Built target tier4_v2x_msgs
+[3.528s] running egg_info
+[3.528s] writing tier4_v2x_msgs.egg-info/PKG-INFO
+[3.528s] writing dependency_links to tier4_v2x_msgs.egg-info/dependency_links.txt
+[3.528s] writing top-level names to tier4_v2x_msgs.egg-info/top_level.txt
+[3.528s] reading manifest file 'tier4_v2x_msgs.egg-info/SOURCES.txt'
+[3.528s] writing manifest file 'tier4_v2x_msgs.egg-info/SOURCES.txt'
+[3.528s] [ 80%] Built target tier4_v2x_msgs__py
+[3.528s] [ 80%] Built target ament_cmake_python_build_tier4_v2x_msgs_egg
+[3.528s] [ 90%] Built target tier4_v2x_msgs__rosidl_generator_py
+[3.530s] [ 93%] Built target tier4_v2x_msgs__rosidl_typesupport_c__pyext
+[3.530s] [ 96%] Built target tier4_v2x_msgs__rosidl_typesupport_introspection_c__pyext
+[3.530s] [100%] Built target tier4_v2x_msgs__rosidl_typesupport_fastrtps_c__pyext
+[3.552s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/tier4_v2x_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/tier4_v2x_msgs -- -j16 -l16
+[7.868s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/tier4_v2x_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/tier4_v2x_msgs
+[7.990s] -- Install configuration: "Release"
+[7.993s] -- Execute custom install script
+[7.997s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/ament_index/resource_index/rosidl_interfaces/tier4_v2x_msgs
+[8.001s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command__functions.h
+[8.002s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command__struct.h
+[8.008s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command__type_support.h
+[8.008s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command_array__functions.h
+[8.008s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command_array__struct.h
+[8.009s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command_array__type_support.h
+[8.009s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/key_value__functions.h
+[8.010s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/key_value__struct.h
+[8.010s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/key_value__type_support.h
+[8.010s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state__functions.h
+[8.010s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state__struct.h
+[8.010s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state__type_support.h
+[8.011s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state_array__functions.h
+[8.011s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state_array__struct.h
+[8.011s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state_array__type_support.h
+[8.012s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/infrastructure_command.h
+[8.012s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/infrastructure_command_array.h
+[8.012s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/key_value.h
+[8.012s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/rosidl_generator_c__visibility_control.h
+[8.013s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/virtual_traffic_light_state.h
+[8.014s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/virtual_traffic_light_state_array.h
+[8.014s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/environment/library_path.sh
+[8.015s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/environment/library_path.dsv
+[8.016s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command__rosidl_typesupport_fastrtps_c.h
+[8.017s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command_array__rosidl_typesupport_fastrtps_c.h
+[8.017s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/key_value__rosidl_typesupport_fastrtps_c.h
+[8.018s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state__rosidl_typesupport_fastrtps_c.h
+[8.018s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state_array__rosidl_typesupport_fastrtps_c.h
+[8.019s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[8.020s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command__rosidl_typesupport_introspection_c.h
+[8.020s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command_array__rosidl_typesupport_introspection_c.h
+[8.021s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/key_value__rosidl_typesupport_introspection_c.h
+[8.021s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state__rosidl_typesupport_introspection_c.h
+[8.022s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state_array__rosidl_typesupport_introspection_c.h
+[8.022s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[8.024s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command__builder.hpp
+[8.024s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command__struct.hpp
+[8.025s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command__traits.hpp
+[8.025s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command_array__builder.hpp
+[8.026s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command_array__struct.hpp
+[8.026s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command_array__traits.hpp
+[8.027s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/key_value__builder.hpp
+[8.027s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/key_value__struct.hpp
+[8.028s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/key_value__traits.hpp
+[8.028s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state__builder.hpp
+[8.029s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state__struct.hpp
+[8.029s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state__traits.hpp
+[8.029s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state_array__builder.hpp
+[8.029s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state_array__struct.hpp
+[8.030s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state_array__traits.hpp
+[8.030s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/infrastructure_command.hpp
+[8.030s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/infrastructure_command_array.hpp
+[8.030s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/key_value.hpp
+[8.031s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/virtual_traffic_light_state.hpp
+[8.031s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/virtual_traffic_light_state_array.hpp
+[8.033s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command__rosidl_typesupport_fastrtps_cpp.hpp
+[8.033s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command_array__rosidl_typesupport_fastrtps_cpp.hpp
+[8.033s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/key_value__rosidl_typesupport_fastrtps_cpp.hpp
+[8.034s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state__rosidl_typesupport_fastrtps_cpp.hpp
+[8.034s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state_array__rosidl_typesupport_fastrtps_cpp.hpp
+[8.034s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[8.034s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command__rosidl_typesupport_introspection_cpp.hpp
+[8.034s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/infrastructure_command_array__rosidl_typesupport_introspection_cpp.hpp
+[8.035s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/key_value__rosidl_typesupport_introspection_cpp.hpp
+[8.035s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state__rosidl_typesupport_introspection_cpp.hpp
+[8.035s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/include/tier4_v2x_msgs/tier4_v2x_msgs/msg/detail/virtual_traffic_light_state_array__rosidl_typesupport_introspection_cpp.hpp
+[8.035s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/environment/pythonpath.sh
+[8.036s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/environment/pythonpath.dsv
+[8.036s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs-0.1.0-py3.10.egg-info/PKG-INFO
+[8.037s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs-0.1.0-py3.10.egg-info/SOURCES.txt
+[8.037s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs-0.1.0-py3.10.egg-info/dependency_links.txt
+[8.037s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs-0.1.0-py3.10.egg-info/top_level.txt
+[8.038s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/__init__.py
+[8.039s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/_tier4_v2x_msgs_s.ep.rosidl_typesupport_c.c
+[8.039s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/_tier4_v2x_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[8.039s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/_tier4_v2x_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[8.039s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/libtier4_v2x_msgs__rosidl_generator_py.so
+[8.040s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/msg/__init__.py
+[8.040s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/msg/_infrastructure_command.py
+[8.040s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/msg/_infrastructure_command_array.py
+[8.040s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/msg/_infrastructure_command_array_s.c
+[8.041s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/msg/_infrastructure_command_s.c
+[8.041s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/msg/_key_value.py
+[8.041s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/msg/_key_value_s.c
+[8.041s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/msg/_virtual_traffic_light_state.py
+[8.042s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/msg/_virtual_traffic_light_state_array.py
+[8.042s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/msg/_virtual_traffic_light_state_array_s.c
+[8.042s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/msg/_virtual_traffic_light_state_s.c
+[8.042s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/tier4_v2x_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[8.043s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/tier4_v2x_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[8.043s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/tier4_v2x_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[8.044s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/tier4_v2x_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[8.044s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/tier4_v2x_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[8.045s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/tier4_v2x_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[8.045s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/msg/InfrastructureCommand.idl
+[8.045s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/msg/InfrastructureCommandArray.idl
+[8.046s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/msg/KeyValue.idl
+[8.046s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/msg/VirtualTrafficLightState.idl
+[8.046s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/msg/VirtualTrafficLightStateArray.idl
+[8.047s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/msg/InfrastructureCommand.msg
+[8.047s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/msg/InfrastructureCommandArray.msg
+[8.047s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/msg/KeyValue.msg
+[8.048s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/msg/VirtualTrafficLightState.msg
+[8.048s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/msg/VirtualTrafficLightStateArray.msg
+[8.049s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/ament_index/resource_index/package_run_dependencies/tier4_v2x_msgs
+[8.049s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/ament_index/resource_index/parent_prefix_path/tier4_v2x_msgs
+[8.049s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/environment/ament_prefix_path.sh
+[8.050s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/environment/ament_prefix_path.dsv
+[8.050s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/environment/path.sh
+[8.050s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/environment/path.dsv
+[8.051s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/local_setup.bash
+[8.051s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/local_setup.sh
+[8.051s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/local_setup.zsh
+[8.052s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/local_setup.dsv
+[8.052s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/package.dsv
+[8.163s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/ament_index/resource_index/packages/tier4_v2x_msgs
+[8.163s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/rosidl_cmake-extras.cmake
+[8.163s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[8.163s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[8.167s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[8.167s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[8.167s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[8.167s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[8.167s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/tier4_v2x_msgsConfig.cmake
+[8.167s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/tier4_v2x_msgsConfig-version.cmake
+[8.168s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/package.xml
+[8.168s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/lib/libtier4_v2x_msgs__rosidl_generator_c.so
+[8.168s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/lib/libtier4_v2x_msgs__rosidl_typesupport_fastrtps_c.so
+[8.168s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/lib/libtier4_v2x_msgs__rosidl_typesupport_introspection_c.so
+[8.168s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/lib/libtier4_v2x_msgs__rosidl_typesupport_c.so
+[8.168s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/lib/libtier4_v2x_msgs__rosidl_typesupport_fastrtps_cpp.so
+[8.168s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/lib/libtier4_v2x_msgs__rosidl_typesupport_introspection_cpp.so
+[8.169s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/lib/libtier4_v2x_msgs__rosidl_typesupport_cpp.so
+[8.410s] Listing '/home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs'...
+[8.410s] Listing '/home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/local/lib/python3.10/dist-packages/tier4_v2x_msgs/msg'...
+[8.424s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/lib/libtier4_v2x_msgs__rosidl_generator_py.so
+[8.425s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/export_tier4_v2x_msgs__rosidl_generator_cExport.cmake
+[8.425s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/export_tier4_v2x_msgs__rosidl_generator_cExport-release.cmake
+[8.425s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/export_tier4_v2x_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[8.425s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/export_tier4_v2x_msgs__rosidl_typesupport_fastrtps_cExport-release.cmake
+[8.425s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/tier4_v2x_msgs__rosidl_typesupport_introspection_cExport.cmake
+[8.426s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/tier4_v2x_msgs__rosidl_typesupport_introspection_cExport-release.cmake
+[8.426s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/tier4_v2x_msgs__rosidl_typesupport_cExport.cmake
+[8.426s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/tier4_v2x_msgs__rosidl_typesupport_cExport-release.cmake
+[8.426s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/export_tier4_v2x_msgs__rosidl_generator_cppExport.cmake
+[8.426s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/export_tier4_v2x_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[8.426s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/export_tier4_v2x_msgs__rosidl_typesupport_fastrtps_cppExport-release.cmake
+[8.427s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/tier4_v2x_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[8.427s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/tier4_v2x_msgs__rosidl_typesupport_introspection_cppExport-release.cmake
+[8.427s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/tier4_v2x_msgs__rosidl_typesupport_cppExport.cmake
+[8.427s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/tier4_v2x_msgs__rosidl_typesupport_cppExport-release.cmake
+[8.427s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/export_tier4_v2x_msgs__rosidl_generator_pyExport.cmake
+[8.427s] -- Up-to-date: /home/autoware/aichallenge2023-integration-final-main/install/tier4_v2x_msgs/share/tier4_v2x_msgs/cmake/export_tier4_v2x_msgs__rosidl_generator_pyExport-release.cmake
+[8.457s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/tier4_v2x_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/tier4_v2x_msgs

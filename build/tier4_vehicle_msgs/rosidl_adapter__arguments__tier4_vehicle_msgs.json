@@ -1,0 +1,17 @@
+{
+  "package_name": "tier4_vehicle_msgs",
+  "non_idl_tuples": [
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_vehicle_msgs:msg/ActuationCommand.msg",
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_vehicle_msgs:msg/ActuationCommandStamped.msg",
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_vehicle_msgs:msg/ActuationStatus.msg",
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_vehicle_msgs:msg/ActuationStatusStamped.msg",
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_vehicle_msgs:msg/BatteryStatus.msg",
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_vehicle_msgs:msg/Shift.msg",
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_vehicle_msgs:msg/ShiftStamped.msg",
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_vehicle_msgs:msg/TurnSignal.msg",
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_vehicle_msgs:msg/Steering.msg",
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_vehicle_msgs:msg/SteeringWheelStatusStamped.msg",
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_vehicle_msgs:msg/VehicleEmergencyStamped.msg",
+    "/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_vehicle_msgs:srv/UpdateAccelBrakeMap.srv"
+  ]
+}

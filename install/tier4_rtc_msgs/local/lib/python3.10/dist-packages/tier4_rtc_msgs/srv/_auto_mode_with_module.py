@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/tier4_rtc_msgs/rosidl_generator_py/tier4_rtc_msgs/srv/_auto_mode_with_module.py

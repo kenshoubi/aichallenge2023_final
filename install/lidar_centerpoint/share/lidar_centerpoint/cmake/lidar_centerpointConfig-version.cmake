@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/lidar_centerpoint/ament_cmake_core/lidar_centerpointConfig-version.cmake

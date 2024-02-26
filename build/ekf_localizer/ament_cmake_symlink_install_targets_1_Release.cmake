@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/ekf_localizer/ekf_localizer" "TARGETS" "ekf_localizer" "DESTINATION" "lib/ekf_localizer")

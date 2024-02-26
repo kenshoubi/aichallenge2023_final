@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/default_ad_api/ament_cmake_environment_hooks/local_setup.bash

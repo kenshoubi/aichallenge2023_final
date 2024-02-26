@@ -1,0 +1,50 @@
+-- Found autoware_cmake: 0.1.0 (/home/autoware/aichallenge2023-integration-final-main/install/autoware_cmake/share/autoware_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+-- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+-- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+-- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+-- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Found gmock sources under '/opt/ros/humble/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+-- Found gtest sources under '/opt/ros/humble/src/gtest_vendor': C++ tests using 'Google Test' will be built
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: /home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/motion_velocity_smoother/include
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/autoware/aichallenge2023-integration-final-main/build/motion_velocity_smoother
+[35m[1mConsolidate compiler generated dependencies of target gmock_main[0m
+[35m[1mConsolidate compiler generated dependencies of target gmock[0m
+[35m[1mConsolidate compiler generated dependencies of target motion_velocity_smoother[0m
+[35m[1mConsolidate compiler generated dependencies of target smoother[0m
+[ 10%] Built target gmock_main
+[ 25%] Built target gmock
+[ 35%] Built target motion_velocity_smoother
+[ 45%] [32mBuilding CXX object CMakeFiles/smoother.dir/src/smoother/smoother_base.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/smoother.dir/src/smoother/l2_pseudo_jerk_smoother.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/smoother.dir/src/smoother/jerk_filtered_smoother.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/smoother.dir/src/smoother/linf_pseudo_jerk_smoother.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/smoother.dir/src/smoother/analytical_jerk_constrained_smoother/analytical_jerk_constrained_smoother.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/smoother.dir/src/trajectory_utils.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/smoother.dir/src/resample.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/smoother.dir/src/smoother/analytical_jerk_constrained_smoother/velocity_planning_utils.cpp.o[0m
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/motion_velocity_smoother/src/smoother/analytical_jerk_constrained_smoother/analytical_jerk_constrained_smoother.cpp:[m[K In member function ‘[01m[Kvirtual motion_velocity_smoother::TrajectoryPoints motion_velocity_smoother::AnalyticalJerkConstrainedSmoother::applyLateralAccelerationFilter(const TrajectoryPoints&, double, double, bool, bool, double) const[m[K’:
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/motion_velocity_smoother/src/smoother/analytical_jerk_constrained_smoother/analytical_jerk_constrained_smoother.cpp:334:55:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+  334 |       v_curvature_max = base_param_.min_curve_velocity
+      |                                                       [01;31m[K^[m[K
+      |                                                       [32m[K;[m[K
+  335 |     [32m[K}[m[K
+      |     [32m[K~[m[K                                                  
+gmake[2]: *** [CMakeFiles/smoother.dir/build.make:132: CMakeFiles/smoother.dir/src/smoother/analytical_jerk_constrained_smoother/analytical_jerk_constrained_smoother.cpp.o] Error 1
+gmake[2]: *** Waiting for unfinished jobs....
+gmake[1]: *** [CMakeFiles/Makefile2:180: CMakeFiles/smoother.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

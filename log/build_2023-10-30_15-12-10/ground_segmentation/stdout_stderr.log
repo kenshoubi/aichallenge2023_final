@@ -1,0 +1,4 @@
+[ 20%] Built target ransac_ground_filter_node
+[ 40%] Built target ray_ground_filter_node
+[ 60%] Built target scan_ground_filter_node
+[100%] Built target ground_segmentation

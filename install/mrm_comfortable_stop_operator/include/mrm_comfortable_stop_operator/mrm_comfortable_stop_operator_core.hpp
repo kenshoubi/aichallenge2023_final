@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/system/mrm_comfortable_stop_operator/include/mrm_comfortable_stop_operator/mrm_comfortable_stop_operator_core.hpp

@@ -1,0 +1,26 @@
+[  5%] Built target trajectory_analyzer_exe
+[  7%] Built target planning_debug_tools__cpp
+[ 12%] Built target stop_reason_visualizer_exe
+[ 20%] Built target planning_debug_tools__rosidl_generator_c
+[ 20%] Built target ament_cmake_python_symlink_planning_debug_tools
+[ 28%] Built target planning_debug_tools__rosidl_typesupport_introspection_cpp
+[ 35%] Built target planning_debug_tools__rosidl_typesupport_introspection_c
+[ 43%] Built target planning_debug_tools__rosidl_typesupport_fastrtps_cpp
+[ 51%] Built target planning_debug_tools__rosidl_typesupport_cpp
+[ 58%] Built target planning_debug_tools__rosidl_typesupport_c
+[ 66%] Built target planning_debug_tools__rosidl_typesupport_fastrtps_c
+[ 71%] Built target trajectory_analyzer_node
+[ 71%] Built target planning_debug_tools
+[ 76%] Built target stop_reason_visualizer_node
+[ 79%] Built target planning_debug_tools__py
+running egg_info
+writing planning_debug_tools.egg-info/PKG-INFO
+writing dependency_links to planning_debug_tools.egg-info/dependency_links.txt
+writing top-level names to planning_debug_tools.egg-info/top_level.txt
+reading manifest file 'planning_debug_tools.egg-info/SOURCES.txt'
+writing manifest file 'planning_debug_tools.egg-info/SOURCES.txt'
+[ 84%] Built target planning_debug_tools__rosidl_generator_py
+[ 84%] Built target ament_cmake_python_build_planning_debug_tools_egg
+[ 89%] Built target planning_debug_tools__rosidl_typesupport_c__pyext
+[ 94%] Built target planning_debug_tools__rosidl_typesupport_fastrtps_c__pyext
+[100%] Built target planning_debug_tools__rosidl_typesupport_introspection_c__pyext

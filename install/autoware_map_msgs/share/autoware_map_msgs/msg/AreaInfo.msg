@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/core/autoware_msgs/autoware_map_msgs/msg/AreaInfo.msg

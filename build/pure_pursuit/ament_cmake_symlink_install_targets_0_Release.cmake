@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/pure_pursuit/pure_pursuit_lateral_controller_exe" "TARGETS" "pure_pursuit_lateral_controller_exe" "DESTINATION" "lib/pure_pursuit")

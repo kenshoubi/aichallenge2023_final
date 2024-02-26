@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/tier4_api_msgs/rosidl_generator_py/tier4_api_msgs/msg/_stop_command_s.c

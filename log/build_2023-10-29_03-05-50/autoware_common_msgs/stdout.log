@@ -1,0 +1,22 @@
+[  9%] Built target autoware_common_msgs__rosidl_generator_c
+[ 12%] Built target autoware_common_msgs__cpp
+[ 12%] Built target ament_cmake_python_symlink_autoware_common_msgs
+[ 22%] Built target autoware_common_msgs__rosidl_typesupport_introspection_c
+[ 32%] Built target autoware_common_msgs__rosidl_typesupport_fastrtps_cpp
+[ 41%] Built target autoware_common_msgs__rosidl_typesupport_c
+[ 51%] Built target autoware_common_msgs__rosidl_typesupport_fastrtps_c
+[ 61%] Built target autoware_common_msgs__rosidl_typesupport_introspection_cpp
+[ 70%] Built target autoware_common_msgs__rosidl_typesupport_cpp
+running egg_info
+writing autoware_common_msgs.egg-info/PKG-INFO
+writing dependency_links to autoware_common_msgs.egg-info/dependency_links.txt
+writing top-level names to autoware_common_msgs.egg-info/top_level.txt
+reading manifest file 'autoware_common_msgs.egg-info/SOURCES.txt'
+writing manifest file 'autoware_common_msgs.egg-info/SOURCES.txt'
+[ 70%] Built target autoware_common_msgs
+[ 70%] Built target ament_cmake_python_build_autoware_common_msgs_egg
+[ 74%] Built target autoware_common_msgs__py
+[ 80%] Built target autoware_common_msgs__rosidl_generator_py
+[ 87%] Built target autoware_common_msgs__rosidl_typesupport_c__pyext
+[ 93%] Built target autoware_common_msgs__rosidl_typesupport_introspection_c__pyext
+[100%] Built target autoware_common_msgs__rosidl_typesupport_fastrtps_c__pyext

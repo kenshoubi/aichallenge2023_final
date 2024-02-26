@@ -1,0 +1,10 @@
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/vehicle/vehicle_info_util/src/vehicle_info_util.cpp:[m[K In constructor ‘[01m[Kvehicle_info_util::VehicleInfoUtil::VehicleInfoUtil(rclcpp::Node&)[m[K’:
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/vehicle/vehicle_info_util/src/vehicle_info_util.cpp:52:44:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+   52 |   vehicle_info_.max_steer_angle_rad = 0.698[01;31m[K/[m[K/getParameter<double>(node, "max_steer_angle");
+      |                                            [01;31m[K^[m[K
+      |                                            [32m[K;[m[K
+   53 | [32m[K}[m[K
+      | [32m[K~[m[K                                           
+gmake[2]: *** [CMakeFiles/vehicle_info_util.dir/build.make:76: CMakeFiles/vehicle_info_util.dir/src/vehicle_info_util.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/vehicle_info_util.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

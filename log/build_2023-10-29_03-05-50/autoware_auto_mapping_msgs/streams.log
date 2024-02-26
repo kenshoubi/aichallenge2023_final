@@ -1,0 +1,24 @@
+[0.288s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_mapping_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_mapping_msgs -- -j16 -l16
+[1.060s] [  1%] Built target autoware_auto_mapping_msgs__cpp
+[1.198s] [ 12%] Built target autoware_auto_mapping_msgs__rosidl_generator_c
+[1.381s] [ 12%] Built target ament_cmake_python_symlink_autoware_auto_mapping_msgs
+[2.202s] [ 23%] Built target autoware_auto_mapping_msgs__rosidl_typesupport_introspection_cpp
+[2.353s] [ 34%] Built target autoware_auto_mapping_msgs__rosidl_typesupport_cpp
+[2.414s] [ 45%] Built target autoware_auto_mapping_msgs__rosidl_typesupport_introspection_c
+[2.421s] [ 56%] Built target autoware_auto_mapping_msgs__rosidl_typesupport_fastrtps_cpp
+[2.435s] [ 67%] Built target autoware_auto_mapping_msgs__rosidl_typesupport_fastrtps_c
+[2.442s] [ 78%] Built target autoware_auto_mapping_msgs__rosidl_typesupport_c
+[2.976s] [ 78%] Built target autoware_auto_mapping_msgs
+[3.315s] [ 80%] Built target autoware_auto_mapping_msgs__py
+[3.382s] running egg_info
+[3.402s] writing autoware_auto_mapping_msgs.egg-info/PKG-INFO
+[3.402s] writing dependency_links to autoware_auto_mapping_msgs.egg-info/dependency_links.txt
+[3.402s] writing top-level names to autoware_auto_mapping_msgs.egg-info/top_level.txt
+[3.406s] reading manifest file 'autoware_auto_mapping_msgs.egg-info/SOURCES.txt'
+[3.407s] writing manifest file 'autoware_auto_mapping_msgs.egg-info/SOURCES.txt'
+[3.603s] [ 80%] Built target ament_cmake_python_build_autoware_auto_mapping_msgs_egg
+[3.716s] [ 89%] Built target autoware_auto_mapping_msgs__rosidl_generator_py
+[4.117s] [ 92%] Built target autoware_auto_mapping_msgs__rosidl_typesupport_introspection_c__pyext
+[4.119s] [ 96%] Built target autoware_auto_mapping_msgs__rosidl_typesupport_fastrtps_c__pyext
+[4.164s] [100%] Built target autoware_auto_mapping_msgs__rosidl_typesupport_c__pyext
+[4.257s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_mapping_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_mapping_msgs -- -j16 -l16

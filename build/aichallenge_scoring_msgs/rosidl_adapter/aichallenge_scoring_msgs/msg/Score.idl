@@ -1,0 +1,34 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from aichallenge_scoring_msgs/msg/Score.msg
+// generated code does not contain a copyright notice
+
+
+module aichallenge_scoring_msgs {
+  module msg {
+    struct Score {
+      float distance_score;
+
+      float total_duration;
+
+      float task3_duration;
+
+      boolean is_distance_score_maxed_out;
+
+      boolean is_outside_lane;
+
+      boolean is_doing_task3;
+
+      boolean is_timeout;
+
+      boolean is_stopped;
+
+      boolean has_exceeded_speed_limit;
+
+      boolean has_finished_task1;
+
+      boolean has_finished_task2;
+
+      boolean has_finished_task3;
+    };
+  };
+};

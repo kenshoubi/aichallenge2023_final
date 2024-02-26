@@ -1,0 +1,201 @@
+[0.050s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/ndt_omp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/universe/external/ndt_omp -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/ndt_omp
+[4.999s] -- The C compiler identification is GNU 11.4.0
+[4.999s] -- The CXX compiler identification is GNU 11.4.0
+[4.999s] -- Detecting C compiler ABI info
+[4.999s] -- Detecting C compiler ABI info - done
+[5.000s] -- Check for working C compiler: /usr/bin/cc - skipped
+[5.000s] -- Detecting C compile features
+[5.000s] -- Detecting C compile features - done
+[5.000s] -- Detecting CXX compiler ABI info
+[5.000s] -- Detecting CXX compiler ABI info - done
+[5.000s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[5.000s] -- Detecting CXX compile features
+[5.000s] -- Detecting CXX compile features - done
+[5.000s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[5.000s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[5.000s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[5.000s] -- Checking for module 'eigen3'
+[5.001s] --   Found eigen3, version 3.4.0
+[5.001s] -- Found Eigen: /usr/include/eigen3 (Required is at least version "3.1") 
+[5.001s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[5.001s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found suitable version "1.74.0", minimum required is "1.65.0") found components: system filesystem date_time iostreams serialization 
+[5.001s] -- Checking for module 'flann'
+[5.001s] --   Found flann, version 1.9.1
+[5.001s] -- Found FLANN: /usr/lib/x86_64-linux-gnu/libflann_cpp.so  
+[5.001s] -- FLANN found (include: /usr/include, lib: /usr/lib/x86_64-linux-gnu/libflann_cpp.so)
+[5.001s] -- Looking for pthread.h
+[5.001s] -- Looking for pthread.h - found
+[5.001s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[5.001s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[5.002s] -- Found Threads: TRUE  
+[5.002s] -- Found GLEW: /usr/lib/x86_64-linux-gnu/libGLEW.so  
+[5.002s] -- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so  found components: OpenGL GLX 
+[5.002s] -- Found MPI_C: /usr/lib/x86_64-linux-gnu/libmpi.so (found version "3.1") 
+[5.002s] -- Found MPI: TRUE (found version "3.1") found components: C 
+[5.002s] -- Found JsonCpp: /usr/lib/x86_64-linux-gnu/libjsoncpp.so (found suitable version "1.9.5", minimum required is "0.7.0") 
+[5.002s] -- Found ZLIB: /usr/lib/x86_64-linux-gnu/libz.so (found version "1.2.11") 
+[5.002s] -- Found PNG: /usr/lib/x86_64-linux-gnu/libpng.so (found version "1.6.37") 
+[5.002s] -- Found Eigen3: /usr/include/eigen3 (found version "3.4.0") 
+[5.002s] -- Found X11: /usr/include   
+[5.002s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
+[5.003s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so - found
+[5.003s] -- Looking for gethostbyname
+[5.003s] -- Looking for gethostbyname - found
+[5.003s] -- Looking for connect
+[5.003s] -- Looking for connect - found
+[5.003s] -- Looking for remove
+[5.140s] -- Looking for remove - found
+[5.140s] -- Looking for shmat
+[5.380s] -- Looking for shmat - found
+[5.381s] -- Looking for IceConnectionNumber in ICE
+[5.613s] -- Looking for IceConnectionNumber in ICE - found
+[6.086s] -- Found EXPAT: /usr/lib/x86_64-linux-gnu/libexpat.so (found version "2.4.7") 
+[6.094s] -- Found double-conversion: /usr/lib/x86_64-linux-gnu/libdouble-conversion.so  
+[6.101s] -- Found LZ4: /usr/lib/x86_64-linux-gnu/liblz4.so (found version "1.9.3") 
+[6.107s] -- Found LZMA: /usr/lib/x86_64-linux-gnu/liblzma.so (found version "5.2.5") 
+[6.141s] -- Found JPEG: /usr/lib/x86_64-linux-gnu/libjpeg.so (found version "80") 
+[6.165s] -- Found TIFF: /usr/lib/x86_64-linux-gnu/libtiff.so (found version "4.3.0")  
+[6.171s] -- Found Freetype: /usr/lib/x86_64-linux-gnu/libfreetype.so (found version "2.11.1") 
+[6.181s] -- Found utf8cpp: /usr/include/utf8cpp  
+[6.574s] -- Checking for module 'libusb-1.0'
+[6.670s] --   Found libusb-1.0, version 1.0.25
+[6.875s] -- Found libusb: /usr/lib/x86_64-linux-gnu/libusb-1.0.so  
+[6.877s] -- Found OpenNI: /usr/lib/libOpenNI.so;libusb::libusb (found version "1.5.4.0") 
+[6.877s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[7.157s] -- Found OpenNI2: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb (found version "2.2.0.33") 
+[7.157s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[7.157s] [0m** WARNING ** io features related to pcap will be disabled[0m
+[7.530s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[7.547s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[7.567s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[7.979s] -- Found Qhull version 8.0.2
+[8.431s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[8.855s] -- looking for PCL_COMMON
+[8.858s] -- Found PCL_COMMON: /usr/lib/x86_64-linux-gnu/libpcl_common.so  
+[8.858s] -- looking for PCL_KDTREE
+[8.859s] -- Found PCL_KDTREE: /usr/lib/x86_64-linux-gnu/libpcl_kdtree.so  
+[8.859s] -- looking for PCL_OCTREE
+[8.861s] -- Found PCL_OCTREE: /usr/lib/x86_64-linux-gnu/libpcl_octree.so  
+[8.861s] -- looking for PCL_SEARCH
+[8.862s] -- Found PCL_SEARCH: /usr/lib/x86_64-linux-gnu/libpcl_search.so  
+[8.862s] -- looking for PCL_SAMPLE_CONSENSUS
+[8.864s] -- Found PCL_SAMPLE_CONSENSUS: /usr/lib/x86_64-linux-gnu/libpcl_sample_consensus.so  
+[8.864s] -- looking for PCL_FILTERS
+[8.865s] -- Found PCL_FILTERS: /usr/lib/x86_64-linux-gnu/libpcl_filters.so  
+[8.865s] -- looking for PCL_2D
+[8.866s] -- Found PCL_2D: /usr/include/pcl-1.12  
+[8.866s] -- looking for PCL_GEOMETRY
+[8.866s] -- Found PCL_GEOMETRY: /usr/include/pcl-1.12  
+[8.866s] -- looking for PCL_IO
+[8.868s] -- Found PCL_IO: /usr/lib/x86_64-linux-gnu/libpcl_io.so  
+[8.868s] -- looking for PCL_FEATURES
+[8.869s] -- Found PCL_FEATURES: /usr/lib/x86_64-linux-gnu/libpcl_features.so  
+[8.870s] -- looking for PCL_ML
+[8.871s] -- Found PCL_ML: /usr/lib/x86_64-linux-gnu/libpcl_ml.so  
+[8.871s] -- looking for PCL_SEGMENTATION
+[8.872s] -- Found PCL_SEGMENTATION: /usr/lib/x86_64-linux-gnu/libpcl_segmentation.so  
+[8.873s] -- looking for PCL_VISUALIZATION
+[8.874s] -- Found PCL_VISUALIZATION: /usr/lib/x86_64-linux-gnu/libpcl_visualization.so  
+[8.875s] -- looking for PCL_SURFACE
+[8.876s] -- Found PCL_SURFACE: /usr/lib/x86_64-linux-gnu/libpcl_surface.so  
+[8.876s] -- looking for PCL_REGISTRATION
+[8.877s] -- Found PCL_REGISTRATION: /usr/lib/x86_64-linux-gnu/libpcl_registration.so  
+[8.878s] -- looking for PCL_KEYPOINTS
+[8.879s] -- Found PCL_KEYPOINTS: /usr/lib/x86_64-linux-gnu/libpcl_keypoints.so  
+[8.879s] -- looking for PCL_TRACKING
+[8.880s] -- Found PCL_TRACKING: /usr/lib/x86_64-linux-gnu/libpcl_tracking.so  
+[8.881s] -- looking for PCL_RECOGNITION
+[8.884s] -- Found PCL_RECOGNITION: /usr/lib/x86_64-linux-gnu/libpcl_recognition.so  
+[8.884s] -- looking for PCL_STEREO
+[8.884s] -- Found PCL_STEREO: /usr/lib/x86_64-linux-gnu/libpcl_stereo.so  
+[8.884s] -- looking for PCL_APPS
+[8.885s] -- Found PCL_APPS: /usr/lib/x86_64-linux-gnu/libpcl_apps.so  
+[8.886s] -- looking for PCL_IN_HAND_SCANNER
+[8.886s] -- Found PCL_IN_HAND_SCANNER: /usr/include/pcl-1.12  
+[8.886s] -- looking for PCL_MODELER
+[8.887s] -- Found PCL_MODELER: /usr/include/pcl-1.12  
+[8.887s] -- looking for PCL_POINT_CLOUD_EDITOR
+[8.887s] -- Found PCL_POINT_CLOUD_EDITOR: /usr/include/pcl-1.12  
+[8.887s] -- looking for PCL_OUTOFCORE
+[8.889s] -- Found PCL_OUTOFCORE: /usr/lib/x86_64-linux-gnu/libpcl_outofcore.so  
+[8.889s] -- looking for PCL_PEOPLE
+[8.890s] -- Found PCL_PEOPLE: /usr/lib/x86_64-linux-gnu/libpcl_people.so  
+[8.891s] -- Found PCL: pcl_common;pcl_kdtree;pcl_octree;pcl_search;pcl_sample_consensus;pcl_filters;pcl_io;pcl_features;pcl_ml;pcl_segmentation;pcl_visualization;pcl_surface;pcl_registration;pcl_keypoints;pcl_tracking;pcl_recognition;pcl_stereo;pcl_apps;pcl_outofcore;pcl_people;Boost::system;Boost::filesystem;Boost::date_time;Boost::iostreams;Boost::serialization;/usr/lib/libOpenNI.so;libusb::libusb;/usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb;VTK::ChartsCore;VTK::CommonColor;VTK::CommonComputationalGeometry;VTK::CommonCore;VTK::CommonDataModel;VTK::CommonExecutionModel;VTK::CommonMath;VTK::CommonMisc;VTK::CommonTransforms;VTK::FiltersCore;VTK::FiltersExtraction;VTK::FiltersGeneral;VTK::FiltersGeometry;VTK::FiltersModeling;VTK::FiltersSources;VTK::ImagingCore;VTK::ImagingSources;VTK::InteractionImage;VTK::InteractionStyle;VTK::InteractionWidgets;VTK::IOCore;VTK::IOGeometry;VTK::IOImage;VTK::IOLegacy;VTK::IOPLY;VTK::RenderingAnnotation;VTK::RenderingCore;VTK::RenderingContext2D;VTK::RenderingLOD;VTK::RenderingFreeType;VTK::ViewsCore;VTK::ViewsContext2D;VTK::RenderingOpenGL2;VTK::GUISupportQt;FLANN::FLANN;QHULL::QHULL (Required is at least version "1.7") 
+[8.892s] -- PCL_INCLUDE_DIRS:/usr/include/pcl-1.12/usr/include/eigen3/usr/include/usr/include/ni/usr/include/openni2
+[8.892s] -- PCL_LIBRARY_DIRS:/usr/lib/x86_64-linux-gnu
+[8.892s] -- PCL_DEFINITIONS:-DDISABLE_PCAP
+[9.572s] -- Found OpenMP_C: -fopenmp (found version "4.5") 
+[9.795s] -- Found OpenMP_CXX: -fopenmp (found version "4.5") 
+[9.795s] -- Found OpenMP: TRUE (found version "4.5")  
+[9.810s] -- Configuring done
+[9.843s] -- Generating done
+[9.846s] -- Build files have been written to: /home/autoware/aichallenge2023-integration-final-main/build/ndt_omp
+[9.880s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/ndt_omp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/universe/external/ndt_omp -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/ndt_omp
+[9.881s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/ndt_omp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/ndt_omp -- -j16 -l16
+[24.942s] [ 14%] [32mBuilding CXX object CMakeFiles/ndt_omp.dir/src/pclomp/voxel_grid_covariance_omp.cpp.o[0m
+[24.942s] [ 28%] [32mBuilding CXX object CMakeFiles/ndt_omp.dir/src/pclomp/gicp_omp.cpp.o[0m
+[30.438s] In file included from [01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/external/ndt_omp/src/pclomp/gicp_omp.cpp:2[m[K:
+[30.438s] /home/autoware/aichallenge2023-integration-final-main/src/universe/external/ndt_omp/include/pclomp/gicp_omp_impl.hpp: In instantiation of ‘[01m[Kvoid pclomp::GeneralizedIterativeClosestPoint<PointSource, PointTarget>::estimateRigidTransformationBFGS(const PointCloudSource&, const std::vector<int, std::allocator<int> >&, const PointCloudTarget&, const std::vector<int, std::allocator<int> >&, Eigen::Matrix4f&) [with PointSource = pcl::PointXYZ; PointTarget = pcl::PointXYZ; pclomp::GeneralizedIterativeClosestPoint<PointSource, PointTarget>::PointCloudSource = pcl::PointCloud<pcl::PointXYZ>; pclomp::GeneralizedIterativeClosestPoint<PointSource, PointTarget>::PointCloudTarget = pcl::PointCloud<pcl::PointXYZ>; Eigen::Matrix4f = Eigen::Matrix<float, 4, 4>][m[K’:
+[30.438s] [01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/external/ndt_omp/src/pclomp/gicp_omp.cpp:4:24:[m[K   required from here
+[30.438s] [01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/external/ndt_omp/include/pclomp/gicp_omp_impl.hpp:230:31:[m[K [01;35m[Kwarning: [m[K‘[01m[KBFGSSpace::Status BFGS<FunctorType>::testGradient(BFGS<FunctorType>::Scalar) [with FunctorType = pclomp::GeneralizedIterativeClosestPoint<pcl::PointXYZ, pcl::PointXYZ>::OptimizationFunctorWithIndices; BFGS<FunctorType>::Scalar = double][m[K’ is deprecated: Use `testGradient()` instead (It will be removed in PCL 1.13) [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[30.438s]   230 |     result = [01;35m[Kbfgs.testGradient(gradient_tol)[m[K;
+[30.439s]       |              [01;35m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[30.439s] In file included from [01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/external/ndt_omp/include/pclomp/gicp_omp.h:45[m[K,
+[30.439s]                  from [01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/external/ndt_omp/src/pclomp/gicp_omp.cpp:1[m[K:
+[30.439s] [01m[K/usr/include/pcl-1.12/pcl/registration/bfgs.h:164:21:[m[K [01;36m[Knote: [m[Kdeclared here
+[30.439s]   164 |   BFGSSpace::Status [01;36m[KtestGradient[m[K(Scalar) { return testGradient(); }
+[30.439s]       |                     [01;36m[K^~~~~~~~~~~~[m[K
+[30.924s] In file included from [01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/external/ndt_omp/src/pclomp/gicp_omp.cpp:2[m[K:
+[30.925s] /home/autoware/aichallenge2023-integration-final-main/src/universe/external/ndt_omp/include/pclomp/gicp_omp_impl.hpp: In instantiation of ‘[01m[Kvoid pclomp::GeneralizedIterativeClosestPoint<PointSource, PointTarget>::estimateRigidTransformationBFGS(const PointCloudSource&, const std::vector<int, std::allocator<int> >&, const PointCloudTarget&, const std::vector<int, std::allocator<int> >&, Eigen::Matrix4f&) [with PointSource = pcl::PointXYZI; PointTarget = pcl::PointXYZI; pclomp::GeneralizedIterativeClosestPoint<PointSource, PointTarget>::PointCloudSource = pcl::PointCloud<pcl::PointXYZI>; pclomp::GeneralizedIterativeClosestPoint<PointSource, PointTarget>::PointCloudTarget = pcl::PointCloud<pcl::PointXYZI>; Eigen::Matrix4f = Eigen::Matrix<float, 4, 4>][m[K’:
+[30.925s] [01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/external/ndt_omp/src/pclomp/gicp_omp.cpp:5:24:[m[K   required from here
+[30.925s] [01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/external/ndt_omp/include/pclomp/gicp_omp_impl.hpp:230:31:[m[K [01;35m[Kwarning: [m[K‘[01m[KBFGSSpace::Status BFGS<FunctorType>::testGradient(BFGS<FunctorType>::Scalar) [with FunctorType = pclomp::GeneralizedIterativeClosestPoint<pcl::PointXYZI, pcl::PointXYZI>::OptimizationFunctorWithIndices; BFGS<FunctorType>::Scalar = double][m[K’ is deprecated: Use `testGradient()` instead (It will be removed in PCL 1.13) [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[30.925s]   230 |     result = [01;35m[Kbfgs.testGradient(gradient_tol)[m[K;
+[30.925s]       |              [01;35m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[30.925s] In file included from [01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/external/ndt_omp/include/pclomp/gicp_omp.h:45[m[K,
+[30.925s]                  from [01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/external/ndt_omp/src/pclomp/gicp_omp.cpp:1[m[K:
+[30.926s] [01m[K/usr/include/pcl-1.12/pcl/registration/bfgs.h:164:21:[m[K [01;36m[Knote: [m[Kdeclared here
+[30.926s]   164 |   BFGSSpace::Status [01;36m[KtestGradient[m[K(Scalar) { return testGradient(); }
+[30.926s]       |                     [01;36m[K^~~~~~~~~~~~[m[K
+[55.647s] [ 42%] [32mBuilding CXX object CMakeFiles/ndt_omp.dir/src/pclomp/ndt_omp.cpp.o[0m
+[79.951s] [ 57%] [32m[1mLinking CXX shared library libndt_omp.so[0m
+[83.058s] [ 57%] Built target ndt_omp
+[83.199s] [ 71%] [32mBuilding CXX object CMakeFiles/multigrid_ndt_omp.dir/src/multigrid_pclomp/multi_voxel_grid_covariance_omp.cpp.o[0m
+[97.214s] [ 85%] [32mBuilding CXX object CMakeFiles/multigrid_ndt_omp.dir/src/multigrid_pclomp/multigrid_ndt_omp.cpp.o[0m
+[121.074s] [100%] [32m[1mLinking CXX shared library libmultigrid_ndt_omp.so[0m
+[124.394s] [100%] Built target multigrid_ndt_omp
+[124.574s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/ndt_omp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/ndt_omp -- -j16 -l16
+[125.376s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/ndt_omp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/ndt_omp
+[132.948s] -- Install configuration: "RELEASE"
+[132.948s] -- Execute custom install script
+[132.948s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/multigrid_pclomp/multi_voxel_grid_covariance_omp.h
+[132.948s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/multigrid_pclomp/multi_voxel_grid_covariance_omp_impl.hpp
+[132.948s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/multigrid_pclomp/multigrid_ndt_omp.h
+[132.948s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/multigrid_pclomp/multigrid_ndt_omp_impl.hpp
+[132.948s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/pclomp/gicp_omp.h
+[132.948s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/pclomp/gicp_omp_impl.hpp
+[132.948s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/pclomp/ndt_omp.h
+[132.948s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/pclomp/ndt_omp_impl.hpp
+[132.948s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/pclomp/voxel_grid_covariance_omp.h
+[132.948s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/pclomp/voxel_grid_covariance_omp_impl.hpp
+[132.948s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/environment/library_path.sh
+[132.948s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/environment/library_path.dsv
+[132.949s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/lib/libndt_omp.so
+[132.949s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/lib/libmultigrid_ndt_omp.so
+[132.949s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ament_index/resource_index/package_run_dependencies/ndt_omp
+[132.949s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ament_index/resource_index/parent_prefix_path/ndt_omp
+[132.949s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/environment/ament_prefix_path.sh
+[132.949s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/environment/ament_prefix_path.dsv
+[132.949s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/environment/path.sh
+[132.949s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/environment/path.dsv
+[132.949s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/local_setup.bash
+[132.950s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/local_setup.sh
+[132.950s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/local_setup.zsh
+[132.950s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/local_setup.dsv
+[132.950s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/package.dsv
+[132.950s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ament_index/resource_index/packages/ndt_omp
+[132.950s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/cmake/ament_cmake_export_include_directories-extras.cmake
+[132.950s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/cmake/ament_cmake_export_libraries-extras.cmake
+[132.950s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/cmake/ndt_ompConfig.cmake
+[132.950s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/cmake/ndt_ompConfig-version.cmake
+[132.950s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/package.xml
+[132.963s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/ndt_omp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/ndt_omp

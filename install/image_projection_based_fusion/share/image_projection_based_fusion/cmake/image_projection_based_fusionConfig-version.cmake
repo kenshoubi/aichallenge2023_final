@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/image_projection_based_fusion/ament_cmake_core/image_projection_based_fusionConfig-version.cmake

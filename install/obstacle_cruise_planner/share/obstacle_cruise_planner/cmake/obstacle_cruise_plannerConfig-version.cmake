@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/obstacle_cruise_planner/ament_cmake_core/obstacle_cruise_plannerConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/vehicle_velocity_converter/ament_cmake_environment_hooks/local_setup.bash

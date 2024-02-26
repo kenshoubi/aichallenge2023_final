@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/automatic_pose_initializer/automatic_pose_initializer" "TARGETS" "automatic_pose_initializer" "DESTINATION" "lib/automatic_pose_initializer")

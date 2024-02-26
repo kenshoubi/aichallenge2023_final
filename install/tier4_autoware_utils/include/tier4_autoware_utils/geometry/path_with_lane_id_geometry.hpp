@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/common/tier4_autoware_utils/include/tier4_autoware_utils/geometry/path_with_lane_id_geometry.hpp

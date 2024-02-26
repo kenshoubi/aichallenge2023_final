@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/core/autoware_msgs/autoware_sensing_msgs/msg/GnssInsOrientationStamped.msg

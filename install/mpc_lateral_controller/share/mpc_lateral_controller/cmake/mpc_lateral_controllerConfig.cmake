@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/mpc_lateral_controller/ament_cmake_core/mpc_lateral_controllerConfig.cmake

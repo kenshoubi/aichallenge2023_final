@@ -1,0 +1,4 @@
+[0m** WARNING ** io features related to pcap will be disabled[0m
+gmake[2]: *** [gmock/CMakeFiles/gmock_main.dir/build.make:97: gmock/libgmock_main.a] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:339: gmock/CMakeFiles/gmock_main.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt

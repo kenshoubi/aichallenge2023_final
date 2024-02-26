@@ -1,0 +1,195 @@
+[0.081s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/aichallenge_scoring/aichallenge_scoring_msgs -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs
+[3.409s] -- The C compiler identification is GNU 11.4.0
+[3.409s] -- The CXX compiler identification is GNU 11.4.0
+[3.409s] -- Detecting C compiler ABI info
+[3.409s] -- Detecting C compiler ABI info - done
+[3.409s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.410s] -- Detecting C compile features
+[3.410s] -- Detecting C compile features - done
+[3.410s] -- Detecting CXX compiler ABI info
+[3.410s] -- Detecting CXX compiler ABI info - done
+[3.410s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.410s] -- Detecting CXX compile features
+[3.410s] -- Detecting CXX compile features - done
+[3.410s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[3.410s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[3.411s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.411s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.411s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.411s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.825s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[4.474s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.265s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.361s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[5.372s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[5.491s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[5.491s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.491s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[5.491s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[5.565s] -- Found PythonExtra: .so  
+[6.218s] -- Configuring done
+[6.268s] -- Generating done
+[6.273s] -- Build files have been written to: /home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_msgs
+[6.293s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/aichallenge_scoring/aichallenge_scoring_msgs -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs
+[6.296s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_msgs -- -j16 -l16
+[14.312s] [  3%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[14.325s] [  3%] Built target aichallenge_scoring_msgs__cpp
+[14.326s] [  3%] Built target ament_cmake_python_symlink_aichallenge_scoring_msgs
+[14.326s] [  6%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[14.326s] [  9%] [32mBuilding CXX object CMakeFiles/aichallenge_scoring_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/aichallenge_scoring_msgs/msg/detail/score__type_support.cpp.o[0m
+[14.326s] [ 12%] [32m[1mLinking CXX shared library libaichallenge_scoring_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[14.327s] [ 12%] Built target aichallenge_scoring_msgs__rosidl_typesupport_introspection_cpp
+[14.327s] running egg_info
+[14.327s] creating aichallenge_scoring_msgs.egg-info
+[14.327s] writing aichallenge_scoring_msgs.egg-info/PKG-INFO
+[14.327s] writing dependency_links to aichallenge_scoring_msgs.egg-info/dependency_links.txt
+[14.327s] writing top-level names to aichallenge_scoring_msgs.egg-info/top_level.txt
+[14.327s] writing manifest file 'aichallenge_scoring_msgs.egg-info/SOURCES.txt'
+[14.327s] reading manifest file 'aichallenge_scoring_msgs.egg-info/SOURCES.txt'
+[14.328s] writing manifest file 'aichallenge_scoring_msgs.egg-info/SOURCES.txt'
+[14.328s] [ 12%] Built target ament_cmake_python_build_aichallenge_scoring_msgs_egg
+[14.328s] [ 16%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[14.328s] [ 19%] [32mBuilding CXX object CMakeFiles/aichallenge_scoring_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/aichallenge_scoring_msgs/msg/detail/dds_fastrtps/score__type_support.cpp.o[0m
+[14.328s] [ 22%] [32m[1mLinking CXX shared library libaichallenge_scoring_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[14.328s] [ 22%] Built target aichallenge_scoring_msgs__rosidl_typesupport_fastrtps_cpp
+[14.328s] [ 25%] [34m[1mGenerating C code for ROS interfaces[0m
+[14.328s] [ 29%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[14.329s] [ 32%] [32mBuilding CXX object CMakeFiles/aichallenge_scoring_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/aichallenge_scoring_msgs/msg/score__type_support.cpp.o[0m
+[14.329s] [ 35%] [32mBuilding C object CMakeFiles/aichallenge_scoring_msgs__rosidl_generator_c.dir/rosidl_generator_c/aichallenge_scoring_msgs/msg/detail/score__functions.c.o[0m
+[14.329s] [ 38%] [32m[1mLinking C shared library libaichallenge_scoring_msgs__rosidl_generator_c.so[0m
+[14.329s] [ 41%] [32m[1mLinking CXX shared library libaichallenge_scoring_msgs__rosidl_typesupport_cpp.so[0m
+[14.329s] [ 41%] Built target aichallenge_scoring_msgs__rosidl_generator_c
+[14.329s] [ 45%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[14.329s] [ 45%] Built target aichallenge_scoring_msgs__rosidl_typesupport_cpp
+[14.329s] [ 48%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[14.330s] [ 51%] [32mBuilding CXX object CMakeFiles/aichallenge_scoring_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/aichallenge_scoring_msgs/msg/detail/score__type_support_c.cpp.o[0m
+[14.330s] [ 54%] [32mBuilding CXX object CMakeFiles/aichallenge_scoring_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/aichallenge_scoring_msgs/msg/score__type_support.cpp.o[0m
+[14.353s] [ 58%] [32m[1mLinking CXX shared library libaichallenge_scoring_msgs__rosidl_typesupport_c.so[0m
+[14.610s] [ 58%] Built target aichallenge_scoring_msgs__rosidl_typesupport_c
+[14.682s] [ 61%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[14.929s] [ 64%] [32m[1mLinking CXX shared library libaichallenge_scoring_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[15.181s] [ 64%] Built target aichallenge_scoring_msgs__rosidl_typesupport_fastrtps_c
+[15.385s] [ 67%] [32mBuilding C object CMakeFiles/aichallenge_scoring_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/aichallenge_scoring_msgs/msg/detail/score__type_support.c.o[0m
+[15.514s] [ 70%] [32m[1mLinking C shared library libaichallenge_scoring_msgs__rosidl_typesupport_introspection_c.so[0m
+[15.667s] [ 70%] Built target aichallenge_scoring_msgs__rosidl_typesupport_introspection_c
+[15.791s] [ 70%] Built target aichallenge_scoring_msgs
+[15.926s] [ 74%] [34m[1mGenerating Python code for ROS interfaces[0m
+[16.980s] [ 74%] Built target aichallenge_scoring_msgs__py
+[17.177s] [ 77%] [32mBuilding C object CMakeFiles/aichallenge_scoring_msgs__rosidl_generator_py.dir/rosidl_generator_py/aichallenge_scoring_msgs/msg/_score_s.c.o[0m
+[17.725s] [ 80%] [32m[1mLinking C shared library rosidl_generator_py/aichallenge_scoring_msgs/libaichallenge_scoring_msgs__rosidl_generator_py.so[0m
+[17.981s] [ 80%] Built target aichallenge_scoring_msgs__rosidl_generator_py
+[18.272s] [ 83%] [32mBuilding C object CMakeFiles/aichallenge_scoring_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/aichallenge_scoring_msgs/_aichallenge_scoring_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[18.305s] [ 87%] [32mBuilding C object CMakeFiles/aichallenge_scoring_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/aichallenge_scoring_msgs/_aichallenge_scoring_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[18.780s] [ 90%] [32m[1mLinking C shared library rosidl_generator_py/aichallenge_scoring_msgs/aichallenge_scoring_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[18.895s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/aichallenge_scoring_msgs/aichallenge_scoring_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[19.122s] [ 93%] Built target aichallenge_scoring_msgs__rosidl_typesupport_introspection_c__pyext
+[19.182s] [ 93%] Built target aichallenge_scoring_msgs__rosidl_typesupport_fastrtps_c__pyext
+[19.380s] [ 96%] [32mBuilding C object CMakeFiles/aichallenge_scoring_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/aichallenge_scoring_msgs/_aichallenge_scoring_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[19.817s] [100%] [32m[1mLinking C shared library rosidl_generator_py/aichallenge_scoring_msgs/aichallenge_scoring_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[20.173s] [100%] Built target aichallenge_scoring_msgs__rosidl_typesupport_c__pyext
+[20.241s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_msgs -- -j16 -l16
+[22.238s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_msgs
+[29.852s] -- Install configuration: "Release"
+[29.852s] -- Execute custom install script
+[29.852s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/ament_index/resource_index/rosidl_interfaces/aichallenge_scoring_msgs
+[29.852s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/include/aichallenge_scoring_msgs/aichallenge_scoring_msgs/msg/detail/score__functions.h
+[29.852s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/include/aichallenge_scoring_msgs/aichallenge_scoring_msgs/msg/detail/score__struct.h
+[29.852s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/include/aichallenge_scoring_msgs/aichallenge_scoring_msgs/msg/detail/score__type_support.h
+[29.853s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/include/aichallenge_scoring_msgs/aichallenge_scoring_msgs/msg/rosidl_generator_c__visibility_control.h
+[29.853s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/include/aichallenge_scoring_msgs/aichallenge_scoring_msgs/msg/score.h
+[29.853s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/environment/library_path.sh
+[29.853s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/environment/library_path.dsv
+[29.853s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/include/aichallenge_scoring_msgs/aichallenge_scoring_msgs/msg/detail/score__rosidl_typesupport_fastrtps_c.h
+[29.853s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/include/aichallenge_scoring_msgs/aichallenge_scoring_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[29.853s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/include/aichallenge_scoring_msgs/aichallenge_scoring_msgs/msg/detail/score__rosidl_typesupport_introspection_c.h
+[29.853s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/include/aichallenge_scoring_msgs/aichallenge_scoring_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[29.853s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/include/aichallenge_scoring_msgs/aichallenge_scoring_msgs/msg/detail/score__builder.hpp
+[29.854s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/include/aichallenge_scoring_msgs/aichallenge_scoring_msgs/msg/detail/score__struct.hpp
+[29.854s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/include/aichallenge_scoring_msgs/aichallenge_scoring_msgs/msg/detail/score__traits.hpp
+[29.854s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/include/aichallenge_scoring_msgs/aichallenge_scoring_msgs/msg/score.hpp
+[29.854s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/include/aichallenge_scoring_msgs/aichallenge_scoring_msgs/msg/detail/score__rosidl_typesupport_fastrtps_cpp.hpp
+[29.854s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/include/aichallenge_scoring_msgs/aichallenge_scoring_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[29.854s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/include/aichallenge_scoring_msgs/aichallenge_scoring_msgs/msg/detail/score__rosidl_typesupport_introspection_cpp.hpp
+[29.854s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/environment/pythonpath.sh
+[29.854s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/environment/pythonpath.dsv
+[29.855s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs-1.0.0-py3.10.egg-info/PKG-INFO
+[29.855s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs-1.0.0-py3.10.egg-info/SOURCES.txt
+[29.855s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs-1.0.0-py3.10.egg-info/dependency_links.txt
+[29.855s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs-1.0.0-py3.10.egg-info/top_level.txt
+[29.855s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/__init__.py
+[29.855s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/_aichallenge_scoring_msgs_s.ep.rosidl_typesupport_c.c
+[29.855s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/_aichallenge_scoring_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[29.855s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/_aichallenge_scoring_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[29.856s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/aichallenge_scoring_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[29.856s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/aichallenge_scoring_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[29.856s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/aichallenge_scoring_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[29.856s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/libaichallenge_scoring_msgs__rosidl_generator_py.so
+[29.856s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/msg/__init__.py
+[29.856s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/msg/_score.py
+[29.856s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/msg/_score_s.c
+[29.856s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/aichallenge_scoring_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[29.856s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/aichallenge_scoring_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[29.857s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/aichallenge_scoring_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[29.857s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/msg/Score.idl
+[29.857s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/msg/Score.msg
+[29.857s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/ament_index/resource_index/package_run_dependencies/aichallenge_scoring_msgs
+[29.857s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/ament_index/resource_index/parent_prefix_path/aichallenge_scoring_msgs
+[29.857s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/environment/ament_prefix_path.sh
+[29.857s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/environment/ament_prefix_path.dsv
+[29.857s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/environment/path.sh
+[29.875s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/environment/path.dsv
+[29.876s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/local_setup.bash
+[29.876s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/local_setup.sh
+[29.876s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/local_setup.zsh
+[29.876s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/local_setup.dsv
+[29.876s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/package.dsv
+[29.876s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/ament_index/resource_index/packages/aichallenge_scoring_msgs
+[29.876s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/rosidl_cmake-extras.cmake
+[29.876s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[29.877s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[29.877s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[29.877s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[29.877s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[29.877s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[29.877s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/aichallenge_scoring_msgsConfig.cmake
+[29.877s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/aichallenge_scoring_msgsConfig-version.cmake
+[29.877s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/package.xml
+[29.878s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/lib/libaichallenge_scoring_msgs__rosidl_generator_c.so
+[29.878s] -- Set runtime path of "/home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/lib/libaichallenge_scoring_msgs__rosidl_generator_c.so" to ""
+[29.878s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/lib/libaichallenge_scoring_msgs__rosidl_typesupport_fastrtps_c.so
+[29.878s] -- Set runtime path of "/home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/lib/libaichallenge_scoring_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[29.878s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/lib/libaichallenge_scoring_msgs__rosidl_typesupport_introspection_c.so
+[29.878s] -- Set runtime path of "/home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/lib/libaichallenge_scoring_msgs__rosidl_typesupport_introspection_c.so" to ""
+[29.878s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/lib/libaichallenge_scoring_msgs__rosidl_typesupport_c.so
+[29.878s] -- Set runtime path of "/home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/lib/libaichallenge_scoring_msgs__rosidl_typesupport_c.so" to ""
+[29.878s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/lib/libaichallenge_scoring_msgs__rosidl_typesupport_fastrtps_cpp.so
+[29.879s] -- Set runtime path of "/home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/lib/libaichallenge_scoring_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[29.879s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/lib/libaichallenge_scoring_msgs__rosidl_typesupport_introspection_cpp.so
+[29.879s] -- Set runtime path of "/home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/lib/libaichallenge_scoring_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[29.879s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/lib/libaichallenge_scoring_msgs__rosidl_typesupport_cpp.so
+[29.879s] -- Set runtime path of "/home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/lib/libaichallenge_scoring_msgs__rosidl_typesupport_cpp.so" to ""
+[29.879s] Listing '/home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs'...
+[29.879s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/__init__.py'...
+[29.879s] Listing '/home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/msg'...
+[29.880s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/msg/__init__.py'...
+[29.880s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/local/lib/python3.10/dist-packages/aichallenge_scoring_msgs/msg/_score.py'...
+[29.880s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/lib/libaichallenge_scoring_msgs__rosidl_generator_py.so
+[29.880s] -- Set runtime path of "/home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/lib/libaichallenge_scoring_msgs__rosidl_generator_py.so" to ""
+[29.880s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/export_aichallenge_scoring_msgs__rosidl_generator_cExport.cmake
+[29.880s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/export_aichallenge_scoring_msgs__rosidl_generator_cExport-release.cmake
+[29.880s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/export_aichallenge_scoring_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[29.880s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/export_aichallenge_scoring_msgs__rosidl_typesupport_fastrtps_cExport-release.cmake
+[29.880s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/aichallenge_scoring_msgs__rosidl_typesupport_introspection_cExport.cmake
+[29.881s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/aichallenge_scoring_msgs__rosidl_typesupport_introspection_cExport-release.cmake
+[29.881s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/aichallenge_scoring_msgs__rosidl_typesupport_cExport.cmake
+[29.881s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/aichallenge_scoring_msgs__rosidl_typesupport_cExport-release.cmake
+[29.881s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/export_aichallenge_scoring_msgs__rosidl_generator_cppExport.cmake
+[29.881s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/export_aichallenge_scoring_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[29.881s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/export_aichallenge_scoring_msgs__rosidl_typesupport_fastrtps_cppExport-release.cmake
+[29.881s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/aichallenge_scoring_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[29.881s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/aichallenge_scoring_msgs__rosidl_typesupport_introspection_cppExport-release.cmake
+[29.882s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/aichallenge_scoring_msgs__rosidl_typesupport_cppExport.cmake
+[29.919s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/aichallenge_scoring_msgs__rosidl_typesupport_cppExport-release.cmake
+[29.919s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/export_aichallenge_scoring_msgs__rosidl_generator_pyExport.cmake
+[29.919s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/aichallenge_scoring_msgs/share/aichallenge_scoring_msgs/cmake/export_aichallenge_scoring_msgs__rosidl_generator_pyExport-release.cmake
+[29.919s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_msgs

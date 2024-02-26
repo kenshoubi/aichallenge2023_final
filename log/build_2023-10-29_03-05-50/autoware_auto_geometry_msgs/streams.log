@@ -1,0 +1,24 @@
+[0.305s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_geometry_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_geometry_msgs -- -j16 -l16
+[0.930s] [  2%] Built target autoware_auto_geometry_msgs__cpp
+[1.147s] [ 12%] Built target autoware_auto_geometry_msgs__rosidl_generator_c
+[1.200s] [ 12%] Built target ament_cmake_python_symlink_autoware_auto_geometry_msgs
+[2.054s] [ 23%] Built target autoware_auto_geometry_msgs__rosidl_typesupport_fastrtps_cpp
+[2.054s] [ 34%] Built target autoware_auto_geometry_msgs__rosidl_typesupport_cpp
+[2.269s] [ 44%] Built target autoware_auto_geometry_msgs__rosidl_typesupport_introspection_cpp
+[2.443s] [ 55%] Built target autoware_auto_geometry_msgs__rosidl_typesupport_fastrtps_c
+[2.559s] [ 65%] Built target autoware_auto_geometry_msgs__rosidl_typesupport_introspection_c
+[2.568s] [ 76%] Built target autoware_auto_geometry_msgs__rosidl_typesupport_c
+[3.028s] [ 76%] Built target autoware_auto_geometry_msgs
+[3.373s] running egg_info
+[3.374s] writing autoware_auto_geometry_msgs.egg-info/PKG-INFO
+[3.375s] writing dependency_links to autoware_auto_geometry_msgs.egg-info/dependency_links.txt
+[3.375s] writing top-level names to autoware_auto_geometry_msgs.egg-info/top_level.txt
+[3.379s] reading manifest file 'autoware_auto_geometry_msgs.egg-info/SOURCES.txt'
+[3.380s] writing manifest file 'autoware_auto_geometry_msgs.egg-info/SOURCES.txt'
+[3.408s] [ 78%] Built target autoware_auto_geometry_msgs__py
+[3.624s] [ 78%] Built target ament_cmake_python_build_autoware_auto_geometry_msgs_egg
+[3.753s] [ 87%] Built target autoware_auto_geometry_msgs__rosidl_generator_py
+[4.100s] [ 91%] Built target autoware_auto_geometry_msgs__rosidl_typesupport_introspection_c__pyext
+[4.205s] [ 95%] Built target autoware_auto_geometry_msgs__rosidl_typesupport_c__pyext
+[4.220s] [100%] Built target autoware_auto_geometry_msgs__rosidl_typesupport_fastrtps_c__pyext
+[4.305s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_geometry_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_geometry_msgs -- -j16 -l16

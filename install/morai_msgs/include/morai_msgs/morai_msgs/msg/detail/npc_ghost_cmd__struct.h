@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/morai_msgs/rosidl_generator_c/morai_msgs/msg/detail/npc_ghost_cmd__struct.h

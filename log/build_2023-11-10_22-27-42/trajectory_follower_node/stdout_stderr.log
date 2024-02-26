@@ -1,0 +1,7 @@
+[ 14%] Built target controller_node
+[ 28%] Built target gtest
+[ 42%] Built target simple_trajectory_follower
+[ 57%] Built target gtest_main
+[ 71%] Built target simple_trajectory_follower_exe
+[ 85%] Built target test_trajectory_follower_node
+[100%] Built target controller_node_exe

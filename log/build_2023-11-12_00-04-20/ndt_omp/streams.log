@@ -1,0 +1,86 @@
+[0.114s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/ndt_omp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/universe/external/ndt_omp -DCMAKE_BUILD_TYPE=Releasecdccd ../ -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/ndt_omp
+[3.534s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[3.535s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.535s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[3.535s] -- FLANN found (include: /usr/include, lib: /usr/lib/x86_64-linux-gnu/libflann_cpp.so)
+[3.535s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[3.535s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[3.535s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[3.535s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[3.535s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[3.537s] [0m** WARNING ** io features related to pcap will be disabled[0m
+[3.945s] -- Found Qhull version 8.0.2
+[4.588s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[5.216s] -- looking for PCL_COMMON
+[5.218s] -- looking for PCL_KDTREE
+[5.218s] -- looking for PCL_OCTREE
+[5.219s] -- looking for PCL_SEARCH
+[5.223s] -- looking for PCL_SAMPLE_CONSENSUS
+[5.223s] -- looking for PCL_FILTERS
+[5.224s] -- looking for PCL_2D
+[5.224s] -- looking for PCL_GEOMETRY
+[5.225s] -- looking for PCL_IO
+[5.225s] -- looking for PCL_FEATURES
+[5.228s] -- looking for PCL_ML
+[5.228s] -- looking for PCL_SEGMENTATION
+[5.228s] -- looking for PCL_VISUALIZATION
+[5.229s] -- looking for PCL_SURFACE
+[5.229s] -- looking for PCL_REGISTRATION
+[5.229s] -- looking for PCL_KEYPOINTS
+[5.231s] -- looking for PCL_TRACKING
+[5.231s] -- looking for PCL_RECOGNITION
+[5.232s] -- looking for PCL_STEREO
+[5.233s] -- looking for PCL_APPS
+[5.235s] -- looking for PCL_IN_HAND_SCANNER
+[5.235s] -- looking for PCL_MODELER
+[5.236s] -- looking for PCL_POINT_CLOUD_EDITOR
+[5.236s] -- looking for PCL_OUTOFCORE
+[5.237s] -- looking for PCL_PEOPLE
+[5.240s] -- PCL_INCLUDE_DIRS:/usr/include/pcl-1.12/usr/include/eigen3/usr/include/usr/include/ni/usr/include/openni2
+[5.240s] -- PCL_LIBRARY_DIRS:/usr/lib/x86_64-linux-gnu
+[5.240s] -- PCL_DEFINITIONS:-DDISABLE_PCAP
+[5.269s] -- Configuring done
+[5.335s] -- Generating done
+[5.339s] -- Build files have been written to: /home/autoware/aichallenge2023-integration-final-main/build/ndt_omp
+[5.365s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/ndt_omp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/universe/external/ndt_omp -DCMAKE_BUILD_TYPE=Releasecdccd ../ -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/ndt_omp
+[5.366s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/ndt_omp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/ndt_omp -- -j16 -l16
+[11.771s] [35m[1mConsolidate compiler generated dependencies of target ndt_omp[0m
+[11.772s] [ 57%] Built target ndt_omp
+[11.772s] [35m[1mConsolidate compiler generated dependencies of target multigrid_ndt_omp[0m
+[11.774s] [100%] Built target multigrid_ndt_omp
+[11.792s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/ndt_omp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/ndt_omp -- -j16 -l16
+[12.309s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/ndt_omp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/ndt_omp
+[15.298s] -- Install configuration: "RELEASE"
+[15.298s] -- Execute custom install script
+[15.299s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/multigrid_pclomp/multi_voxel_grid_covariance_omp.h
+[15.299s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/multigrid_pclomp/multi_voxel_grid_covariance_omp_impl.hpp
+[15.299s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/multigrid_pclomp/multigrid_ndt_omp.h
+[15.299s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/multigrid_pclomp/multigrid_ndt_omp_impl.hpp
+[15.299s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/pclomp/gicp_omp.h
+[15.300s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/pclomp/gicp_omp_impl.hpp
+[15.300s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/pclomp/ndt_omp.h
+[15.300s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/pclomp/ndt_omp_impl.hpp
+[15.300s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/pclomp/voxel_grid_covariance_omp.h
+[15.300s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/include/pclomp/voxel_grid_covariance_omp_impl.hpp
+[15.300s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/environment/library_path.sh
+[15.300s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/environment/library_path.dsv
+[15.301s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/lib/libndt_omp.so
+[15.301s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/lib/libmultigrid_ndt_omp.so
+[15.301s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ament_index/resource_index/package_run_dependencies/ndt_omp
+[15.301s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ament_index/resource_index/parent_prefix_path/ndt_omp
+[15.301s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/environment/ament_prefix_path.sh
+[15.301s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/environment/ament_prefix_path.dsv
+[15.301s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/environment/path.sh
+[15.301s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/environment/path.dsv
+[15.302s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/local_setup.bash
+[15.302s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/local_setup.sh
+[15.302s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/local_setup.zsh
+[15.302s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/local_setup.dsv
+[15.302s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/package.dsv
+[15.302s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ament_index/resource_index/packages/ndt_omp
+[15.302s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/cmake/ament_cmake_export_include_directories-extras.cmake
+[15.303s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/cmake/ament_cmake_export_libraries-extras.cmake
+[15.303s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/cmake/ndt_ompConfig.cmake
+[15.303s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/cmake/ndt_ompConfig-version.cmake
+[15.303s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/ndt_omp/share/ndt_omp/package.xml
+[15.392s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/ndt_omp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/ndt_omp

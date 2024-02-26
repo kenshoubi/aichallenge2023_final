@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_map_msgs/rosidl_generator_c/autoware_map_msgs/msg/area_info.h

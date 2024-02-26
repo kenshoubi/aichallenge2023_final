@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_external_api_msgs/rosidl_cmake/srv/GetVersion_Request.msg

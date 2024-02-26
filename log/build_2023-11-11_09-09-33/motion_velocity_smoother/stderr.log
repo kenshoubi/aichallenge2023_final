@@ -1,0 +1,7 @@
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/motion_velocity_smoother/src/smoother/smoother_base.cpp:[m[K In member function ‘[01m[Kvirtual motion_velocity_smoother::TrajectoryPoints motion_velocity_smoother::SmootherBase::applyLateralAccelerationFilter(const TrajectoryPoints&, double, double, bool, bool, double) const[m[K’:
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/motion_velocity_smoother/src/smoother/smoother_base.cpp:132:48:[m[K [01;31m[Kerror: [m[Kassignment of read-only variable ‘[01m[Kmax_lateral_accel_abs[m[K’
+  132 |     if(curvature >= 0.02)[01;31m[Kmax_lateral_accel_abs = std::fabs(0.01)[m[K;
+      |                          [01;31m[K~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/smoother.dir/build.make:76: CMakeFiles/smoother.dir/src/smoother/smoother_base.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:180: CMakeFiles/smoother.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

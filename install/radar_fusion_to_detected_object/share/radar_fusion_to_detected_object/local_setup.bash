@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/radar_fusion_to_detected_object/ament_cmake_environment_hooks/local_setup.bash

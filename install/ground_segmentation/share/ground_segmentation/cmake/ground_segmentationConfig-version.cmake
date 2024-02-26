@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/ground_segmentation/ament_cmake_core/ground_segmentationConfig-version.cmake

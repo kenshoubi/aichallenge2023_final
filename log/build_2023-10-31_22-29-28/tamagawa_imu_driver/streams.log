@@ -1,0 +1,31 @@
+[0.166s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/tamagawa_imu_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/tamagawa_imu_driver -- -j16 -l16
+[0.972s] [ 50%] Built target tag_can_driver
+[0.974s] [100%] Built target tag_serial_driver
+[1.104s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/tamagawa_imu_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/tamagawa_imu_driver -- -j16 -l16
+[2.106s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/tamagawa_imu_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/tamagawa_imu_driver
+[2.236s] -- Install configuration: "Release"
+[2.237s] -- Execute custom install script
+[2.238s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/lib/tamagawa_imu_driver/tag_serial_driver
+[2.238s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/lib/tamagawa_imu_driver/tag_can_driver
+[2.239s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/launch/can.launch.xml
+[2.241s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/launch/serial_AU7554N.launch.xml
+[2.241s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/launch/serial_TAG250_Nxx00.launch.xml
+[2.241s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/launch/serial_TAG250_Nxx40.launch.xml
+[2.241s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/launch/serial_TAG264.launch.xml
+[2.241s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/ament_index/resource_index/package_run_dependencies/tamagawa_imu_driver
+[2.242s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/ament_index/resource_index/parent_prefix_path/tamagawa_imu_driver
+[2.242s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/environment/ament_prefix_path.sh
+[2.242s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/environment/ament_prefix_path.dsv
+[2.242s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/environment/path.sh
+[2.242s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/environment/path.dsv
+[2.243s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/local_setup.bash
+[2.244s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/local_setup.sh
+[2.244s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/local_setup.zsh
+[2.245s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/local_setup.dsv
+[2.245s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/package.dsv
+[2.347s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/ament_index/resource_index/packages/tamagawa_imu_driver
+[2.347s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.347s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/cmake/tamagawa_imu_driverConfig.cmake
+[2.347s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/cmake/tamagawa_imu_driverConfig-version.cmake
+[2.348s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tamagawa_imu_driver/share/tamagawa_imu_driver/package.xml
+[2.538s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/tamagawa_imu_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/tamagawa_imu_driver

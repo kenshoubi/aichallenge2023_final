@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/tier4_debug_msgs/rosidl_typesupport_fastrtps_cpp/tier4_debug_msgs/msg/detail/float32_stamped__rosidl_typesupport_fastrtps_cpp.hpp

@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_common_msgs/ament_cmake_environment_hooks/local_setup.zsh

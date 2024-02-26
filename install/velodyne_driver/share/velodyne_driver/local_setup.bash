@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/velodyne_driver/ament_cmake_environment_hooks/local_setup.bash

@@ -1,0 +1,15 @@
+[ 10%] Built target autoware_auto_geometry_msgs__rosidl_generator_c
+[ 12%] Built target autoware_auto_geometry_msgs__cpp
+[ 12%] Built target ament_cmake_python_symlink_autoware_auto_geometry_msgs
+gmake[1]: *** [CMakeFiles/Makefile2:394: CMakeFiles/autoware_auto_geometry_msgs__rosidl_typesupport_cpp.dir/all] Interrupt
+gmake[2]: *** wait: No child processes.  Stop.
+gmake[2]: *** Waiting for unfinished jobs....
+gmake[2]: *** wait: No child processes.  Stop.
+gmake[2]: *** [CMakeFiles/autoware_auto_geometry_msgs__rosidl_typesupport_introspection_c.dir/build.make:245: CMakeFiles/autoware_auto_geometry_msgs__rosidl_typesupport_introspection_c.dir/depend] Interrupt
+gmake[2]: *** [CMakeFiles/autoware_auto_geometry_msgs__rosidl_typesupport_c.dir/build.make:231: CMakeFiles/autoware_auto_geometry_msgs__rosidl_typesupport_c.dir/depend] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:264: CMakeFiles/autoware_auto_geometry_msgs__rosidl_typesupport_introspection_c.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:368: CMakeFiles/autoware_auto_geometry_msgs__rosidl_typesupport_introspection_cpp.dir/all] Error 2
+gmake[1]: *** [CMakeFiles/Makefile2:290: CMakeFiles/autoware_auto_geometry_msgs__rosidl_typesupport_c.dir/all] Interrupt
+gmake[2]: *** [CMakeFiles/autoware_auto_geometry_msgs__rosidl_typesupport_fastrtps_c.dir/build.make:248: CMakeFiles/autoware_auto_geometry_msgs__rosidl_typesupport_fastrtps_c.dir/depend] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:238: CMakeFiles/autoware_auto_geometry_msgs__rosidl_typesupport_fastrtps_c.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt

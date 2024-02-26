@@ -1,0 +1,16 @@
+/home/autoware/aichallenge2023-integration-final-main/install/global_parameter_loader/share/global_parameter_loader/launch/global_params.launch.py
+/home/autoware/aichallenge2023-integration-final-main/install/global_parameter_loader/share/ament_index/resource_index/package_run_dependencies/global_parameter_loader
+/home/autoware/aichallenge2023-integration-final-main/install/global_parameter_loader/share/ament_index/resource_index/parent_prefix_path/global_parameter_loader
+/home/autoware/aichallenge2023-integration-final-main/install/global_parameter_loader/share/global_parameter_loader/environment/ament_prefix_path.sh
+/home/autoware/aichallenge2023-integration-final-main/install/global_parameter_loader/share/global_parameter_loader/environment/ament_prefix_path.dsv
+/home/autoware/aichallenge2023-integration-final-main/install/global_parameter_loader/share/global_parameter_loader/environment/path.sh
+/home/autoware/aichallenge2023-integration-final-main/install/global_parameter_loader/share/global_parameter_loader/environment/path.dsv
+/home/autoware/aichallenge2023-integration-final-main/install/global_parameter_loader/share/global_parameter_loader/local_setup.bash
+/home/autoware/aichallenge2023-integration-final-main/install/global_parameter_loader/share/global_parameter_loader/local_setup.sh
+/home/autoware/aichallenge2023-integration-final-main/install/global_parameter_loader/share/global_parameter_loader/local_setup.zsh
+/home/autoware/aichallenge2023-integration-final-main/install/global_parameter_loader/share/global_parameter_loader/local_setup.dsv
+/home/autoware/aichallenge2023-integration-final-main/install/global_parameter_loader/share/global_parameter_loader/package.dsv
+/home/autoware/aichallenge2023-integration-final-main/install/global_parameter_loader/share/ament_index/resource_index/packages/global_parameter_loader
+/home/autoware/aichallenge2023-integration-final-main/install/global_parameter_loader/share/global_parameter_loader/cmake/global_parameter_loaderConfig.cmake
+/home/autoware/aichallenge2023-integration-final-main/install/global_parameter_loader/share/global_parameter_loader/cmake/global_parameter_loaderConfig-version.cmake
+/home/autoware/aichallenge2023-integration-final-main/install/global_parameter_loader/share/global_parameter_loader/package.xml

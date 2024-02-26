@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/aichallenge_scoring_msgs/rosidl_typesupport_introspection_cpp/aichallenge_scoring_msgs/msg/detail/score__rosidl_typesupport_introspection_cpp.hpp

@@ -1,0 +1,3 @@
+source;share/multi_data_monitor/environment/ament_prefix_path.sh
+source;share/multi_data_monitor/environment/library_path.sh
+source;share/multi_data_monitor/environment/path.sh

@@ -1,0 +1,26 @@
+[1.666s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/ad_api_visualizers': AMENT_PREFIX_PATH=/home/autoware/aichallenge2023-integration-final-main/install/autoware_adapi_v1_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/autoware/aichallenge2023-integration-final-main/install/autoware_adapi_v1_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/autoware/aichallenge2023-integration-final-main/install/autoware_adapi_v1_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/autoware/aichallenge2023-integration-final-main/build/ad_api_visualizers/prefix_override:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers/lib/python3.10/site-packages:/home/autoware/aichallenge2023-integration-final-main/install/autoware_adapi_v1_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/autoware/aichallenge2023-integration-final-main/build/ad_api_visualizers/build --no-deps install_data
+[4.499s] running develop
+[4.500s] running egg_info
+[4.500s] creating ad_api_visualizers.egg-info
+[4.500s] writing ad_api_visualizers.egg-info/PKG-INFO
+[4.500s] writing dependency_links to ad_api_visualizers.egg-info/dependency_links.txt
+[4.500s] writing entry points to ad_api_visualizers.egg-info/entry_points.txt
+[4.500s] writing requirements to ad_api_visualizers.egg-info/requires.txt
+[4.500s] writing top-level names to ad_api_visualizers.egg-info/top_level.txt
+[4.500s] writing manifest file 'ad_api_visualizers.egg-info/SOURCES.txt'
+[4.500s] reading manifest file 'ad_api_visualizers.egg-info/SOURCES.txt'
+[4.500s] writing manifest file 'ad_api_visualizers.egg-info/SOURCES.txt'
+[4.501s] running build_ext
+[4.501s] Creating /home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers/lib/python3.10/site-packages/ad-api-visualizers.egg-link (link to .)
+[4.501s] Installing planning_factors script to /home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers/lib/ad_api_visualizers
+[4.501s] 
+[4.501s] Installed /home/autoware/aichallenge2023-integration-final-main/build/ad_api_visualizers
+[4.501s] running install_data
+[4.502s] creating /home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers/share/ament_index
+[4.506s] creating /home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers/share/ament_index/resource_index
+[4.507s] creating /home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers/share/ament_index/resource_index/packages
+[4.507s] copying resource/ad_api_visualizers -> /home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers/share/ament_index/resource_index/packages
+[4.507s] copying package.xml -> /home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers/share/ad_api_visualizers
+[4.507s] creating /home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers/share/ad_api_visualizers/launch
+[4.507s] copying launch/ad_api_visualizers.launch.xml -> /home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers/share/ad_api_visualizers/launch
+[4.519s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/ad_api_visualizers' returned '0': AMENT_PREFIX_PATH=/home/autoware/aichallenge2023-integration-final-main/install/autoware_adapi_v1_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/autoware/aichallenge2023-integration-final-main/install/autoware_adapi_v1_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/autoware/aichallenge2023-integration-final-main/install/autoware_adapi_v1_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/autoware/aichallenge2023-integration-final-main/build/ad_api_visualizers/prefix_override:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers/lib/python3.10/site-packages:/home/autoware/aichallenge2023-integration-final-main/install/autoware_adapi_v1_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/autoware/aichallenge2023-integration-final-main/build/ad_api_visualizers/build --no-deps install_data

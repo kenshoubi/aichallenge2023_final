@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/gyro_odometer/gyro_odometer" "TARGETS" "gyro_odometer" "DESTINATION" "lib/gyro_odometer")

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/autoware/aichallenge2023-integration-final-main/build/trajectory_follower_node/controller_node_exe" "TARGETS" "controller_node_exe" "DESTINATION" "lib/trajectory_follower_node")

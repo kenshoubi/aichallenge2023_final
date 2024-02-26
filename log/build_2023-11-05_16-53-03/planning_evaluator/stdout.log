@@ -1,0 +1,6 @@
+[ 10%] Built target gtest_main
+[ 21%] Built target planning_evaluator
+[ 31%] Built target gtest
+[ 42%] Built target motion_evaluator
+[ 89%] Built target planning_evaluator_node
+[100%] Built target test_planning_evaluator

@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_rtc_msgs/msg/Command.msg

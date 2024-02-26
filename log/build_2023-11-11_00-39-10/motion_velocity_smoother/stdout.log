@@ -1,0 +1,10 @@
+[35m[1mConsolidate compiler generated dependencies of target smoother[0m
+[ 10%] Built target gmock_main
+[ 20%] Built target motion_velocity_smoother
+[ 35%] Built target gmock
+[ 40%] [32mBuilding CXX object CMakeFiles/smoother.dir/src/smoother/analytical_jerk_constrained_smoother/analytical_jerk_constrained_smoother.cpp.o[0m
+[ 45%] [32m[1mLinking CXX shared library libsmoother.so[0m
+[ 80%] Built target smoother
+[ 85%] [32m[1mLinking CXX executable test_smoother_functions[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/motion_velocity_smoother_node.dir/src/motion_velocity_smoother_node.cpp.o[0m
+[ 95%] Built target test_smoother_functions

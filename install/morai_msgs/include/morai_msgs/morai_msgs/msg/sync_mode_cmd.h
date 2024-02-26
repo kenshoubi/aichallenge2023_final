@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/morai_msgs/rosidl_generator_c/morai_msgs/msg/sync_mode_cmd.h

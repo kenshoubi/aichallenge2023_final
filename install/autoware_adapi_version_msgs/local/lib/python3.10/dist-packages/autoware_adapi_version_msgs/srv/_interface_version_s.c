@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_adapi_version_msgs/rosidl_generator_py/autoware_adapi_version_msgs/srv/_interface_version_s.c

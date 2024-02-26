@@ -1,0 +1,25 @@
+-- Install configuration: "Release"
+-- Execute custom install script
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/launch/camera.launch.xml
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/launch/gnss.launch.xml
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/launch/lidar.launch.xml
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/launch/pointcloud_preprocessor.launch.py
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/launch/sensing.launch.xml
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/data/traffic_light_camera.yaml
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/config/diagnostic_aggregator/sensor_kit.param.yaml
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/config/spinnaker.param.yaml
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/ament_index/resource_index/package_run_dependencies/aip_aichallenge_launch
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/ament_index/resource_index/parent_prefix_path/aip_aichallenge_launch
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/environment/path.sh
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/environment/path.dsv
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/local_setup.bash
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/local_setup.sh
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/local_setup.zsh
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/local_setup.dsv
+-- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/package.dsv
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/ament_index/resource_index/packages/aip_aichallenge_launch
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/cmake/aip_aichallenge_launchConfig.cmake
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/cmake/aip_aichallenge_launchConfig-version.cmake
+-- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/aip_aichallenge_launch/share/aip_aichallenge_launch/package.xml

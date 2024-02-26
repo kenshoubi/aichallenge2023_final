@@ -1,0 +1,22 @@
+[0.111s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/camera_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/camera_description -- -j16 -l16
+[0.358s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/camera_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/camera_description -- -j16 -l16
+[0.609s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/camera_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/camera_description
+[0.661s] -- Install configuration: "Release"
+[0.661s] -- Execute custom install script
+[0.661s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/camera_description/share/camera_description/urdf/monocular_camera.xacro
+[0.661s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/camera_description/share/ament_index/resource_index/package_run_dependencies/camera_description
+[0.661s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/camera_description/share/ament_index/resource_index/parent_prefix_path/camera_description
+[0.664s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/camera_description/share/camera_description/environment/ament_prefix_path.sh
+[0.664s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/camera_description/share/camera_description/environment/ament_prefix_path.dsv
+[0.664s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/camera_description/share/camera_description/environment/path.sh
+[0.664s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/camera_description/share/camera_description/environment/path.dsv
+[0.664s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/camera_description/share/camera_description/local_setup.bash
+[0.664s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/camera_description/share/camera_description/local_setup.sh
+[0.664s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/camera_description/share/camera_description/local_setup.zsh
+[0.665s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/camera_description/share/camera_description/local_setup.dsv
+[0.665s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/camera_description/share/camera_description/package.dsv
+[0.715s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/camera_description/share/ament_index/resource_index/packages/camera_description
+[0.716s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/camera_description/share/camera_description/cmake/camera_descriptionConfig.cmake
+[0.717s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/camera_description/share/camera_description/cmake/camera_descriptionConfig-version.cmake
+[0.717s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/camera_description/share/camera_description/package.xml
+[0.775s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/camera_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/camera_description

@@ -1,0 +1,4 @@
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_control_msgs/rosidl_adapter/autoware_control_msgs:msg/Control.idl
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_control_msgs/rosidl_adapter/autoware_control_msgs:msg/ControlHorizon.idl
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_control_msgs/rosidl_adapter/autoware_control_msgs:msg/Lateral.idl
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_control_msgs/rosidl_adapter/autoware_control_msgs:msg/Longitudinal.idl

@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/morai_msgs/rosidl_generator_py/morai_msgs/msg/_morai_srv_response_s.c

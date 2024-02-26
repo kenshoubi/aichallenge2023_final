@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/system/dummy_infrastructure/include/dummy_infrastructure/dummy_infrastructure_node.hpp

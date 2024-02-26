@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/common/autoware_testing/cmake/add_smoke_test.cmake

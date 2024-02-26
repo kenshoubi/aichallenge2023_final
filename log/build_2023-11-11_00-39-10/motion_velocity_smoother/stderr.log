@@ -1,0 +1,8 @@
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/motion_velocity_smoother/src/motion_velocity_smoother_node.cpp:[m[K In member function ‘[01m[Kvoid motion_velocity_smoother::MotionVelocitySmootherNode::onCurrentTrajectory(autoware_auto_planning_msgs::msg::Trajectory_<std::allocator<void> >::ConstSharedPtr)[m[K’:
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/motion_velocity_smoother/src/motion_velocity_smoother_node.cpp:450:47:[m[K [01;31m[Kerror: [m[K‘[01m[Kcurvature_v[m[K’ was not declared in this scope; did you mean ‘[01m[Kcurvature[m[K’?
+  450 |     curvature = std::max(curvature, std::fabs([01;31m[Kcurvature_v[m[K.at(i)));
+      |                                               [01;31m[K^~~~~~~~~~~[m[K
+      |                                               [32m[Kcurvature[m[K
+gmake[2]: *** [CMakeFiles/motion_velocity_smoother_node.dir/build.make:76: CMakeFiles/motion_velocity_smoother_node.dir/src/motion_velocity_smoother_node.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:206: CMakeFiles/motion_velocity_smoother_node.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

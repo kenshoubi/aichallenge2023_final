@@ -1,0 +1,8 @@
+setup.py
+aichallenge_scoring_msgs/__init__.py
+aichallenge_scoring_msgs.egg-info/PKG-INFO
+aichallenge_scoring_msgs.egg-info/SOURCES.txt
+aichallenge_scoring_msgs.egg-info/dependency_links.txt
+aichallenge_scoring_msgs.egg-info/top_level.txt
+aichallenge_scoring_msgs/msg/__init__.py
+aichallenge_scoring_msgs/msg/_score.py

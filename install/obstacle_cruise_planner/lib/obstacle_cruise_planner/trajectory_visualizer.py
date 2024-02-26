@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/obstacle_cruise_planner/scripts/trajectory_visualizer.py

@@ -1,0 +1,474 @@
+[0.068s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/tier4_debug_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_debug_msgs -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs
+[0.193s] -- The C compiler identification is GNU 11.4.0
+[0.296s] -- The CXX compiler identification is GNU 11.4.0
+[0.325s] -- Detecting C compiler ABI info
+[0.491s] -- Detecting C compiler ABI info - done
+[0.500s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.502s] -- Detecting C compile features
+[0.502s] -- Detecting C compile features - done
+[0.506s] -- Detecting CXX compiler ABI info
+[0.703s] -- Detecting CXX compiler ABI info - done
+[0.716s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.716s] -- Detecting CXX compile features
+[0.717s] -- Detecting CXX compile features - done
+[0.720s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[1.025s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.107s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.323s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.332s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.413s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.828s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.135s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.505s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.554s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[2.556s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.606s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[2.606s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.606s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.606s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.636s] -- Found PythonExtra: .so  
+[3.052s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.085s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.092s] -- Added test 'lint_cmake' to check CMake code style
+[3.099s] -- Added test 'xmllint' to check XML markup files
+[3.112s] -- Configuring done
+[3.175s] -- Generating done
+[3.190s] -- Build files have been written to: /home/autoware/aichallenge2023-integration-final-main/build/tier4_debug_msgs
+[3.209s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/tier4_debug_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/universe/external/tier4_autoware_msgs/tier4_debug_msgs -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs
+[3.210s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/tier4_debug_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/tier4_debug_msgs -- -j16 -l16
+[3.571s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[3.571s] [  1%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[3.571s] [  1%] Built target ament_cmake_python_symlink_tier4_debug_msgs
+[4.375s] running egg_info
+[4.377s] creating tier4_debug_msgs.egg-info
+[4.377s] writing tier4_debug_msgs.egg-info/PKG-INFO
+[4.377s] writing dependency_links to tier4_debug_msgs.egg-info/dependency_links.txt
+[4.377s] writing top-level names to tier4_debug_msgs.egg-info/top_level.txt
+[4.378s] writing manifest file 'tier4_debug_msgs.egg-info/SOURCES.txt'
+[4.387s] reading manifest file 'tier4_debug_msgs.egg-info/SOURCES.txt'
+[4.388s] writing manifest file 'tier4_debug_msgs.egg-info/SOURCES.txt'
+[4.576s] [  1%] Built target ament_cmake_python_build_tier4_debug_msgs_egg
+[6.986s] [  1%] Built target tier4_debug_msgs__cpp
+[7.128s] [  2%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_c.dir/rosidl_generator_c/tier4_debug_msgs/msg/detail/multi_array_dimension__functions.c.o[0m
+[7.138s] [  4%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_c.dir/rosidl_generator_c/tier4_debug_msgs/msg/detail/float32_stamped__functions.c.o[0m
+[7.147s] [  4%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[7.152s] [  3%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_c.dir/rosidl_generator_c/tier4_debug_msgs/msg/detail/multi_array_layout__functions.c.o[0m
+[7.152s] [  4%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_c.dir/rosidl_generator_c/tier4_debug_msgs/msg/detail/float64_stamped__functions.c.o[0m
+[7.165s] [  5%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[7.184s] [  6%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[7.209s] [  7%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_c.dir/rosidl_generator_c/tier4_debug_msgs/msg/detail/bool_stamped__functions.c.o[0m
+[7.213s] [  8%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_c.dir/rosidl_generator_c/tier4_debug_msgs/msg/detail/float32_multi_array_stamped__functions.c.o[0m
+[7.234s] [  9%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_c.dir/rosidl_generator_c/tier4_debug_msgs/msg/detail/float64_multi_array_stamped__functions.c.o[0m
+[7.274s] [ 10%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_c.dir/rosidl_generator_c/tier4_debug_msgs/msg/detail/int32_stamped__functions.c.o[0m
+[7.369s] [ 11%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_c.dir/rosidl_generator_c/tier4_debug_msgs/msg/detail/int32_multi_array_stamped__functions.c.o[0m
+[7.521s] [ 11%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_c.dir/rosidl_generator_c/tier4_debug_msgs/msg/detail/int64_stamped__functions.c.o[0m
+[7.546s] [ 12%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_c.dir/rosidl_generator_c/tier4_debug_msgs/msg/detail/int64_multi_array_stamped__functions.c.o[0m
+[7.555s] [ 13%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_c.dir/rosidl_generator_c/tier4_debug_msgs/msg/detail/string_stamped__functions.c.o[0m
+[8.619s] [ 14%] [32m[1mLinking C shared library libtier4_debug_msgs__rosidl_generator_c.so[0m
+[9.260s] [ 14%] Built target tier4_debug_msgs__rosidl_generator_c
+[9.505s] [ 15%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[9.552s] [ 16%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[9.649s] [ 17%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[13.004s] [ 17%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/tier4_debug_msgs/msg/detail/multi_array_dimension__type_support.cpp.o[0m
+[13.118s] [ 18%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/tier4_debug_msgs/msg/detail/multi_array_layout__type_support.cpp.o[0m
+[13.133s] [ 19%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/tier4_debug_msgs/msg/detail/bool_stamped__type_support.cpp.o[0m
+[13.178s] [ 21%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/tier4_debug_msgs/msg/detail/float32_stamped__type_support.cpp.o[0m
+[13.188s] [ 21%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/tier4_debug_msgs/msg/detail/float32_multi_array_stamped__type_support.cpp.o[0m
+[13.307s] [ 22%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/tier4_debug_msgs/msg/detail/float64_stamped__type_support.cpp.o[0m
+[13.321s] [ 22%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/tier4_debug_msgs/msg/detail/float64_multi_array_stamped__type_support.cpp.o[0m
+[13.352s] [ 23%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/tier4_debug_msgs/msg/detail/int32_stamped__type_support.cpp.o[0m
+[13.385s] [ 24%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/tier4_debug_msgs/msg/detail/int64_stamped__type_support.cpp.o[0m
+[13.387s] [ 25%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/tier4_debug_msgs/msg/detail/int32_multi_array_stamped__type_support.cpp.o[0m
+[13.441s] [ 26%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/tier4_debug_msgs/msg/detail/int64_multi_array_stamped__type_support.cpp.o[0m
+[13.584s] [ 27%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/tier4_debug_msgs/msg/multi_array_dimension__type_support.cpp.o[0m
+[13.630s] [ 28%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/tier4_debug_msgs/msg/detail/dds_fastrtps/multi_array_dimension__type_support.cpp.o[0m
+[14.964s] [ 29%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/tier4_debug_msgs/msg/multi_array_layout__type_support.cpp.o[0m
+[15.307s] [ 30%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/tier4_debug_msgs/msg/multi_array_dimension__type_support.cpp.o[0m
+[15.446s] [ 30%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/tier4_debug_msgs/msg/multi_array_layout__type_support.cpp.o[0m
+[15.658s] [ 31%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/tier4_debug_msgs/msg/float32_stamped__type_support.cpp.o[0m
+[15.858s] [ 32%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/tier4_debug_msgs/msg/bool_stamped__type_support.cpp.o[0m
+[15.968s] [ 33%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/tier4_debug_msgs/msg/detail/dds_fastrtps/multi_array_layout__type_support.cpp.o[0m
+[16.054s] [ 34%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/tier4_debug_msgs/msg/float64_stamped__type_support.cpp.o[0m
+[16.070s] [ 35%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/tier4_debug_msgs/msg/float64_stamped__type_support.cpp.o[0m
+[16.283s] [ 36%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/tier4_debug_msgs/msg/int32_multi_array_stamped__type_support.cpp.o[0m
+[16.415s] [ 37%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/tier4_debug_msgs/msg/detail/string_stamped__type_support.cpp.o[0m
+[16.516s] [ 38%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/tier4_debug_msgs/msg/int64_stamped__type_support.cpp.o[0m
+[16.687s] [ 38%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/tier4_debug_msgs/msg/int32_stamped__type_support.cpp.o[0m
+[16.915s] [ 39%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/tier4_debug_msgs/msg/float64_multi_array_stamped__type_support.cpp.o[0m
+[16.939s] [ 40%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/tier4_debug_msgs/msg/int64_multi_array_stamped__type_support.cpp.o[0m
+[16.992s] [ 41%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/tier4_debug_msgs/msg/detail/multi_array_dimension__type_support.c.o[0m
+[17.070s] [ 42%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/tier4_debug_msgs/msg/detail/multi_array_dimension__type_support_c.cpp.o[0m
+[17.190s] [ 43%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/tier4_debug_msgs/msg/detail/dds_fastrtps/float64_multi_array_stamped__type_support.cpp.o[0m
+[17.197s] [ 44%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/tier4_debug_msgs/msg/float64_multi_array_stamped__type_support.cpp.o[0m
+[17.199s] [ 45%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/tier4_debug_msgs/msg/detail/multi_array_layout__type_support.c.o[0m
+[17.395s] [ 46%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/tier4_debug_msgs/msg/detail/bool_stamped__type_support.c.o[0m
+[17.460s] [ 47%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/tier4_debug_msgs/msg/string_stamped__type_support.cpp.o[0m
+[17.541s] [ 48%] [32m[1mLinking CXX shared library libtier4_debug_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[17.586s] [ 49%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/tier4_debug_msgs/msg/float32_multi_array_stamped__type_support.cpp.o[0m
+[17.587s] [ 49%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/tier4_debug_msgs/msg/float32_multi_array_stamped__type_support.cpp.o[0m
+[17.622s] [ 49%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/tier4_debug_msgs/msg/detail/float32_stamped__type_support.c.o[0m
+[17.802s] [ 50%] [32m[1mLinking CXX shared library libtier4_debug_msgs__rosidl_typesupport_c.so[0m
+[17.878s] [ 51%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/tier4_debug_msgs/msg/detail/float32_multi_array_stamped__type_support.c.o[0m
+[17.909s] [ 51%] Built target tier4_debug_msgs__rosidl_typesupport_introspection_cpp
+[18.088s] [ 51%] Built target tier4_debug_msgs__rosidl_typesupport_c
+[18.118s] [ 52%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/tier4_debug_msgs/msg/detail/float64_stamped__type_support.c.o[0m
+[18.255s] [ 52%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/tier4_debug_msgs/msg/detail/dds_fastrtps/float64_stamped__type_support.cpp.o[0m
+[18.310s] [ 53%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/tier4_debug_msgs/msg/detail/float64_multi_array_stamped__type_support.c.o[0m
+[18.529s] [ 53%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/tier4_debug_msgs/msg/detail/bool_stamped__type_support_c.cpp.o[0m
+[18.541s] [ 54%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/tier4_debug_msgs/msg/detail/int32_stamped__type_support.c.o[0m
+[18.732s] [ 55%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/tier4_debug_msgs/msg/string_stamped__type_support.cpp.o[0m
+[18.760s] [ 56%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/tier4_debug_msgs/msg/detail/int32_multi_array_stamped__type_support.c.o[0m
+[18.962s] [ 57%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/tier4_debug_msgs/msg/detail/int64_stamped__type_support.c.o[0m
+[19.076s] [ 57%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/tier4_debug_msgs/msg/detail/int64_multi_array_stamped__type_support.c.o[0m
+[19.122s] [ 58%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/tier4_debug_msgs/msg/detail/dds_fastrtps/int32_multi_array_stamped__type_support.cpp.o[0m
+[19.175s] [ 59%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/tier4_debug_msgs/msg/detail/float32_stamped__type_support_c.cpp.o[0m
+[19.285s] [ 59%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/tier4_debug_msgs/msg/int64_multi_array_stamped__type_support.cpp.o[0m
+[19.302s] [ 60%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/tier4_debug_msgs/msg/detail/string_stamped__type_support.c.o[0m
+[19.489s] [ 61%] [32m[1mLinking C shared library libtier4_debug_msgs__rosidl_typesupport_introspection_c.so[0m
+[19.734s] [ 61%] Built target tier4_debug_msgs__rosidl_typesupport_introspection_c
+[19.778s] [ 62%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/tier4_debug_msgs/msg/int64_stamped__type_support.cpp.o[0m
+[20.014s] [ 63%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/tier4_debug_msgs/msg/detail/float64_multi_array_stamped__type_support_c.cpp.o[0m
+[20.174s] [ 64%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/tier4_debug_msgs/msg/detail/dds_fastrtps/int64_multi_array_stamped__type_support.cpp.o[0m
+[20.365s] [ 65%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/tier4_debug_msgs/msg/int32_multi_array_stamped__type_support.cpp.o[0m
+[20.711s] [ 66%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/tier4_debug_msgs/msg/detail/int32_stamped__type_support_c.cpp.o[0m
+[20.895s] [ 67%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/tier4_debug_msgs/msg/int32_stamped__type_support.cpp.o[0m
+[21.090s] [ 67%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/tier4_debug_msgs/msg/detail/dds_fastrtps/string_stamped__type_support.cpp.o[0m
+[21.254s] [ 68%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/tier4_debug_msgs/msg/detail/int64_multi_array_stamped__type_support_c.cpp.o[0m
+[21.394s] [ 69%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/tier4_debug_msgs/msg/float32_stamped__type_support.cpp.o[0m
+[21.796s] [ 70%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/tier4_debug_msgs/msg/detail/dds_fastrtps/int64_stamped__type_support.cpp.o[0m
+[21.827s] [ 71%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/tier4_debug_msgs/msg/detail/string_stamped__type_support_c.cpp.o[0m
+[21.838s] [ 72%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/tier4_debug_msgs/msg/bool_stamped__type_support.cpp.o[0m
+[22.242s] [ 73%] [32m[1mLinking CXX shared library libtier4_debug_msgs__rosidl_typesupport_cpp.so[0m
+[22.383s] [ 74%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/tier4_debug_msgs/msg/detail/int64_stamped__type_support_c.cpp.o[0m
+[22.390s] [ 74%] Built target tier4_debug_msgs__rosidl_typesupport_cpp
+[22.433s] [ 75%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/tier4_debug_msgs/msg/detail/dds_fastrtps/int32_stamped__type_support.cpp.o[0m
+[22.917s] [ 75%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/tier4_debug_msgs/msg/detail/int32_multi_array_stamped__type_support_c.cpp.o[0m
+[23.015s] [ 76%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/tier4_debug_msgs/msg/detail/dds_fastrtps/float32_multi_array_stamped__type_support.cpp.o[0m
+[23.412s] [ 77%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/tier4_debug_msgs/msg/detail/float64_stamped__type_support_c.cpp.o[0m
+[23.639s] [ 78%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/tier4_debug_msgs/msg/detail/dds_fastrtps/float32_stamped__type_support.cpp.o[0m
+[23.957s] [ 79%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/tier4_debug_msgs/msg/detail/float32_multi_array_stamped__type_support_c.cpp.o[0m
+[24.249s] [ 80%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/tier4_debug_msgs/msg/detail/dds_fastrtps/bool_stamped__type_support.cpp.o[0m
+[24.460s] [ 81%] [32mBuilding CXX object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/tier4_debug_msgs/msg/detail/multi_array_layout__type_support_c.cpp.o[0m
+[24.848s] [ 82%] [32m[1mLinking CXX shared library libtier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[24.949s] [ 83%] [32m[1mLinking CXX shared library libtier4_debug_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[24.995s] [ 83%] Built target tier4_debug_msgs__rosidl_typesupport_fastrtps_cpp
+[25.133s] [ 83%] Built target tier4_debug_msgs__rosidl_typesupport_fastrtps_c
+[25.210s] [ 83%] Built target tier4_debug_msgs
+[25.290s] [ 84%] [34m[1mGenerating Python code for ROS interfaces[0m
+[27.959s] [ 84%] Built target tier4_debug_msgs__py
+[28.041s] [ 85%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_py.dir/rosidl_generator_py/tier4_debug_msgs/msg/_multi_array_dimension_s.c.o[0m
+[28.256s] [ 86%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_py.dir/rosidl_generator_py/tier4_debug_msgs/msg/_string_stamped_s.c.o[0m
+[28.474s] [ 87%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_py.dir/rosidl_generator_py/tier4_debug_msgs/msg/_int64_multi_array_stamped_s.c.o[0m
+[28.716s] [ 87%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_py.dir/rosidl_generator_py/tier4_debug_msgs/msg/_int64_stamped_s.c.o[0m
+[28.929s] [ 88%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_py.dir/rosidl_generator_py/tier4_debug_msgs/msg/_int32_multi_array_stamped_s.c.o[0m
+[29.190s] [ 89%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_py.dir/rosidl_generator_py/tier4_debug_msgs/msg/_int32_stamped_s.c.o[0m
+[29.420s] [ 90%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_py.dir/rosidl_generator_py/tier4_debug_msgs/msg/_float64_multi_array_stamped_s.c.o[0m
+[29.667s] [ 91%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_py.dir/rosidl_generator_py/tier4_debug_msgs/msg/_float64_stamped_s.c.o[0m
+[29.880s] [ 92%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_py.dir/rosidl_generator_py/tier4_debug_msgs/msg/_float32_multi_array_stamped_s.c.o[0m
+[30.132s] [ 93%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_py.dir/rosidl_generator_py/tier4_debug_msgs/msg/_float32_stamped_s.c.o[0m
+[30.342s] [ 93%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_py.dir/rosidl_generator_py/tier4_debug_msgs/msg/_bool_stamped_s.c.o[0m
+[30.546s] [ 94%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_generator_py.dir/rosidl_generator_py/tier4_debug_msgs/msg/_multi_array_layout_s.c.o[0m
+[30.768s] [ 95%] [32m[1mLinking C shared library rosidl_generator_py/tier4_debug_msgs/libtier4_debug_msgs__rosidl_generator_py.so[0m
+[30.871s] [ 95%] Built target tier4_debug_msgs__rosidl_generator_py
+[30.949s] [ 96%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/tier4_debug_msgs/_tier4_debug_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[31.286s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/tier4_debug_msgs/tier4_debug_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[31.382s] [ 97%] Built target tier4_debug_msgs__rosidl_typesupport_fastrtps_c__pyext
+[31.461s] [ 97%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/tier4_debug_msgs/_tier4_debug_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[31.814s] [ 98%] [32m[1mLinking C shared library rosidl_generator_py/tier4_debug_msgs/tier4_debug_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[31.917s] [ 98%] Built target tier4_debug_msgs__rosidl_typesupport_c__pyext
+[32.013s] [ 99%] [32mBuilding C object CMakeFiles/tier4_debug_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/tier4_debug_msgs/_tier4_debug_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[32.379s] [100%] [32m[1mLinking C shared library rosidl_generator_py/tier4_debug_msgs/tier4_debug_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[32.487s] [100%] Built target tier4_debug_msgs__rosidl_typesupport_introspection_c__pyext
+[32.517s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/tier4_debug_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/tier4_debug_msgs -- -j16 -l16
+[35.943s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/tier4_debug_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/tier4_debug_msgs
+[52.364s] -- Install configuration: "Release"
+[52.365s] -- Execute custom install script
+[52.365s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/ament_index/resource_index/rosidl_interfaces/tier4_debug_msgs
+[52.365s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/bool_stamped.h
+[52.365s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/bool_stamped__functions.h
+[52.365s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/bool_stamped__struct.h
+[52.365s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/bool_stamped__type_support.h
+[52.365s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_multi_array_stamped__functions.h
+[52.366s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_multi_array_stamped__struct.h
+[52.366s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_multi_array_stamped__type_support.h
+[52.366s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_stamped__functions.h
+[52.366s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_stamped__struct.h
+[52.366s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_stamped__type_support.h
+[52.366s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_multi_array_stamped__functions.h
+[52.366s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_multi_array_stamped__struct.h
+[52.366s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_multi_array_stamped__type_support.h
+[52.366s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_stamped__functions.h
+[52.366s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_stamped__struct.h
+[52.366s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_stamped__type_support.h
+[52.366s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_multi_array_stamped__functions.h
+[52.366s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_multi_array_stamped__struct.h
+[52.366s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_multi_array_stamped__type_support.h
+[52.367s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_stamped__functions.h
+[52.367s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_stamped__struct.h
+[52.367s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_stamped__type_support.h
+[52.367s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_multi_array_stamped__functions.h
+[52.367s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_multi_array_stamped__struct.h
+[52.367s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_multi_array_stamped__type_support.h
+[52.367s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_stamped__functions.h
+[52.367s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_stamped__struct.h
+[52.367s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_stamped__type_support.h
+[52.367s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_dimension__functions.h
+[52.367s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_dimension__struct.h
+[52.367s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_dimension__type_support.h
+[52.367s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_layout__functions.h
+[52.367s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_layout__struct.h
+[52.368s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_layout__type_support.h
+[52.368s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/string_stamped__functions.h
+[52.368s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/string_stamped__struct.h
+[52.368s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/string_stamped__type_support.h
+[52.368s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/float32_multi_array_stamped.h
+[52.368s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/float32_stamped.h
+[52.368s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/float64_multi_array_stamped.h
+[52.368s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/float64_stamped.h
+[52.368s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/int32_multi_array_stamped.h
+[52.368s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/int32_stamped.h
+[52.368s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/int64_multi_array_stamped.h
+[52.368s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/int64_stamped.h
+[52.368s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/multi_array_dimension.h
+[52.369s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/multi_array_layout.h
+[52.369s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/rosidl_generator_c__visibility_control.h
+[52.369s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/string_stamped.h
+[52.369s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/environment/library_path.sh
+[52.369s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/environment/library_path.dsv
+[52.369s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/bool_stamped__rosidl_typesupport_fastrtps_c.h
+[52.369s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_multi_array_stamped__rosidl_typesupport_fastrtps_c.h
+[52.369s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_stamped__rosidl_typesupport_fastrtps_c.h
+[52.369s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_multi_array_stamped__rosidl_typesupport_fastrtps_c.h
+[52.369s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_stamped__rosidl_typesupport_fastrtps_c.h
+[52.369s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_multi_array_stamped__rosidl_typesupport_fastrtps_c.h
+[52.369s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_stamped__rosidl_typesupport_fastrtps_c.h
+[52.369s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_multi_array_stamped__rosidl_typesupport_fastrtps_c.h
+[52.370s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_stamped__rosidl_typesupport_fastrtps_c.h
+[52.370s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_dimension__rosidl_typesupport_fastrtps_c.h
+[52.370s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_layout__rosidl_typesupport_fastrtps_c.h
+[52.370s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/string_stamped__rosidl_typesupport_fastrtps_c.h
+[52.370s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[52.370s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/bool_stamped__rosidl_typesupport_introspection_c.h
+[52.370s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_multi_array_stamped__rosidl_typesupport_introspection_c.h
+[52.370s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_stamped__rosidl_typesupport_introspection_c.h
+[52.370s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_multi_array_stamped__rosidl_typesupport_introspection_c.h
+[52.370s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_stamped__rosidl_typesupport_introspection_c.h
+[52.370s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_multi_array_stamped__rosidl_typesupport_introspection_c.h
+[52.370s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_stamped__rosidl_typesupport_introspection_c.h
+[52.370s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_multi_array_stamped__rosidl_typesupport_introspection_c.h
+[52.370s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_stamped__rosidl_typesupport_introspection_c.h
+[52.371s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_dimension__rosidl_typesupport_introspection_c.h
+[52.371s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_layout__rosidl_typesupport_introspection_c.h
+[52.371s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/string_stamped__rosidl_typesupport_introspection_c.h
+[52.371s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[52.371s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/bool_stamped.hpp
+[52.371s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/bool_stamped__builder.hpp
+[52.371s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/bool_stamped__struct.hpp
+[52.371s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/bool_stamped__traits.hpp
+[52.371s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_multi_array_stamped__builder.hpp
+[52.371s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_multi_array_stamped__struct.hpp
+[52.371s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_multi_array_stamped__traits.hpp
+[52.371s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_stamped__builder.hpp
+[52.371s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_stamped__struct.hpp
+[52.371s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_stamped__traits.hpp
+[52.371s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_multi_array_stamped__builder.hpp
+[52.371s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_multi_array_stamped__struct.hpp
+[52.383s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_multi_array_stamped__traits.hpp
+[52.401s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_stamped__builder.hpp
+[52.415s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_stamped__struct.hpp
+[52.433s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_stamped__traits.hpp
+[52.446s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_multi_array_stamped__builder.hpp
+[52.463s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_multi_array_stamped__struct.hpp
+[52.482s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_multi_array_stamped__traits.hpp
+[52.503s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_stamped__builder.hpp
+[52.524s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_stamped__struct.hpp
+[52.545s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_stamped__traits.hpp
+[52.566s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_multi_array_stamped__builder.hpp
+[52.586s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_multi_array_stamped__struct.hpp
+[52.604s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_multi_array_stamped__traits.hpp
+[52.620s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_stamped__builder.hpp
+[52.642s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_stamped__struct.hpp
+[52.663s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_stamped__traits.hpp
+[52.683s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_dimension__builder.hpp
+[52.700s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_dimension__struct.hpp
+[52.719s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_dimension__traits.hpp
+[52.740s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_layout__builder.hpp
+[52.759s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_layout__struct.hpp
+[52.777s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_layout__traits.hpp
+[52.798s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/string_stamped__builder.hpp
+[52.819s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/string_stamped__struct.hpp
+[52.837s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/string_stamped__traits.hpp
+[52.858s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/float32_multi_array_stamped.hpp
+[52.880s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/float32_stamped.hpp
+[52.896s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/float64_multi_array_stamped.hpp
+[52.918s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/float64_stamped.hpp
+[52.939s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/int32_multi_array_stamped.hpp
+[52.960s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/int32_stamped.hpp
+[52.981s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/int64_multi_array_stamped.hpp
+[53.003s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/int64_stamped.hpp
+[53.025s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/multi_array_dimension.hpp
+[53.049s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/multi_array_layout.hpp
+[53.070s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/string_stamped.hpp
+[53.093s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/bool_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[53.114s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_multi_array_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[53.132s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[53.153s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_multi_array_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[53.175s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[53.195s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_multi_array_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[53.211s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[53.235s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_multi_array_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[53.258s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[53.278s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_dimension__rosidl_typesupport_fastrtps_cpp.hpp
+[53.301s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_layout__rosidl_typesupport_fastrtps_cpp.hpp
+[53.326s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/string_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[53.344s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[53.364s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/bool_stamped__rosidl_typesupport_introspection_cpp.hpp
+[53.386s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_multi_array_stamped__rosidl_typesupport_introspection_cpp.hpp
+[53.409s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float32_stamped__rosidl_typesupport_introspection_cpp.hpp
+[53.429s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_multi_array_stamped__rosidl_typesupport_introspection_cpp.hpp
+[53.452s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/float64_stamped__rosidl_typesupport_introspection_cpp.hpp
+[53.473s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_multi_array_stamped__rosidl_typesupport_introspection_cpp.hpp
+[53.494s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int32_stamped__rosidl_typesupport_introspection_cpp.hpp
+[53.517s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_multi_array_stamped__rosidl_typesupport_introspection_cpp.hpp
+[53.542s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/int64_stamped__rosidl_typesupport_introspection_cpp.hpp
+[53.563s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_dimension__rosidl_typesupport_introspection_cpp.hpp
+[53.585s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/multi_array_layout__rosidl_typesupport_introspection_cpp.hpp
+[53.608s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/include/tier4_debug_msgs/tier4_debug_msgs/msg/detail/string_stamped__rosidl_typesupport_introspection_cpp.hpp
+[53.629s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/environment/pythonpath.sh
+[53.650s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/environment/pythonpath.dsv
+[53.674s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs-0.1.0-py3.10.egg-info/PKG-INFO
+[53.696s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs-0.1.0-py3.10.egg-info/SOURCES.txt
+[53.718s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs-0.1.0-py3.10.egg-info/dependency_links.txt
+[53.743s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs-0.1.0-py3.10.egg-info/top_level.txt
+[53.765s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/__init__.py
+[53.786s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/_tier4_debug_msgs_s.ep.rosidl_typesupport_c.c
+[53.807s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/_tier4_debug_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[53.829s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/_tier4_debug_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[53.853s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/libtier4_debug_msgs__rosidl_generator_py.so
+[53.877s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/__init__.py
+[53.898s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_bool_stamped.py
+[53.922s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_bool_stamped_s.c
+[53.944s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_float32_multi_array_stamped.py
+[53.966s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_float32_multi_array_stamped_s.c
+[53.989s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_float32_stamped.py
+[54.006s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_float32_stamped_s.c
+[54.031s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_float64_multi_array_stamped.py
+[54.056s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_float64_multi_array_stamped_s.c
+[54.078s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_float64_stamped.py
+[54.099s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_float64_stamped_s.c
+[54.122s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_int32_multi_array_stamped.py
+[54.146s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_int32_multi_array_stamped_s.c
+[54.166s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_int32_stamped.py
+[54.184s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_int32_stamped_s.c
+[54.205s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_int64_multi_array_stamped.py
+[54.224s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_int64_multi_array_stamped_s.c
+[54.245s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_int64_stamped.py
+[54.269s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_int64_stamped_s.c
+[54.290s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_multi_array_dimension.py
+[54.311s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_multi_array_dimension_s.c
+[54.333s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_multi_array_layout.py
+[54.354s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_multi_array_layout_s.c
+[54.374s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_string_stamped.py
+[54.397s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_string_stamped_s.c
+[54.420s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/tier4_debug_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[54.444s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/tier4_debug_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[54.465s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/tier4_debug_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[54.483s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/tier4_debug_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[54.484s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/tier4_debug_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[54.485s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/tier4_debug_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[54.485s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/MultiArrayDimension.idl
+[54.508s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/MultiArrayLayout.idl
+[54.529s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/BoolStamped.idl
+[54.551s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/Float32Stamped.idl
+[54.573s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/Float32MultiArrayStamped.idl
+[54.595s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/Float64Stamped.idl
+[54.616s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/Float64MultiArrayStamped.idl
+[54.640s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/Int32Stamped.idl
+[54.654s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/Int32MultiArrayStamped.idl
+[54.678s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/Int64Stamped.idl
+[54.699s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/Int64MultiArrayStamped.idl
+[54.721s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/StringStamped.idl
+[54.745s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/MultiArrayDimension.msg
+[54.770s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/MultiArrayLayout.msg
+[54.794s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/BoolStamped.msg
+[54.818s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/Float32Stamped.msg
+[54.844s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/Float32MultiArrayStamped.msg
+[54.867s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/Float64Stamped.msg
+[54.890s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/Float64MultiArrayStamped.msg
+[54.916s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/Int32Stamped.msg
+[54.944s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/Int32MultiArrayStamped.msg
+[54.966s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/Int64Stamped.msg
+[54.988s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/Int64MultiArrayStamped.msg
+[55.010s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/msg/StringStamped.msg
+[55.034s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/ament_index/resource_index/package_run_dependencies/tier4_debug_msgs
+[55.057s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/ament_index/resource_index/parent_prefix_path/tier4_debug_msgs
+[55.079s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/environment/ament_prefix_path.sh
+[55.095s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/environment/ament_prefix_path.dsv
+[55.115s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/environment/path.sh
+[55.137s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/environment/path.dsv
+[55.155s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/local_setup.bash
+[55.178s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/local_setup.sh
+[55.202s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/local_setup.zsh
+[55.225s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/local_setup.dsv
+[55.249s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/package.dsv
+[55.269s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/ament_index/resource_index/packages/tier4_debug_msgs
+[55.291s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/rosidl_cmake-extras.cmake
+[55.311s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[55.333s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[55.357s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[55.379s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[55.403s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[55.428s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[55.448s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/tier4_debug_msgsConfig.cmake
+[55.463s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/tier4_debug_msgsConfig-version.cmake
+[55.481s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/package.xml
+[55.508s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/lib/libtier4_debug_msgs__rosidl_generator_c.so
+[55.508s] -- Set runtime path of "/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/lib/libtier4_debug_msgs__rosidl_generator_c.so" to ""
+[55.508s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/lib/libtier4_debug_msgs__rosidl_typesupport_fastrtps_c.so
+[55.508s] -- Set runtime path of "/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/lib/libtier4_debug_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[55.508s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/lib/libtier4_debug_msgs__rosidl_typesupport_introspection_c.so
+[55.508s] -- Set runtime path of "/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/lib/libtier4_debug_msgs__rosidl_typesupport_introspection_c.so" to ""
+[55.508s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/lib/libtier4_debug_msgs__rosidl_typesupport_c.so
+[55.508s] -- Set runtime path of "/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/lib/libtier4_debug_msgs__rosidl_typesupport_c.so" to ""
+[55.509s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/lib/libtier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.so
+[55.509s] -- Set runtime path of "/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/lib/libtier4_debug_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[55.509s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/lib/libtier4_debug_msgs__rosidl_typesupport_introspection_cpp.so
+[55.509s] -- Set runtime path of "/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/lib/libtier4_debug_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[55.509s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/lib/libtier4_debug_msgs__rosidl_typesupport_cpp.so
+[55.509s] -- Set runtime path of "/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/lib/libtier4_debug_msgs__rosidl_typesupport_cpp.so" to ""
+[55.595s] Listing '/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs'...
+[55.595s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/__init__.py'...
+[55.595s] Listing '/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg'...
+[55.596s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/__init__.py'...
+[55.596s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_bool_stamped.py'...
+[55.596s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_float32_multi_array_stamped.py'...
+[55.596s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_float32_stamped.py'...
+[55.596s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_float64_multi_array_stamped.py'...
+[55.596s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_float64_stamped.py'...
+[55.596s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_int32_multi_array_stamped.py'...
+[55.596s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_int32_stamped.py'...
+[55.596s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_int64_multi_array_stamped.py'...
+[55.596s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_int64_stamped.py'...
+[55.597s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_multi_array_dimension.py'...
+[55.597s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_multi_array_layout.py'...
+[55.597s] Compiling '/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/local/lib/python3.10/dist-packages/tier4_debug_msgs/msg/_string_stamped.py'...
+[55.602s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/lib/libtier4_debug_msgs__rosidl_generator_py.so
+[55.602s] -- Set runtime path of "/home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/lib/libtier4_debug_msgs__rosidl_generator_py.so" to ""
+[55.602s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/export_tier4_debug_msgs__rosidl_generator_cExport.cmake
+[55.602s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/export_tier4_debug_msgs__rosidl_generator_cExport-release.cmake
+[55.603s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/export_tier4_debug_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[55.603s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/export_tier4_debug_msgs__rosidl_typesupport_fastrtps_cExport-release.cmake
+[55.603s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/tier4_debug_msgs__rosidl_typesupport_introspection_cExport.cmake
+[55.603s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/tier4_debug_msgs__rosidl_typesupport_introspection_cExport-release.cmake
+[55.603s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/tier4_debug_msgs__rosidl_typesupport_cExport.cmake
+[55.604s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/tier4_debug_msgs__rosidl_typesupport_cExport-release.cmake
+[55.604s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/export_tier4_debug_msgs__rosidl_generator_cppExport.cmake
+[55.604s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/export_tier4_debug_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[55.604s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/export_tier4_debug_msgs__rosidl_typesupport_fastrtps_cppExport-release.cmake
+[55.604s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/tier4_debug_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[55.604s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/tier4_debug_msgs__rosidl_typesupport_introspection_cppExport-release.cmake
+[55.605s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/tier4_debug_msgs__rosidl_typesupport_cppExport.cmake
+[55.605s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/tier4_debug_msgs__rosidl_typesupport_cppExport-release.cmake
+[55.605s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/export_tier4_debug_msgs__rosidl_generator_pyExport.cmake
+[55.605s] -- Installing: /home/autoware/aichallenge2023-integration-final-main/install/tier4_debug_msgs/share/tier4_debug_msgs/cmake/export_tier4_debug_msgs__rosidl_generator_pyExport-release.cmake
+[55.611s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/tier4_debug_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/tier4_debug_msgs

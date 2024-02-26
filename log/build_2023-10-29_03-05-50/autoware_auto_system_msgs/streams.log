@@ -1,0 +1,64 @@
+[0.224s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_system_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_system_msgs -- -j16 -l16
+[0.877s] [ 11%] Built target autoware_auto_system_msgs__rosidl_generator_c
+[1.072s] [ 12%] Built target autoware_auto_system_msgs__cpp
+[1.306s] [ 12%] Built target ament_cmake_python_symlink_autoware_auto_system_msgs
+[2.007s] [ 24%] Built target autoware_auto_system_msgs__rosidl_typesupport_c
+[2.091s] [ 35%] Built target autoware_auto_system_msgs__rosidl_typesupport_introspection_c
+[2.092s] [ 46%] Built target autoware_auto_system_msgs__rosidl_typesupport_fastrtps_c
+[2.162s] [ 58%] Built target autoware_auto_system_msgs__rosidl_typesupport_fastrtps_cpp
+[2.448s] [ 69%] Built target autoware_auto_system_msgs__rosidl_typesupport_cpp
+[2.464s] [ 81%] Built target autoware_auto_system_msgs__rosidl_typesupport_introspection_cpp
+[3.017s] [ 81%] Built target autoware_auto_system_msgs
+[3.524s] [ 82%] Built target autoware_auto_system_msgs__py
+[3.581s] running egg_info
+[3.583s] writing autoware_auto_system_msgs.egg-info/PKG-INFO
+[3.583s] writing dependency_links to autoware_auto_system_msgs.egg-info/dependency_links.txt
+[3.583s] writing top-level names to autoware_auto_system_msgs.egg-info/top_level.txt
+[3.609s] reading manifest file 'autoware_auto_system_msgs.egg-info/SOURCES.txt'
+[3.609s] writing manifest file 'autoware_auto_system_msgs.egg-info/SOURCES.txt'
+[3.752s] [ 82%] Built target ament_cmake_python_build_autoware_auto_system_msgs_egg
+[3.779s] [ 92%] Built target autoware_auto_system_msgs__rosidl_generator_py
+[4.184s] [ 94%] Built target autoware_auto_system_msgs__rosidl_typesupport_introspection_c__pyext
+[4.234s] [ 97%] Built target autoware_auto_system_msgs__rosidl_typesupport_fastrtps_c__pyext
+[4.234s] [100%] Built target autoware_auto_system_msgs__rosidl_typesupport_c__pyext
+[4.313s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_system_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_system_msgs -- -j16 -l16
+[5.584s] Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/colcon_parallel_executor/executor/parallel.py", line 67, in execute
+    loop.run_until_complete(future)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/usr/lib/python3.10/asyncio/unix_events.py", line 516, in _read_ready
+    self._loop._remove_reader(self._fileno)
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 272, in _remove_reader
+    key = self._selector.get_key(fd)
+  File "/usr/lib/python3.10/selectors.py", line 181, in get_key
+    def get_key(self, fileobj):
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/colcon_core/executor/__init__.py", line 91, in __call__
+    rc = await self.task(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/colcon_core/task/__init__.py", line 93, in __call__
+    return await task_method(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/colcon_ros/task/ament_cmake/build.py", line 59, in build
+    rc = await extension.build(
+  File "/usr/lib/python3/dist-packages/colcon_cmake/task/cmake/build.py", line 110, in build
+    if await has_target(args.build_base, 'install'):
+  File "/usr/lib/python3/dist-packages/colcon_cmake/task/cmake/__init__.py", line 57, in has_target
+    return target in await get_makefile_targets(path)
+  File "/usr/lib/python3/dist-packages/colcon_cmake/task/cmake/__init__.py", line 77, in get_makefile_targets
+    output = await check_output([
+  File "/usr/lib/python3/dist-packages/colcon_core/subprocess.py", line 128, in check_output
+    assert not rc, f'Expected {args} to pass: {stderr_data}'
+AssertionError: Expected ['/usr/bin/cmake', '--build', '/home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_system_msgs', '--target', 'help'] to pass: gmake: *** wait: No child processes.  Stop.
+gmake: *** Waiting for unfinished jobs....
+gmake: *** wait: No child processes.  Stop.
+

@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/tier4_system_msgs/rosidl_generator_py/tier4_system_msgs/msg/_hazard_status_stamped.py

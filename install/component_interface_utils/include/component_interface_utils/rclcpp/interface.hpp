@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/common/component_interface_utils/include/component_interface_utils/rclcpp/interface.hpp

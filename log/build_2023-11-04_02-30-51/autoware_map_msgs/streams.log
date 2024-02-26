@@ -1,0 +1,16 @@
+[0.154s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/autoware_map_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/aichallenge2023-integration-final-main/install/simulator_compatibility_test:/home/autoware/aichallenge2023-integration-final-main/install/ad_api_visualizers:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/autoware_map_msgs -- -j16 -l16
+[1.017s] [ 11%] Built target autoware_map_msgs__rosidl_generator_c
+[1.017s] [ 12%] Built target autoware_map_msgs__cpp
+[1.017s] gmake[2]: *** [CMakeFiles/autoware_map_msgs__rosidl_typesupport_fastrtps_c.dir/build.make:328: CMakeFiles/autoware_map_msgs__rosidl_typesupport_fastrtps_c.dir/depend] Interrupt
+[1.017s] gmake[2]: *** [CMakeFiles/autoware_map_msgs__rosidl_typesupport_introspection_c.dir/build.make:325: CMakeFiles/autoware_map_msgs__rosidl_typesupport_introspection_c.dir/depend] Interrupt
+[1.017s] gmake[2]: *** [CMakeFiles/autoware_map_msgs__rosidl_typesupport_c.dir/build.make:303: CMakeFiles/autoware_map_msgs__rosidl_typesupport_c.dir/depend] Interrupt
+[1.017s] gmake[1]: *** [CMakeFiles/Makefile2:316: CMakeFiles/autoware_map_msgs__rosidl_typesupport_introspection_c.dir/all] Interrupt
+[1.017s] gmake[1]: *** [CMakeFiles/Makefile2:342: CMakeFiles/autoware_map_msgs__rosidl_typesupport_c.dir/all] Interrupt
+[1.017s] gmake[1]: *** [CMakeFiles/Makefile2:394: CMakeFiles/autoware_map_msgs__rosidl_typesupport_cpp.dir/all] Interrupt
+[1.017s] gmake[1]: *** [CMakeFiles/Makefile2:290: CMakeFiles/autoware_map_msgs__rosidl_typesupport_fastrtps_cpp.dir/all] Interrupt
+[1.017s] gmake[1]: *** [CMakeFiles/Makefile2:368: CMakeFiles/autoware_map_msgs__rosidl_typesupport_introspection_cpp.dir/all] Interrupt
+[1.018s] gmake[1]: *** [CMakeFiles/Makefile2:238: CMakeFiles/autoware_map_msgs__rosidl_typesupport_fastrtps_c.dir/all] Interrupt
+[1.018s] gmake[1]: *** wait: No child processes.  Stop.
+[1.018s] gmake[1]: *** Waiting for unfinished jobs....
+[1.018s] gmake[1]: *** wait: No child processes.  Stop.
+[1.018s] gmake: *** [Makefile:146: all] Error 2

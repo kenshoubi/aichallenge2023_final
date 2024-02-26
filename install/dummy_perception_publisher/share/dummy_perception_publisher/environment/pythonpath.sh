@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/dummy_perception_publisher/ament_cmake_environment_hooks/pythonpath.sh

@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/tier4_system_msgs/rosidl_cmake/srv/ChangeOperationMode_Response.msg

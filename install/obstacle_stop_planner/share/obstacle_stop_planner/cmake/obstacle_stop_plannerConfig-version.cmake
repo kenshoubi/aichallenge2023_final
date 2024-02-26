@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/obstacle_stop_planner/ament_cmake_core/obstacle_stop_plannerConfig-version.cmake

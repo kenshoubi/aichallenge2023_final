@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/rtc_auto_mode_manager/include/rtc_auto_mode_manager/rtc_auto_mode_manager_interface.hpp

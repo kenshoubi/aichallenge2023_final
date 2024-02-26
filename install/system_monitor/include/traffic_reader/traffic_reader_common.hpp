@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/system/system_monitor/include/traffic_reader/traffic_reader_common.hpp

@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_perception_rviz_plugin/ament_cmake_core/autoware_auto_perception_rviz_pluginConfig-version.cmake

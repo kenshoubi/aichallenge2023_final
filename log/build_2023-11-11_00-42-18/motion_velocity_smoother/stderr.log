@@ -1,0 +1,7 @@
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/motion_velocity_smoother/src/motion_velocity_smoother_node.cpp:[m[K In member function ‘[01m[Kvoid motion_velocity_smoother::MotionVelocitySmootherNode::onCurrentTrajectory(autoware_auto_planning_msgs::msg::Trajectory_<std::allocator<void> >::ConstSharedPtr)[m[K’:
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/motion_velocity_smoother/src/motion_velocity_smoother_node.cpp:450:70:[m[K [01;31m[Kerror: [m[K‘[01m[K__gnu_cxx::__alloc_traits<std::allocator<autoware_auto_planning_msgs::msg::TrajectoryPoint_<std::allocator<void> > >, autoware_auto_planning_msgs::msg::TrajectoryPoint_<std::allocator<void> > >::value_type[m[K’ {aka ‘[01m[Kstruct autoware_auto_planning_msgs::msg::TrajectoryPoint_<std::allocator<void> >[m[K’} has no member named ‘[01m[Kcurvature[m[K’
+  450 |     curvature = std::max(curvature, std::fabs(output_resampled.at(i).[01;31m[Kcurvature[m[K));
+      |                                                                      [01;31m[K^~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/motion_velocity_smoother_node.dir/build.make:76: CMakeFiles/motion_velocity_smoother_node.dir/src/motion_velocity_smoother_node.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:206: CMakeFiles/motion_velocity_smoother_node.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

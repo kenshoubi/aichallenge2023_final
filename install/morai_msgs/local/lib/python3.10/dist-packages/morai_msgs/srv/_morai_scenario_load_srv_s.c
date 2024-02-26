@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/morai_msgs/rosidl_generator_py/morai_msgs/srv/_morai_scenario_load_srv_s.c

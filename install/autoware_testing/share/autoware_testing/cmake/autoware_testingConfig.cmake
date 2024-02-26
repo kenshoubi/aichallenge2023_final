@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_testing/ament_cmake_core/autoware_testingConfig.cmake

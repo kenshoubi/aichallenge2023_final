@@ -1,0 +1,35 @@
+[0.162s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/vls_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/sensor_component_description/vls_description -DCMAKE_BUILD_TYPE=Releasecdccd ../ -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/vls_description
+[1.056s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[1.056s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.056s] -- Configuring done
+[1.056s] -- Generating done
+[1.056s] -- Build files have been written to: /home/autoware/aichallenge2023-integration-final-main/build/vls_description
+[1.102s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/vls_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake /home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/sensor_component_description/vls_description -DCMAKE_BUILD_TYPE=Releasecdccd ../ -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/autoware/aichallenge2023-integration-final-main/install/vls_description
+[1.103s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/vls_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/vls_description -- -j16 -l16
+[1.516s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/vls_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --build /home/autoware/aichallenge2023-integration-final-main/build/vls_description -- -j16 -l16
+[2.595s] Invoking command in '/home/autoware/aichallenge2023-integration-final-main/build/vls_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/vls_description
+[2.647s] -- Install configuration: "Releasecdccd"
+[2.648s] -- Execute custom install script
+[2.651s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/urdf/VLS-128.urdf.xacro
+[2.652s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/meshes/VLS128_base_1.dae
+[2.653s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/meshes/VLS128_base_1.stl
+[2.654s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/meshes/VLS128_base_2.dae
+[2.655s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/meshes/VLS128_base_2.stl
+[2.656s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/meshes/VLS128_scan.dae
+[2.657s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/meshes/VLS128_scan.stl
+[2.659s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/ament_index/resource_index/package_run_dependencies/vls_description
+[2.660s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/ament_index/resource_index/parent_prefix_path/vls_description
+[2.662s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/environment/ament_prefix_path.sh
+[2.662s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/environment/ament_prefix_path.dsv
+[2.666s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/environment/path.sh
+[2.666s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/environment/path.dsv
+[2.668s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/local_setup.bash
+[2.669s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/local_setup.sh
+[2.670s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/local_setup.zsh
+[2.671s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/local_setup.dsv
+[2.672s] -- Symlinking: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/package.dsv
+[2.759s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/ament_index/resource_index/packages/vls_description
+[2.759s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/cmake/vls_descriptionConfig.cmake
+[2.759s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/cmake/vls_descriptionConfig-version.cmake
+[2.759s] -- Up-to-date symlink: /home/autoware/aichallenge2023-integration-final-main/install/vls_description/share/vls_description/package.xml
+[2.801s] Invoked command in '/home/autoware/aichallenge2023-integration-final-main/build/vls_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autoware/autoware/install/simulator_compatibility_test:/home/autoware/autoware/install/ad_api_visualizers:/opt/ros/humble /usr/bin/cmake --install /home/autoware/aichallenge2023-integration-final-main/build/vls_description

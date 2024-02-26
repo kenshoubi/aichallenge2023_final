@@ -1,0 +1,4 @@
+source;share/aip_aichallenge_launch/local_setup.bash
+source;share/aip_aichallenge_launch/local_setup.dsv
+source;share/aip_aichallenge_launch/local_setup.sh
+source;share/aip_aichallenge_launch/local_setup.zsh

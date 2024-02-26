@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_external_api_msgs/rosidl_typesupport_fastrtps_c/autoware_external_api_msgs/srv/detail/get_version__rosidl_typesupport_fastrtps_c.h

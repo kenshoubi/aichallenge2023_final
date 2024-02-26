@@ -1,0 +1,4 @@
+[ 10%] Built target motion_velocity_smoother
+[ 35%] Built target gmock_main
+[ 35%] Built target gmock
+[ 40%] [32mBuilding CXX object CMakeFiles/smoother.dir/src/smoother/smoother_base.cpp.o[0m

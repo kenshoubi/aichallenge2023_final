@@ -1,0 +1,40 @@
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/src/conversions/interpolate.cc:[m[K In member function ‘[01m[Kvoid velodyne_pointcloud::Interpolate::processPoints(sensor_msgs::msg::PointCloud2_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/src/conversions/interpolate.cc:109:25:[m[K [01;31m[Kerror: [m[K‘[01m[Kusing Ptr = class std::shared_ptr<pcl::PointCloud<velodyne_pointcloud::PointXYZIRADT> >[m[K’ {aka ‘[01m[Kclass std::shared_ptr<pcl::PointCloud<velodyne_pointcloud::PointXYZIRADT> >[m[K’} has no member named ‘[01m[Kheader[m[K’
+  109 |   noise_filtered_points.[01;31m[Kheader[m[K = points_xyziradt->header;
+      |                         [01;31m[K^~~~~~[m[K
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/src/conversions/interpolate.cc:110:25:[m[K [01;31m[Kerror: [m[K‘[01m[Kusing Ptr = class std::shared_ptr<pcl::PointCloud<velodyne_pointcloud::PointXYZIRADT> >[m[K’ {aka ‘[01m[Kclass std::shared_ptr<pcl::PointCloud<velodyne_pointcloud::PointXYZIRADT> >[m[K’} has no member named ‘[01m[Kreserve[m[K’; did you mean ‘[01m[Kreset[m[K’?
+  110 |   noise_filtered_points.[01;31m[Kreserve[m[K(points_xyziradt->size());
+      |                         [01;31m[K^~~~~~~[m[K
+      |                         [32m[Kreset[m[K
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/src/conversions/interpolate.cc:121:29:[m[K [01;31m[Kerror: [m[K‘[01m[Kusing Ptr = class std::shared_ptr<pcl::PointCloud<velodyne_pointcloud::PointXYZIRADT> >[m[K’ {aka ‘[01m[Kclass std::shared_ptr<pcl::PointCloud<velodyne_pointcloud::PointXYZIRADT> >[m[K’} has no member named ‘[01m[Kpush_back[m[K’
+  121 |       noise_filtered_points.[01;31m[Kpush_back[m[K(point);
+      |                             [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/src/conversions/interpolate.cc:132:18:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[KtoROSMsg(pcl::PointCloud<velodyne_pointcloud::PointXYZIRADT>::Ptr&, sensor_msgs::msg::PointCloud2_<std::allocator<void> >&)[m[K’
+  132 |     [01;31m[Kpcl::toROSMsg(noise_filtered_points, *ros_pc_msg_ptr)[m[K;
+      |     [01;31m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/src/conversions/interpolate.cc:12[m[K:
+[01m[K/opt/ros/humble/include/pcl_conversions/pcl_conversions.h:526:3:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class T> void pcl::toROSMsg(const pcl::PointCloud<PointT>&, sensor_msgs::msg::Image&)[m[K’
+  526 |   [01;36m[KtoROSMsg[m[K (const pcl::PointCloud<T> &cloud, sensor_msgs::msg::Image& msg)
+      |   [01;36m[K^~~~~~~~[m[K
+[01m[K/opt/ros/humble/include/pcl_conversions/pcl_conversions.h:526:3:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/src/conversions/interpolate.cc:132:18:[m[K [01;36m[Knote: [m[K  ‘[01m[Kpcl::PointCloud<velodyne_pointcloud::PointXYZIRADT>::Ptr[m[K’ {aka ‘[01m[Kstd::shared_ptr<pcl::PointCloud<velodyne_pointcloud::PointXYZIRADT> >[m[K’} is not derived from ‘[01m[Kconst pcl::PointCloud<PointT>[m[K’
+  132 |     [01;36m[Kpcl::toROSMsg(noise_filtered_points, *ros_pc_msg_ptr)[m[K;
+      |     [01;36m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/src/conversions/interpolate.cc:12[m[K:
+[01m[K/opt/ros/humble/include/pcl_conversions/pcl_conversions.h:558:8:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class T> void pcl::toROSMsg(const pcl::PointCloud<PointT>&, sensor_msgs::msg::PointCloud2&)[m[K’
+  558 |   void [01;36m[KtoROSMsg[m[K(const pcl::PointCloud<T> &pcl_cloud, sensor_msgs::msg::PointCloud2 &cloud)
+      |        [01;36m[K^~~~~~~~[m[K
+[01m[K/opt/ros/humble/include/pcl_conversions/pcl_conversions.h:558:8:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/src/conversions/interpolate.cc:132:18:[m[K [01;36m[Knote: [m[K  ‘[01m[Kpcl::PointCloud<velodyne_pointcloud::PointXYZIRADT>::Ptr[m[K’ {aka ‘[01m[Kstd::shared_ptr<pcl::PointCloud<velodyne_pointcloud::PointXYZIRADT> >[m[K’} is not derived from ‘[01m[Kconst pcl::PointCloud<PointT>[m[K’
+  132 |     [01;36m[Kpcl::toROSMsg(noise_filtered_points, *ros_pc_msg_ptr)[m[K;
+      |     [01;36m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/autoware/aichallenge2023-integration-final-main/src/sensor_component/external/velodyne_vls/velodyne_pointcloud/src/conversions/interpolate.cc:12[m[K:
+[01m[K/opt/ros/humble/include/pcl_conversions/pcl_conversions.h:506:8:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kvoid pcl::toROSMsg(const PointCloud2&, sensor_msgs::msg::Image&)[m[K’
+  506 |   void [01;36m[KtoROSMsg[m[K(const sensor_msgs::msg::PointCloud2 &cloud, sensor_msgs::msg::Image &image)
+      |        [01;36m[K^~~~~~~~[m[K
+[01m[K/opt/ros/humble/include/pcl_conversions/pcl_conversions.h:506:54:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from ‘[01m[Kpcl::PointCloud<velodyne_pointcloud::PointXYZIRADT>::Ptr[m[K’ {aka ‘[01m[Kstd::shared_ptr<pcl::PointCloud<velodyne_pointcloud::PointXYZIRADT> >[m[K’} to ‘[01m[Kconst PointCloud2&[m[K’ {aka ‘[01m[Kconst sensor_msgs::msg::PointCloud2_<std::allocator<void> >&[m[K’}
+  506 |   void toROSMsg([01;36m[Kconst sensor_msgs::msg::PointCloud2 &cloud[m[K, sensor_msgs::msg::Image &image)
+      |                 [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~[m[K
+gmake[2]: *** [CMakeFiles/interpolate_nodelet.dir/build.make:76: CMakeFiles/interpolate_nodelet.dir/src/conversions/interpolate.cc.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:228: CMakeFiles/interpolate_nodelet.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

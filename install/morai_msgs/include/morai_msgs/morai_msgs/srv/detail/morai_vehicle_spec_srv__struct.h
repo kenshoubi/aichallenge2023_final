@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/morai_msgs/rosidl_generator_c/morai_msgs/srv/detail/morai_vehicle_spec_srv__struct.h

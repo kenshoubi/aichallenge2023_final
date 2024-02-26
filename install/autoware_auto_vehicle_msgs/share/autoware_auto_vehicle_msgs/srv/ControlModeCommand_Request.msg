@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/autoware_auto_vehicle_msgs/rosidl_cmake/srv/ControlModeCommand_Request.msg

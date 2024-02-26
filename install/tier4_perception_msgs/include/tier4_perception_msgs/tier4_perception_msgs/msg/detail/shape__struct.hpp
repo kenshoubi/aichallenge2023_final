@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/tier4_perception_msgs/rosidl_generator_cpp/tier4_perception_msgs/msg/detail/shape__struct.hpp

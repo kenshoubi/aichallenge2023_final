@@ -1,0 +1,4 @@
+gmake[2]: *** Deleting file 'librrtstar_core.so'
+gmake[2]: *** [CMakeFiles/rrtstar_core.dir/build.make:523: librrtstar_core.so] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:189: CMakeFiles/rrtstar_core.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt

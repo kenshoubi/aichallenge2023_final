@@ -1,0 +1,16 @@
+/home/autoware/aichallenge2023-integration-final-main/install/tier4_system_launch/share/tier4_system_launch/launch/system.launch.xml
+/home/autoware/aichallenge2023-integration-final-main/install/tier4_system_launch/share/ament_index/resource_index/package_run_dependencies/tier4_system_launch
+/home/autoware/aichallenge2023-integration-final-main/install/tier4_system_launch/share/ament_index/resource_index/parent_prefix_path/tier4_system_launch
+/home/autoware/aichallenge2023-integration-final-main/install/tier4_system_launch/share/tier4_system_launch/environment/ament_prefix_path.sh
+/home/autoware/aichallenge2023-integration-final-main/install/tier4_system_launch/share/tier4_system_launch/environment/ament_prefix_path.dsv
+/home/autoware/aichallenge2023-integration-final-main/install/tier4_system_launch/share/tier4_system_launch/environment/path.sh
+/home/autoware/aichallenge2023-integration-final-main/install/tier4_system_launch/share/tier4_system_launch/environment/path.dsv
+/home/autoware/aichallenge2023-integration-final-main/install/tier4_system_launch/share/tier4_system_launch/local_setup.bash
+/home/autoware/aichallenge2023-integration-final-main/install/tier4_system_launch/share/tier4_system_launch/local_setup.sh
+/home/autoware/aichallenge2023-integration-final-main/install/tier4_system_launch/share/tier4_system_launch/local_setup.zsh
+/home/autoware/aichallenge2023-integration-final-main/install/tier4_system_launch/share/tier4_system_launch/local_setup.dsv
+/home/autoware/aichallenge2023-integration-final-main/install/tier4_system_launch/share/tier4_system_launch/package.dsv
+/home/autoware/aichallenge2023-integration-final-main/install/tier4_system_launch/share/ament_index/resource_index/packages/tier4_system_launch
+/home/autoware/aichallenge2023-integration-final-main/install/tier4_system_launch/share/tier4_system_launch/cmake/tier4_system_launchConfig.cmake
+/home/autoware/aichallenge2023-integration-final-main/install/tier4_system_launch/share/tier4_system_launch/cmake/tier4_system_launchConfig-version.cmake
+/home/autoware/aichallenge2023-integration-final-main/install/tier4_system_launch/share/tier4_system_launch/package.xml

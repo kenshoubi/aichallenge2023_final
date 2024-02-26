@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/build/tier4_localization_msgs/rosidl_generator_c/tier4_localization_msgs/srv/detail/pose_with_covariance_stamped__struct.h

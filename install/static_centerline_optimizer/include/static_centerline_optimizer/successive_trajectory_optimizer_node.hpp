@@ -1,0 +1,1 @@
+/home/autoware/aichallenge2023-integration-final-main/src/universe/autoware.universe/planning/static_centerline_optimizer/include/static_centerline_optimizer/successive_trajectory_optimizer_node.hpp

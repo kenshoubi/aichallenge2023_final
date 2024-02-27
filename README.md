@@ -3,13 +3,10 @@
 # 走行結果
 [自動運転AIチャレンジ インテグレーション 2023 の競技内容](https://www.jsae.or.jp/jaaic/2023ver/contest/)
 
+[シミュレータ上でのコースの走行結果(動画)
+](https://youtube.com/shorts/aXlgOfpKrpw?feature=share)
 
-シミュレータ上でのAコースの走行結果(動画)
-[決勝競技A](https://www.youtube.com/watch?v=AL5CY8vMzCg)
-
-シミュレータ上でのBコースの走行結果(動画)
-[決勝競技B](https://www.youtube.com/watch?v=Xl8wEpXUFcY)
-
+[実際の走行結果(動画)](https://www.youtube.com/watch?v=OXVNzzWvq7g)
 
 # Autoware (Architecture Proposal)
 
